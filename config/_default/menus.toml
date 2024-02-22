@@ -17,6 +17,18 @@
   identifier = "about"
 
 [[main]]
+  name = "Objectives"
+  pageRef = "about/objectives"
+  weight = 5
+  parent = "about"
+
+[[main]]
+  name = "Consortium"
+  pageRef = "about/consortium"
+  weight = 7
+  parent = "about"
+
+[[main]]
   name = "Workpackage Overview"
   pageRef = "/workpackages"
   weight = 10

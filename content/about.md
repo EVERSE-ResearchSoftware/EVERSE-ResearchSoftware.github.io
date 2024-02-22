@@ -1,7 +1,7 @@
 ---
 draft: false
+title: "About EVERSE"
+weight: 100
 ---
-
-# This is what I think
 
 This is what we do, pal!
