@@ -1,12 +1,6 @@
 ---
 title: "Workpackages"
 draft: false
-menus:
-  main:
-    identifier: workpackages
-    weight: 30
-    parent: About
-    name: "EVERSE Workpackages"
 weight: 100
 ---
 

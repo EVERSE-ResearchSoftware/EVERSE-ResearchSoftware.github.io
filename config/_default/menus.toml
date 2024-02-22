@@ -14,6 +14,56 @@
   name = "About"
   pageRef = "about"
   weight = 10
+  identifier = "about"
+
+[[main]]
+  name = "Workpackage Overview"
+  pageRef = "/workpackages"
+  weight = 10
+  parent = "about"
+  identifer = "workpackages"
+
+[[main]]
+  name = "WP1 - Network"
+  pageRef = "workpackages/01_Framework_European_Network"
+  weight = 110
+  identifer = "WP1"
+  parent = "about"
+
+[[main]]
+  name = "WP2 - Best Practice"
+  pageRef = "workpackages/02_Best_Practices"
+  weight = 120
+  identifer = "WP2"
+  parent = "about"
+
+[[main]]
+  name = "WP3 - Tools and Services"
+  pageRef = "workpackages/03_Tools_and_Services"
+  weight = 130
+  identifer = "WP3"
+  parent = "about"
+
+[[main]]
+  name = "WP4 - Pilots and Drivers"
+  pageRef = "workpackages/04_Pilots_and_Drivers"
+  weight = 140
+  identifer = "WP4"
+  parent = "about"
+
+[[main]]
+  name = "WP5 - Capacity and Recognition"
+  pageRef = "workpackages/05_Capacity_and_Recognition"
+  weight = 150
+  identifer = "WP5"
+  parent = "about"
+
+[[main]]
+  name = "WP6 - Project Management"
+  pageRef = "workpackages/06_Project_Management"
+  weight = 160
+  identifer = "WP6"
+  parent = "about"
 
 #[[main]]
 #  name = "Parent"
