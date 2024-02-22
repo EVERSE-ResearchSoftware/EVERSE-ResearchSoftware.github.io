@@ -12,55 +12,58 @@
 
 main:
   - name: About
-    pageRef: about
     weight: 10
-    identifier: about
   - name: Objectives
     pageRef: about/objectives
     weight: 10
-    parent: about
+    parent: About
   - name: Consortium
     pageRef: about/consortium
     weight: 20
-    parent: about
+    parent: About
+
   - name: Workpackage Overview
     pageRef: /workpackages
     weight: 100
-    parent: about
+    parent: About
     identifer: workpackages
   - name: WP1 - Network
     pageRef: workpackages/01_Framework_European_Network
     weight: 110
     identifer: WP1
-    parent: about
+    parent: About
   - name: WP2 - Best Practice
     pageRef: workpackages/02_Best_Practices
     weight: 120
     identifer: WP2
-    parent: about
+    parent: About
   - name: WP3 - Tools and Services
     pageRef: workpackages/03_Tools_and_Services
     weight: 130
     identifer: WP3
-    parent: about
+    parent: About
   - name: WP4 - Pilots and Drivers
     pageRef: workpackages/04_Pilots_and_Drivers
     weight: 140
     identifer: WP4
-    parent: about
+    parent: About
   - name: WP5 - Capacity and Recognition
     pageRef: workpackages/05_Capacity_and_Recognition
     weight: 150
     identifer: WP5
-    parent: about
+    parent: About
   - name: WP6 - Project Management
     pageRef: workpackages/06_Project_Management
     weight: 160
     identifer: WP6
-    parent: about
+    parent: About
+
   - name: News
     weight: 20
     pageRef: news
+
+  - name: Services
+    weight: 60
   - name: RSQkit
     weight: 10
     pageRef: services/RSQkit
@@ -69,6 +72,10 @@ main:
     weight: 20
     pageRef: services/SMP
     parent: Services
+
+
+  - name: Training
+    weight: 80
   - name: Training Events
     weight: 10
     pageRef: training/events
@@ -81,3 +88,40 @@ main:
     weight: 30
     pageRef: training/recognition
     parent: Training
+
+  - name: Resources
+    weight: 100
+  - name: Deliverables and Milestones
+    weight: 10
+    pageRef: resources/deliverables_milestones
+    parent: Resources
+  - name: Presentations
+    weight: 20
+    pageRef: resources/presentations
+    parent: Resources
+  - name: Visual Identity
+    weight: 30
+    pageRef: resources/visual_identity
+    parent: Resources
+  - name: Zotero and Zenodo
+    weight: 40
+    pageRef: resources/zetoro_zenodo
+    parent: Resources
+
+  - name: Network
+    weight: 120
+  - name: Communities
+    weight: 10
+    pageRef: network/communities
+    parent: Network
+  - name: Competence Centres
+    weight: 10
+    pageRef: network/competence_centres
+    parent: Network
+  
+  - name: Participate
+    weight: 140
+  - name: How to Join
+    pageRef: participate/how_to_join
+    weight: 10
+    parent: Participate
