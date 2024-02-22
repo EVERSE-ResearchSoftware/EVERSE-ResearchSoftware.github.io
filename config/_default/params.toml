@@ -34,7 +34,7 @@ logo = "/images/everse-logo-white-bg.png"
   showMenu = true
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
