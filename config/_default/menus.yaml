@@ -115,7 +115,7 @@ main:
     pageRef: network/communities
     parent: Network
   - name: Competence Centres
-    weight: 10
+    weight: 20
     pageRef: network/competence_centres
     parent: Network
   
