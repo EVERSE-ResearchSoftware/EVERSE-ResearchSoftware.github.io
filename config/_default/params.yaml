@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme: blowfish
+colorScheme: neon
 defaultAppearance: light
 autoSwitchAppearance: true
 

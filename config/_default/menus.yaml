@@ -143,4 +143,7 @@ footer:
     url: https://linkedin.com/in/username
     pre: linkedin
     weight: 140
-
+  - name: Zenodo
+    url: https://zenodo.org/
+    pre: zenodo
+    weight: 150

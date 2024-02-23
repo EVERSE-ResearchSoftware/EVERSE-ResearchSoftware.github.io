@@ -8,6 +8,8 @@ weight: 10
 
 ![EVERSE Logo](/images/everse-logo-white-bg.png)
 
+## *Software for the Communities by the Communities*
+
 The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**.
 
 {{< carousel images="{/images/background/light-squid.jpg,/images/background/code-glow-smoke.jpg,/images/background/tech-data.jpg}" interval=1000 >}}
