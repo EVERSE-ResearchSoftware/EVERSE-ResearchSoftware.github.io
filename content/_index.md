@@ -6,7 +6,7 @@ draft: false
 weight: 10
 ---
 
-![EVERSE Logo](/images/everse-logo-white-bg.png)
+{{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" >}}
 
 ## *Software for the Communities by the Communities*
 

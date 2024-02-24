@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme: neon
+colorScheme: everse
 defaultAppearance: light
 autoSwitchAppearance: true
 
@@ -17,6 +17,7 @@ enableCodeCopy: true
 
 disableImageOptimization: false
 disableTextInHeader: false
+disableImageZoom: true
 
 # defaultBackgroundImage: "IMAGE.jpg" # used as default for background images 
 # defaultFeaturedImage: "IMAGE.jpg" # used as default for featured images in all articles
@@ -28,7 +29,7 @@ disableTextInHeader: false
 logo: /images/everse-logo-white-bg.png
 
 header:
-  layout: basic # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 footer:
   showMenu: true
