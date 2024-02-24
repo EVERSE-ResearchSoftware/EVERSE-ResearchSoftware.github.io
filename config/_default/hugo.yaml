@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme: blowfish
-baseURL: https://everse-web-demo.github.io/
+baseURL: https://everse.software/
 defaultContentLanguage: en
 
 enableRobotsTXT: true
