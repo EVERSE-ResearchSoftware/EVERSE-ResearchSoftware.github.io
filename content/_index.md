@@ -6,7 +6,15 @@ draft: false
 weight: 10
 ---
 
-{{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" >}}
+{{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" class="justify-center" >}}
+
+{{< flex-content >}}
+This is one thing
+<--->
+This is another
+<--->
+This is yet another
+{{< /flex-content >}}
 
 ## *Software for the Communities by the Communities*
 
@@ -35,14 +43,14 @@ EVERSE ultimate ambition is to contribute towards a cultural change where resear
 
 EVERSE is coordinated by the [Centre for Research and Technology hellas (CERTH)](https://www.certh.gr). EVERSE will be interfacing with the [EOSC science clusters](https://eosc-portal.eu/esfri-thematic-cluster-projects) and their emerging use cases:
 
-{{< figure src="/images/logos/science-clusters_0.png" alt="Science Cluster Organisation Logo" >}}
-
+{{< flex-content >}}
 - [ENVRI-FAIR](https://envri.eu/home-envri-fair/): Essential Climate Variables
 - [EOSC-Life](https://www.eosc-life.eu/): The Workflow Execution Service backend with RO-Crate
 - [ESCAPE](https://projectescape.eu/): Particle physics and astrophysics in the Dark Matter Science Project
 - [PaNOSC](https://www.panosc.eu/): Photon and neutron science through LEAPS/LENS
 - [SSHOC](https://sshopencloud.eu/): UDPipe language processing suite
-
-<!-- ![EVERSE Science Clusters](/images/EOSC-EVERSE.png) -->
+<--->
+{{< figure src="/images/logos/science-clusters_0.png" alt="Science Cluster Organisation Logo" >}}
+{{< /flex-content >}}
 
 {{< figure src="/images/EOSC-EVERSE.png" alt="Software Engineer with the 5 Science Cluster Logos" >}}
