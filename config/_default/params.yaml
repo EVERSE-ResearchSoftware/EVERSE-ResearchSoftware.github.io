@@ -6,8 +6,11 @@
 # https://blowfish.page/docs/configuration/#theme-parameters
 
 colorScheme: everse
+
+# Keep appearance in "light" mode only
+# (If we want also dark mode, we need images that work in both modes, i.e., no white backgrounds!)
 defaultAppearance: light
-autoSwitchAppearance: true
+autoSwitchAppearance: false
 
 enableSearch: true
 enableCodeCopy: true
@@ -35,7 +38,7 @@ footer:
   showMenu: true
   showCopyright: true
   showThemeAttribution: true
-  showAppearanceSwitcher: true
+  showAppearanceSwitcher: false
   showScrollToTop: true
 
 homepage:

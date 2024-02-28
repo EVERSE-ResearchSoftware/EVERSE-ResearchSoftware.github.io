@@ -135,10 +135,14 @@ footer:
     url: https://mastodon.instance/@username
     pre: mastodon
     weight: 110
+  - name: X-Twitter
+    url: https://twitter.com/
+    pre: x-twitter
+    weight: 120
   - name: Email
     url: mailto:everse@everse.software
     pre: email
-    weight: 120
+    weight: 130
   - name: LinkedIn
     url: https://linkedin.com/in/username
     pre: linkedin
