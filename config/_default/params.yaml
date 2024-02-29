@@ -18,7 +18,7 @@ enableCodeCopy: true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization: false
+disableImageOptimization: true
 disableTextInHeader: false
 disableImageZoom: true
 
@@ -29,7 +29,7 @@ disableImageZoom: true
 # smartTOC: true
 # smartTOCHideUnfocusedChildren: true
 
-logo: /images/everse-logo-white-bg.png
+logo: images/logos/EOSCEverse_PosColour.svg
 
 header:
   layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur

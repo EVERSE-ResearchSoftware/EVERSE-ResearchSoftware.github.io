@@ -11,6 +11,8 @@
 # ordered by weight from lowest to highest.
 
 main:
+
+  # About tab
   - name: About
     weight: 10
   - name: Objectives
@@ -21,49 +23,45 @@ main:
     pageRef: about/consortium
     weight: 20
     parent: About
-
   - name: Workpackage Overview
     pageRef: /workpackages
-    weight: 100
+    weight: 30
     parent: About
     identifer: workpackages
   - name: WP1 - Network
     pageRef: workpackages/01_Framework_European_Network
-    weight: 110
+    weight: 40
     identifer: WP1
     parent: About
   - name: WP2 - Best Practice
     pageRef: workpackages/02_Best_Practices
-    weight: 120
+    weight: 50
     identifer: WP2
     parent: About
   - name: WP3 - Tools and Services
     pageRef: workpackages/03_Tools_and_Services
-    weight: 130
+    weight: 60
     identifer: WP3
     parent: About
   - name: WP4 - Pilots and Drivers
     pageRef: workpackages/04_Pilots_and_Drivers
-    weight: 140
+    weight: 70
     identifer: WP4
     parent: About
   - name: WP5 - Capacity and Recognition
     pageRef: workpackages/05_Capacity_and_Recognition
-    weight: 150
+    weight: 80
     identifer: WP5
     parent: About
   - name: WP6 - Project Management
     pageRef: workpackages/06_Project_Management
-    weight: 160
+    weight: 90
     identifer: WP6
     parent: About
 
-  - name: News
-    weight: 20
-    pageRef: news
-
+  # Services tab
   - name: Services
-    weight: 60
+    weight: 20
   - name: RSQkit
     weight: 10
     pageRef: services/RSQkit
@@ -73,9 +71,9 @@ main:
     pageRef: services/SMP
     parent: Services
 
-
+  # Training tab
   - name: Training
-    weight: 80
+    weight: 30
   - name: Training Events
     weight: 10
     pageRef: training/events
@@ -89,8 +87,9 @@ main:
     pageRef: training/recognition
     parent: Training
 
+  # Resources tab
   - name: Resources
-    weight: 100
+    weight: 40
   - name: Deliverables and Milestones
     weight: 10
     pageRef: resources/deliverables_milestones
@@ -108,8 +107,9 @@ main:
     pageRef: resources/zetoro_zenodo
     parent: Resources
 
+  # Network tab
   - name: Network
-    weight: 120
+    weight: 50
   - name: Communities
     weight: 10
     pageRef: network/communities
@@ -119,35 +119,42 @@ main:
     pageRef: network/competence_centres
     parent: Network
   
+  # Participate tab
   - name: Participate
-    weight: 140
+    weight: 60
   - name: How to Join
     pageRef: participate/how_to_join
     weight: 10
     parent: Participate
 
+  # News tab
+  - name: News
+    weight: 70
+    pageRef: news
+
+
 footer:
+  - name: Email
+    url: mailto:everse-request@lists.certh.gr
+    pre: email
+    weight: 100
   - name: GitHub
     url: https://github.com/EVERSE-ResearchSoftware
     pre: github
-    weight: 100
-  - name: Mastodon
-    url: https://mastodon.instance/@username
-    pre: mastodon
     weight: 110
-  - name: X-Twitter
-    url: https://twitter.com/
-    pre: x-twitter
-    weight: 120
-  - name: Email
-    url: mailto:everse@everse.software
-    pre: email
-    weight: 130
   - name: LinkedIn
-    url: https://linkedin.com/in/username
+    url: https://www.linkedin.com/company/eosc-everse
     pre: linkedin
-    weight: 140
+    weight: 120
+  # - name: Mastodon
+  #   url: https://mastodon.instance/@username
+  #   pre: mastodon
+  #   weight: 110
+  - name: X-Twitter
+    url: https://twitter.com/eosc_everse
+    pre: x-twitter
+    weight: 130
   - name: Zenodo
-    url: https://zenodo.org/
+    url: https://zenodo.org/communities/everse
     pre: zenodo
-    weight: 150
+    weight: 140
