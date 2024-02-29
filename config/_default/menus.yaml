@@ -66,10 +66,10 @@ main:
     weight: 10
     pageRef: services/RSQkit
     parent: Services
-  - name: SMP
-    weight: 20
-    pageRef: services/SMP
-    parent: Services
+  # - name: SMP
+  #   weight: 20
+  #   pageRef: services/SMP
+  #   parent: Services
 
   # Training tab
   - name: Training
@@ -78,22 +78,22 @@ main:
     weight: 10
     pageRef: training/events
     parent: Training
-  - name: Training Materials
-    weight: 20
-    pageRef: training/material
-    parent: Training
-  - name: Recognition
-    weight: 30
-    pageRef: training/recognition
-    parent: Training
+  # - name: Training Materials
+  #   weight: 20
+  #   pageRef: training/material
+  #   parent: Training
+  # - name: Recognition
+  #   weight: 30
+  #   pageRef: training/recognition
+  #   parent: Training
 
   # Resources tab
   - name: Resources
     weight: 40
-  - name: Deliverables and Milestones
-    weight: 10
-    pageRef: resources/deliverables_milestones
-    parent: Resources
+  # - name: Deliverables and Milestones
+  #   weight: 10
+  #   pageRef: resources/deliverables_milestones
+  #   parent: Resources
   - name: Presentations
     weight: 20
     pageRef: resources/presentations
@@ -102,22 +102,26 @@ main:
     weight: 30
     pageRef: resources/visual_identity
     parent: Resources
-  - name: Zotero and Zenodo
-    weight: 40
-    pageRef: resources/zetoro_zenodo
+  - name: Promotions
+    weight: 35
+    pageRef: resources/promotion
     parent: Resources
+  # - name: Zotero and Zenodo
+  #   weight: 40
+  #   pageRef: resources/zetoro_zenodo
+  #   parent: Resources
 
   # Network tab
-  - name: Network
-    weight: 50
-  - name: Communities
-    weight: 10
-    pageRef: network/communities
-    parent: Network
-  - name: Competence Centres
-    weight: 20
-    pageRef: network/competence_centres
-    parent: Network
+  # - name: Network
+  #   weight: 50
+  # - name: Communities
+  #   weight: 10
+  #   pageRef: network/communities
+  #   parent: Network
+  # - name: Competence Centres
+  #   weight: 20
+  #   pageRef: network/competence_centres
+  #   parent: Network
   
   # Participate tab
   - name: Participate

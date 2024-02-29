@@ -1,8 +1,8 @@
 ---
 title: SMP
 weight: 900
-draft: false
+draft: true
 display_in_summary: true
 ---
 
-This is SMP
+Placeholder - please add real content (and uncomment this menu item from `menus.yaml`)

@@ -4,4 +4,4 @@ title: "EVERSE Consortium"
 weight: 80
 ---
 
-Consort, consort...
+{{< figure src="/images/logos/EVERSE-Consortium-Logos.png" alt="EVERSE Consortium Logos" >}}

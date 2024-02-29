@@ -18,6 +18,9 @@ enableCodeCopy: true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
+# Image optimisation breaks as we have SVG images
+# The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
+# for other image types
 disableImageOptimization: true
 disableTextInHeader: false
 disableImageZoom: true
