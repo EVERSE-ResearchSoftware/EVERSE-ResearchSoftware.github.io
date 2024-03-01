@@ -7,10 +7,9 @@
 
 colorScheme: everse
 
-# Keep appearance in "light" mode only
-# (If we want also dark mode, we need images that work in both modes, i.e., no white backgrounds!)
+# Allow switching between light and dark modes
 defaultAppearance: light
-autoSwitchAppearance: false
+autoSwitchAppearance: true
 
 enableSearch: true
 enableCodeCopy: true
@@ -41,7 +40,7 @@ footer:
   showMenu: true
   showCopyright: true
   showThemeAttribution: true
-  showAppearanceSwitcher: false
+  showAppearanceSwitcher: true
   showScrollToTop: true
 
 homepage:

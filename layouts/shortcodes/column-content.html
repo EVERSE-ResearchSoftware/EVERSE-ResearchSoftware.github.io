@@ -1,6 +1,6 @@
-<div class="flex flex flex-row justify-evenly ">
+<div class="flex flex-row justify-evenly ">
     {{- range split .Inner "<--->" }}
-      <div>
+      <div class="px-8">
         {{ if strings.Contains . "<figure >" }}
           {{ . | safeHTML -}}
         {{ else }}
