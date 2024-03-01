@@ -19,7 +19,7 @@ The **EVERSE** project aims to create a framework for research software and code
 
 EVERSE ultimate ambition is to contribute towards a cultural change where research software is recognized as a first-class citizen of the scientific process and the people that contribute to it are credited for their efforts.
 
-EVERSE is coordinated by the [Centre for Research and Technology hellas (CERTH)](https://www.certh.gr). EVERSE will be interfacing with the [EOSC science clusters](https://eosc-portal.eu/esfri-thematic-cluster-projects) and their emerging use cases:
+EVERSE is coordinated by the [Centre for Research and Technology hellas (CERTH)](https://www.certh.gr) and the [Barcelona Supercomputing Center (BSC)](https://www.bsc.es/). EVERSE will be interfacing with the [EOSC science clusters](https://eosc-portal.eu/esfri-thematic-cluster-projects) and their emerging use cases:
 - [ENVRI-FAIR](https://envri.eu/home-envri-fair/): Essential Climate Variables
 - [EOSC-Life](https://www.eosc-life.eu/): The Workflow Execution Service backend with RO-Crate
 - [ESCAPE](https://projectescape.eu/): Particle physics and astrophysics in the Dark Matter Science Project
