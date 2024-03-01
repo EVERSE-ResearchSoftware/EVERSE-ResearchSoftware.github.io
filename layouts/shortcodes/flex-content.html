@@ -1,0 +1,11 @@
+<div class="flex justify-evenly">
+  {{- range split .Inner "<--->" }}
+    <div class="px-8">
+      {{ if strings.Contains . "<figure >" }}
+        {{ . | safeHTML -}}
+      {{ else }}
+        {{ . | markdownify | safeHTML -}}
+      {{ end }}
+    </div>
+  {{- end }}
+</div>

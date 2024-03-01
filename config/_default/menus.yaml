@@ -1,0 +1,164 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+main:
+
+  # About tab
+  - name: About
+    weight: 10
+  - name: Objectives
+    pageRef: about/objectives
+    weight: 10
+    parent: About
+  - name: Consortium
+    pageRef: about/consortium
+    weight: 20
+    parent: About
+  - name: Workpackage Overview
+    pageRef: /workpackages
+    weight: 30
+    parent: About
+    identifer: workpackages
+  - name: WP1 - Network
+    pageRef: workpackages/01_Framework_European_Network
+    weight: 40
+    identifer: WP1
+    parent: About
+  - name: WP2 - Best Practice
+    pageRef: workpackages/02_Best_Practices
+    weight: 50
+    identifer: WP2
+    parent: About
+  - name: WP3 - Tools and Services
+    pageRef: workpackages/03_Tools_and_Services
+    weight: 60
+    identifer: WP3
+    parent: About
+  - name: WP4 - Pilots and Drivers
+    pageRef: workpackages/04_Pilots_and_Drivers
+    weight: 70
+    identifer: WP4
+    parent: About
+  - name: WP5 - Capacity and Recognition
+    pageRef: workpackages/05_Capacity_and_Recognition
+    weight: 80
+    identifer: WP5
+    parent: About
+  - name: WP6 - Project Management
+    pageRef: workpackages/06_Project_Management
+    weight: 90
+    identifer: WP6
+    parent: About
+
+  # Services tab
+  - name: Services
+    weight: 20
+  - name: RSQkit
+    weight: 10
+    pageRef: services/RSQkit
+    parent: Services
+  # - name: SMP
+  #   weight: 20
+  #   pageRef: services/SMP
+  #   parent: Services
+
+  # Training tab
+  - name: Training
+    weight: 30
+  - name: Training Events
+    weight: 10
+    pageRef: training/events
+    parent: Training
+  # - name: Training Materials
+  #   weight: 20
+  #   pageRef: training/material
+  #   parent: Training
+  # - name: Recognition
+  #   weight: 30
+  #   pageRef: training/recognition
+  #   parent: Training
+
+  # Resources tab
+  - name: Resources
+    weight: 40
+  # - name: Deliverables and Milestones
+  #   weight: 10
+  #   pageRef: resources/deliverables_milestones
+  #   parent: Resources
+  - name: Presentations
+    weight: 20
+    pageRef: resources/presentations
+    parent: Resources
+  - name: Visual Identity
+    weight: 30
+    pageRef: resources/visual_identity
+    parent: Resources
+  - name: Promotions
+    weight: 35
+    pageRef: resources/promotion
+    parent: Resources
+  # - name: Zotero and Zenodo
+  #   weight: 40
+  #   pageRef: resources/zetoro_zenodo
+  #   parent: Resources
+
+  # Network tab
+  # - name: Network
+  #   weight: 50
+  # - name: Communities
+  #   weight: 10
+  #   pageRef: network/communities
+  #   parent: Network
+  # - name: Competence Centres
+  #   weight: 20
+  #   pageRef: network/competence_centres
+  #   parent: Network
+  
+  # Participate tab
+  - name: Participate
+    weight: 60
+  - name: How to Join
+    pageRef: participate/how_to_join
+    weight: 10
+    parent: Participate
+
+  # News tab
+  - name: News
+    weight: 70
+    pageRef: news
+
+
+footer:
+  - name: Email
+    url: mailto:everse-request@lists.certh.gr
+    pre: email
+    weight: 100
+  - name: GitHub
+    url: https://github.com/EVERSE-ResearchSoftware
+    pre: github
+    weight: 110
+  - name: LinkedIn
+    url: https://www.linkedin.com/company/eosc-everse
+    pre: linkedin
+    weight: 120
+  # - name: Mastodon
+  #   url: https://mastodon.instance/@username
+  #   pre: mastodon
+  #   weight: 110
+  - name: X-Twitter
+    url: https://twitter.com/eosc_everse
+    pre: x-twitter
+    weight: 130
+  - name: Zenodo
+    url: https://zenodo.org/communities/everse
+    pre: zenodo
+    weight: 140

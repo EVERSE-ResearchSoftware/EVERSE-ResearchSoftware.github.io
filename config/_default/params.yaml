@@ -1,0 +1,132 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/configuration/#theme-parameters
+
+colorScheme: everse
+
+# Allow switching between light and dark modes
+defaultAppearance: light
+autoSwitchAppearance: true
+
+enableSearch: true
+enableCodeCopy: true
+
+# mainSections = ["section1", "section2"]
+# robots = ""
+
+# Image optimisation breaks as we have SVG images
+# The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
+# for other image types
+disableImageOptimization: true
+disableTextInHeader: false
+disableImageZoom: true
+
+# defaultBackgroundImage: "IMAGE.jpg" # used as default for background images 
+# defaultFeaturedImage: "IMAGE.jpg" # used as default for featured images in all articles
+
+# highlightCurrentMenuArea: true
+# smartTOC: true
+# smartTOCHideUnfocusedChildren: true
+
+logo: images/logos/EOSCEverse_PosColour.svg
+
+header:
+  layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+
+footer:
+  showMenu: true
+  showCopyright: true
+  showThemeAttribution: true
+  showAppearanceSwitcher: true
+  showScrollToTop: true
+
+homepage:
+  layout: page # valid options: page, profile, hero, card, background, custom
+  #homepageImage: "IMAGE.jpg" # used in: hero, and card
+  showRecent: false
+  showRecentItems: 5
+  showMoreLink: false
+  showMoreLinkDest: /posts
+  cardView: false
+  cardViewScreenWidth: false
+  layoutBackgroundBlur: false  # only used when layout equals background
+
+article:
+  showDate: false
+  showViews: false
+  showLikes: false
+  showDateOnlyInArticle: false
+  showDateUpdated: false
+  showAuthor: false
+  showHero: false
+  # heroStyle: "basic" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true
+  layoutBackgroundHeaderSpace: true
+  showBreadcrumbs: false
+  showDraftLabel: true
+  showEdit: false
+  # editURL: "https://github.com/username/repo/"
+  editAppendPath: true
+  seriesOpened: false
+  showHeadingAnchors: true
+  showPagination: true
+  invertPagination: false
+  showReadingTime: false
+  showTableOfContents: false
+  # showRelatedContent: false
+  # relatedContentLimit: 3
+  showTaxonomies: false
+  showAuthorsBadges: false
+  showWordCount: false
+  # sharingLinks: [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode: false
+
+list:
+  showHero: false
+  # heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true
+  layoutBackgroundHeaderSpace: true
+  showBreadcrumbs: false
+  showSummary: false
+  showViews: false
+  showLikes: false
+  showTableOfContents: false
+  showCards: false
+  groupByYear: true
+  cardView: false
+  cardViewScreenWidth: false
+  constrainItemsWidth: false
+
+sitemap:
+  excludedKinds:
+    - taxonomy
+    - term
+
+taxonomy:
+  showTermCount: true
+  showHero: false
+  # heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs: false
+  showViews: false
+  showLikes: false
+  showTableOfContents: false
+  cardView: false
+
+term:
+  showHero: false
+  # heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs: false
+  showViews: false
+  showLikes: false
+  showTableOfContents: true
+  groupByYear: false
+  cardView: false
+  cardViewScreenWidth: false
+
+firebase: {}
+fathomAnalytics: {}
+buymeacoffee: {}
+verification: {}
