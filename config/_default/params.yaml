@@ -9,7 +9,7 @@ colorScheme: everse
 
 # Allow switching between light and dark modes
 defaultAppearance: light
-autoSwitchAppearance: true
+autoSwitchAppearance: false
 
 enableSearch: true
 enableCodeCopy: true
