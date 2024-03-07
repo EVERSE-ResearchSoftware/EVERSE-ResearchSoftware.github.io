@@ -4,11 +4,6 @@ title: "EVERSE Consortium"
 weight: 80
 ---
 
-<!-- {{< figure src="/images/logos/EVERSE-Consortium-Logos.png" alt="EVERSE Consortium Logos" >}} -->
-
-
-<!-- {{< figure src="images/logos/certh.png" alt="EVERSE Consortium Logos" href="https://www.certh.gr/root.en.aspx" >}} -->
-
 {{< figure src="images/logos/consortium.png" alt="EVERSE Consortium Logos" >}}
 
 - [Institute of Applied Biosciences](https://www.inab.certh.gr/)
