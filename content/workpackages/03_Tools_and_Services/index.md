@@ -8,7 +8,7 @@ weight: 800
 
 This WP connects existing individual tools and services with developers and Science Clusters in three steps: collecting existing tools and services for software (including all forms of executable code) quality, linking them in common pipelines or frameworks, integrating them with platforms used in the Science Clusters.
 
-{{< figure src="/workpackages/wp3/20240224_everse_wp3.png" alt="WP3 simplified view" width="100%" >}}
+{{< figure src="/images/workpackages/wp3/20240224_everse_wp3.png" alt="WP3 simplified view" width="100%" >}}
 
 This WP collaborates tightly with other WPs and notably with the Science Clusters identified in WP4 that helps to shape the developed tools to their needs.
 
