@@ -162,6 +162,10 @@ footer:
     url: https://twitter.com/eosc_everse
     pre: x-twitter
     weight: 130
+  - name: FOSStodon
+    url: https://fosstodon.org/@eosc_everse
+    pre: mastodon
+    weight: 135
   - name: Zenodo
     url: https://zenodo.org/communities/everse
     pre: zenodo
