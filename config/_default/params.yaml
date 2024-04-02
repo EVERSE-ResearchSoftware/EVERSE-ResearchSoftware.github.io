@@ -14,7 +14,9 @@ autoSwitchAppearance: false
 enableSearch: true
 enableCodeCopy: true
 
-# mainSections = ["section1", "section2"]
+mainSections:
+  - news
+
 # robots = ""
 
 # Image optimisation breaks as we have SVG images
@@ -46,8 +48,8 @@ footer:
 homepage:
   layout: page # valid options: page, profile, hero, card, background, custom
   #homepageImage: "IMAGE.jpg" # used in: hero, and card
-  showRecent: false
-  showRecentItems: 5
+  showRecent: true
+  showRecentItems: 1 # This should creep up a bit from 1, as more EVERSE things happen...
   showMoreLink: false
   showMoreLinkDest: /posts
   cardView: false
