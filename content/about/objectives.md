@@ -4,7 +4,7 @@ title: "EVERSE Objectives"
 weight: 90
 ---
 
-This project, funded by Horizon Europe call [HORIZON-INFRA-2023-EOSC-01-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) ([#101057344](https://doi.org/10.3030/101057344)) has the objectives:
+This project, funded by Horizon Europe call [HORIZON-INFRA-2023-EOSC-01-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) ([#101057344](https://doi.org/10.3030/101057344)) has the following objectives:
 
 1. Build a collaborative, community-led structure for evaluating, verifying, and improving the quality of research software and code, by actively involving researchers, software developers, and other stakeholders in the research community.
 2. Leverage existing tools and resources to support the evaluation, verification and improvement of research software and code quality, based on existing practices and standards across research communities represented by the five EOSC Science Clusters.
