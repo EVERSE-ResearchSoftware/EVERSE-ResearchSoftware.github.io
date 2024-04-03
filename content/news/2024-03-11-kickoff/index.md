@@ -4,6 +4,12 @@ draft: false
 date: 2024-03-11T00:00:00Z
 start_date: 2024-03-11T00:00:00Z
 end_date: 2024-03-13T00:00:00Z
+summary: >
+    The EVERSE meeting was kicked off in Thessaloniki, from 11-13 March 2024.
+    The project participants gathered to start to create a framework for research 
+    software and code excellence. In close collaboration with the 
+    five EOSC Science Clusters and the OSCARS project the process of
+    building a **European Network of Research Software Quality** began.
 ---
 
 Software is ubiquitous in Research. Communities have created numerous software applications that are essential to progress in their fields. The reliability, reusability and long-term sustainability of these applications, are critical aspects for future progress.
@@ -31,11 +37,11 @@ The third day of the event was fully dedicated to a **joint discussion between E
 
 Under the umbrella of the EOSC ecosystem, EVERSE will build on the work of the previous activities within EOSC (such as the [Infrastructures for Quality Research Software](https://eosc.eu/advisory-groups/infrastructures-quality-research-software/) Task Force), take full advantage of the outputs and knowledge from past projects (such as [FAIR-IMPACT](https://fair-impact.eu/)), and work in close collaboration with relevant projects (such as [OSTrails](https://ostrails.eu/) and [GraspOS](https://graspos.eu/)) with open channels of communication, in order to maximize the impact of the expected outcomes and ensure that all stakeholders are actively engaged. 
 
-To learn more, join EVERSE’s community on 
-- LinkedIn (https://www.linkedin.com/company/eosc-everse), 
-- FOSStodon (https://fosstodon.org/@eosc_everse), 
-- Zenodo (https://zenodo.org/communities/everse/) and 
-- X (https://twitter.com/eosc_everse). 
+To learn more, join EVERSE’s community on
+- LinkedIn (https://www.linkedin.com/company/eosc-everse),
+- FOSStodon (https://fosstodon.org/@eosc_everse),
+- Zenodo (https://zenodo.org/communities/everse/) and
+- X (https://twitter.com/eosc_everse).
 
 The project, is funded by Horizon Europe call **HORIZON-INFRA-2023-EOSC-01-02 (#101129744)**.
 
