@@ -49,7 +49,7 @@ homepage:
   layout: page # valid options: page, profile, hero, card, background, custom
   #homepageImage: "IMAGE.jpg" # used in: hero, and card
   showRecent: true
-  showRecentItems: 1 # This should creep up a bit from 1, as more EVERSE things happen...
+  showRecentItems: 2 # Keep this ~<4, but adjust to make sure relevant articles are highlighted
   showMoreLink: false
   showMoreLinkDest: /posts
   cardView: false
