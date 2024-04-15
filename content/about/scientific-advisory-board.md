@@ -41,3 +41,13 @@ Dr Michelle Barker is both the Director of Research Software Alliance and an ind
 #### *European Synchrotron Radiation Facility, Division of Instrumentation Services and Development*
 
 Andy Götz joined the ESRF when it started in 1987 as software engineer where he has been ever since except for two sabbatical breaks. He has worked on control systems for the accelerators and beamlines at the ESRF, data processing and data management. He leads the Software Group at the ESRF since 2010. He has participated in a number of EU projects, where he recently coordinated the PaNOSC project. He is an advocate of  Open Science especially Open Data and Open Source Software. He chairs a number of community-based open source projects, and regularly speaks at international conferences. He is a member of the International Union of Crystallography (IUCr) Commission on Data.
+
+<br>
+
+{{< figure src="images/sab/AndreasKosmider.jpeg" alt="Andreas Kosmider profile picture" >}}
+
+### Andreas Kosmider
+
+#### *Falling Walls Foundation gGmbH*
+
+Andreas Kosmider is a physicist with expertise in experimental astro-particle physics, energy systems, and fusion technologies. He earned his Ph.D. for pioneering work on background suppression techniques in direct neutrino mass measurements with the KATRIN collaboration. Later, he transitioned to project management and played a pivotal role in the KATRIN experiment, the world's most precise direct neutrino mass measurement. In 2016, he joined the Helmholtz Association, where he led strategic digitalization initiatives and oversaw the Helmholtz Incubator for Information and Data Science. Andreas has a passion for the performing arts, having participated in over 35 theater productions, founded theater companies, and bridged the gap between science and theater. He has also been actively involved in various academic, social, cultural, and political organizations, displaying a keen interest in organizing large events and campaigns. As of September 2023, Andreas serves as the managing director of the Falling Walls Foundation.
