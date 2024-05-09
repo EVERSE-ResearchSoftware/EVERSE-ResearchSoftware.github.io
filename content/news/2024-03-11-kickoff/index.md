@@ -14,7 +14,7 @@ summary: >
 
 Software is ubiquitous in Research. Communities have created numerous software applications that are essential to progress in their fields. The reliability, reusability and long-term sustainability of these applications, are critical aspects for future progress.
 
-Funded by the European Commission, **EVERSE** aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities. This is achieved through close collaboration across the five EOSC Science Clusters (https://science-clusters.eu/), as represented by the **OSCARS** project (https://oscars-project.eu/), including astronomy and particle physics, environmental sciences, life sciences, photon and neutron science, and social sciences and humanities, as well as by engaging with national Research Software Expertise Centers. In the end, EVERSE will build a **European Network of Research Software Quality** setting the foundations of a future Virtual Institute for Research Software Excellence, and ultimately establishing a federated **EOSC Competence Center for Research Software**.
+Funded by the European Commission, **EVERSE** aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities. This is achieved through close collaboration across the five EOSC Science Clusters ( https://science-clusters.eu ), as represented by the **OSCARS** project ( https://oscars-project.eu ), including astronomy and particle physics, environmental sciences, life sciences, photon and neutron science, and social sciences and humanities, as well as by engaging with national Research Software Expertise Centers. In the end, EVERSE will build a **European Network of Research Software Quality** setting the foundations of a future Virtual Institute for Research Software Excellence, and ultimately establishing a federated **EOSC Competence Center for Research Software**.
 
 {{< figure src="/images/kom/EVERSE-KoM-Group-Photo-2024-03-12.jpeg" alt="EVERSE Kick Off Meeting group photo" >}}
 
@@ -35,13 +35,13 @@ The lively debate on these topics allowed participants to move towards more in-d
 
 The third day of the event was fully dedicated to a **joint discussion between EVERSE and OSCARS**, demonstrating the close relationship of these two projects. With an overall attendance of 80 members from both projects, the day started with a short overview of both projects delivered by Fotis Psomopoulos (*INAB|CERTH, EVERSE coordinator*) and Giovanni Lamanna (*CNRS LAPP, OSCARS coordinator*). The entire day was then dedicated to cross-project breakout sessions, fleshing out the existing complementarities and mapping out practical joint activities. The Science Clusters in Horizon Europe, represented by OSCARS, aim to acknowledge software achievements, raise awareness of the foundation approach, and promote career development. EVERSE aims to leverage the expertise on research software quality across domains, building a federated competence center on software excellence. Together with the clusters, the goal is to demonstrate successful cross-fertilization efforts and showcase economies of scale, and the clusters also enable a participative research ecosystem, promoting provenance tracking and contributing to evolving assessment methodologies.
 
-Under the umbrella of the EOSC ecosystem, EVERSE will build on the work of the previous activities within EOSC (such as the [Infrastructures for Quality Research Software](https://eosc.eu/advisory-groups/infrastructures-quality-research-software/) Task Force), take full advantage of the outputs and knowledge from past projects (such as [FAIR-IMPACT](https://fair-impact.eu/)), and work in close collaboration with relevant projects (such as [OSTrails](https://ostrails.eu/) and [GraspOS](https://graspos.eu/)) with open channels of communication, in order to maximize the impact of the expected outcomes and ensure that all stakeholders are actively engaged. 
+Under the umbrella of the EOSC ecosystem, EVERSE will build on the work of the previous activities within EOSC (such as the [Infrastructures for Quality Research Software](https://eosc.eu/advisory-groups/infrastructures-quality-research-software) Task Force), take full advantage of the outputs and knowledge from past projects (such as [FAIR-IMPACT](https://fair-impact.eu)), and work in close collaboration with relevant projects (such as [OSTrails](https://ostrails.eu) and [GraspOS](https://graspos.eu)) with open channels of communication, in order to maximize the impact of the expected outcomes and ensure that all stakeholders are actively engaged. 
 
 To learn more, join EVERSE’s community on
-- LinkedIn (https://www.linkedin.com/company/eosc-everse),
-- FOSStodon (https://fosstodon.org/@eosc_everse),
-- Zenodo (https://zenodo.org/communities/everse/) and
-- X (https://twitter.com/eosc_everse).
+- LinkedIn ( https://www.linkedin.com/company/eosc-everse ),
+- FOSStodon ( https://fosstodon.org/@eosc_everse ),
+- Zenodo ( https://zenodo.org/communities/everse ) and
+- X ( https://twitter.com/eosc_everse ).
 
 The project, is funded by Horizon Europe call **HORIZON-INFRA-2023-EOSC-01-02 (#101129744)**.
 
