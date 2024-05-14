@@ -12,6 +12,8 @@ summary: >
     building a **European Network of Research Software Quality** began.
 ---
 
+{{< figure src="/images/everse-session.png" alt="EVERSE session, Developing and Promoting Research Software Quality in EOSC, at EOSC Symposium 2024" href="https://eosc.eu/symposium2024/" >}}
+
 Software is ubiquitous in Research. Communities have created numerous software applications that are essential to progress in their fields. The reliability, reusability and long-term sustainability of these applications, are critical aspects for future progress.
 
 Funded by the European Commission, **EVERSE** aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities. This is achieved through close collaboration across the five EOSC Science Clusters ( https://science-clusters.eu ), as represented by the **OSCARS** project ( https://oscars-project.eu ), including astronomy and particle physics, environmental sciences, life sciences, photon and neutron science, and social sciences and humanities, as well as by engaging with national Research Software Expertise Centers. In the end, EVERSE will build a **European Network of Research Software Quality** setting the foundations of a future Virtual Institute for Research Software Excellence, and ultimately establishing a federated **EOSC Competence Center for Research Software**.
