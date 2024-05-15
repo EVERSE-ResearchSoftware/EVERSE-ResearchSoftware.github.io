@@ -15,10 +15,10 @@ Satellite event to the
 {{< figure src="feature.png" >}}
 
 We are thrilled to announce our upcoming **EVERSE** workshop, to be held as a satellite event to the **International Research Software Funders Workshop**, and hosted by **SciLifeLab**, in **Uppsala, Sweden.**
-Save the date: **Tuesday, September 10th.** Workshop is planned as a **full day (9 am – 5 pm CEST**, provisional agenda available [here](EVERSE_Workshop_IRSFW_2024_provisional_Agenda.pdf))
+Save the date: **Tuesday, September 10th.** Workshop is planned as a **full day (9 am – 5 pm CEST**, provisional agenda available [here](EVERSE_Workshop_IRSFW_2024_provisional_Agenda.pdf)).
 
-The main goal of the workshop is to serve as a platform for EVERSE to showcase the work of the project, and receive input from all relevant stakeholders, while facilitating networking and collaboration opportunities between all participants. Stakeholders of particular relevance in the workshop are Funders and Policy Makers, in order to increase awareness on the challenges and opportunities around research, as well as relevant community projects. 
-The expectation is for participants to bring with them their communities’ best practices and services on research software (including, but limited to, quality, management, sustainability, excellence, etc.) in order to engage with EVERSE, while also establishing a bidirectional channel of communication moving forward.
+The main goal of the workshop is to serve as a platform for EVERSE to showcase the work of the project, and receive input from all relevant stakeholders, while facilitating networking and collaboration opportunities between all participants. Stakeholders of particular relevance at the workshop are Funders and Policy Makers, in order to increase awareness on the challenges and opportunities around research, as well as relevant community projects.
+The expectation is for participants to bring with them their communities’ best practices and services on research software (including, but not limited to, quality, management, sustainability, excellence, etc.) in order to engage with EVERSE, while also establishing a bidirectional channel of communication moving forward.
 - Participation to the event is free, but registration is required. Deadline for registration is **Friday, May 31st 2024.** There is also a **limited number of places for in person participation** (max 25) and registration will be on a first-come first-served basis.
 - Register here: EVERSE - funders forum workshop Tickets, Tue, Sep 10, 2024 at 9:30 AM | Eventbrite
 
