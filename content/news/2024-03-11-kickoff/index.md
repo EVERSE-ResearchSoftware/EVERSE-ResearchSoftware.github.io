@@ -12,7 +12,6 @@ summary: >
     building a **European Network of Research Software Quality** began.
 ---
 
-{{< figure src="/images/everse-session.png" alt="EVERSE session, Developing and Promoting Research Software Quality in EOSC, at EOSC Symposium 2024" href="https://eosc.eu/symposium2024/" >}}
 
 Software is ubiquitous in Research. Communities have created numerous software applications that are essential to progress in their fields. The reliability, reusability and long-term sustainability of these applications, are critical aspects for future progress.
 
