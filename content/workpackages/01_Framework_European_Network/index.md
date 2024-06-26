@@ -6,7 +6,10 @@ shorthand: WP1
 weight: 1000
 ---
 
-The main goal of this WP is to establish a *European network of Research Software Quality*, building towards a *Virtual Institute of Research Software Excellence*, in order to create a framework of community curation that ensures quality of software. We will engage with various science communities, and build direct links with other European and international organisations, including the EOSC Association and EOSC Exchange, to ensure coherence and enhance the impact of the network. The project will focus on promoting and enhancing software quality through a range of activities such as seminars, workshops, newsletters, hackathons, webinars, and dissemination campaigns to foster inclusion and maximise impact.
+Work package 1 aims to establish a network dedicated to *research software quality*, and from this build towards a *Virtual Institute of Research Software Excellence*. By connecting to science communities where coding and programming is used on a daily basis, we aim to build a framework where research software quality is ensured and properly recognised as a top-tier tool for modern scientific operations.
+
+While we draw on the expertise of existing communities and individuals, EVERSE also offers a set of activities to engage with software development teams. Seminars, workshops, webinars and onboarding events, such as hackathons, are organised to share and learn about different skill sets; while newsletters and social media updates keep the community informed about the latest developments. 
+
 
 ## Work Package Leads
 
