@@ -6,7 +6,10 @@ shorthand: WP2
 weight: 900
 ---
 
-Developing and improving research software quality starts by assessing the current practices of researchers and developers. WP2 will bring together communities’ best practices and set-up the mechanisms for researchers to access this knowledge, in the way they need it at the specific stage of their research software development journey. To enable an efficient gathering of best practices, we will create the Research Software Quality kit (RSQkit), a knowledge hub to gather and curate such expertise. RSQkit will provide the context for understanding existing best practices (referencing the training activities of WP5) and provide guidance at each step of the software development journey to improve its quality, including the use of actionable indicators and metrics in close collaboration with other work packages (WP3, WP4). The knowledge gathered in the RSQkit will be one of the foundation pieces for the future European Virtual Institute for Research Software Excellence devised in WP1.
+Each research community has its own techniques for computing-based research. Work package 2 works towards assessing all these approaches and developing common grounds for best practices applicable to all developers. The *Research Software Quality kit* (RSQkit) will be a knowledge hub that collects existing expertise while ensuring improvement .
+
+The basis for properly curated best practices are FAIR principles: that software should be findable, accessible, interoperable and reusable. They are used to find a common framework and act as measurables for indicators of software quality. Woven into the RSQkit, these practices will be incorporated into the future Virtual Institute driven by WP1.
+
 
 ## Work Package Leads
 
