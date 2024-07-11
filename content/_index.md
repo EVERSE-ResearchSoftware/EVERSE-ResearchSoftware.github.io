@@ -22,7 +22,7 @@ EVERSE ultimate ambition is to contribute towards a cultural change where resear
 EVERSE is coordinated by the [Centre for Research and Technology hellas (CERTH)](https://www.certh.gr) and the [Barcelona Supercomputing Center (BSC)](https://www.bsc.es/). EVERSE will be interfacing with the [EOSC science clusters](https://eosc-portal.eu/esfri-thematic-cluster-projects) and their emerging use cases:
 
 {{< flex-content >}}
-- [ENVRI-FAIR](https://envri.eu/home-envri-fair/): Essential Climate Variables
+- [ENVRI Community](https://envri.eu): Essential Climate Variables
 - [Life Science RI](https://lifescience-ri.eu/home.html): The Workflow Execution Service backend with RO-Crate
 - [ESCAPE](https://projectescape.eu/): Particle physics and astrophysics in the Dark Matter Science Project
 - [PaNOSC](https://www.panosc.eu/): Photon and neutron science through LEAPS/LENS
