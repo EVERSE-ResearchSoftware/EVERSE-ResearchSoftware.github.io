@@ -122,14 +122,14 @@ main:
     weight: 5
     pageRef: /network
     parent: Network
-  - name: Communities
-    weight: 10
-    pageRef: network/communities
-    parent: Network
-  - name: Competence Centres
-    weight: 20
-    pageRef: network/competence_centres
-    parent: Network
+  # - name: Communities
+  #   weight: 10
+  #   # pageRef: network/communities
+  #   parent: Network
+  # - name: Competence Centres
+  #   weight: 20
+  #   pageRef: network/competence_centres
+  #   parent: Network
   
   # Participate tab
   - name: Participate
