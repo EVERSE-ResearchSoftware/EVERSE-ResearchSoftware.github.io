@@ -116,16 +116,20 @@ main:
   #   parent: Resources
 
   # Network tab
-  # - name: Network
-  #   weight: 50
-  # - name: Communities
-  #   weight: 10
-  #   pageRef: network/communities
-  #   parent: Network
-  # - name: Competence Centres
-  #   weight: 20
-  #   pageRef: network/competence_centres
-  #   parent: Network
+  - name: Network
+    weight: 50
+  - name: EVERSE Network
+    weight: 5
+    pageRef: /network
+    parent: Network
+  - name: Communities
+    weight: 10
+    pageRef: network/communities
+    parent: Network
+  - name: Competence Centres
+    weight: 20
+    pageRef: network/competence_centres
+    parent: Network
   
   # Participate tab
   - name: Participate
