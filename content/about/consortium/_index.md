@@ -1,11 +1,13 @@
 ---
 title: "Consortium parnters"
+draft: false
 description: "all logos on panels"
+#slug: "partials"
 
 cascade:
-  showEdit: false
-  showSummary: false
-  hideFeatureImage: false
+  showWordCount: true
+  showSummary: true
+  showDate: true
 ---
 
 {{< lead >}}
@@ -16,4 +18,5 @@ The EVERSE project consists of 18 partners from organisations and institutes all
 
 Find out who we are here:
 
----
+{{< list title="Consortium" cardView=true limit=6 where="Type" value="partner"  >}}
+
