@@ -18,5 +18,5 @@ The EVERSE project consists of 18 partners from organisations and institutes all
 
 Find out who we are here:
 
-{{< list title="Consortium" cardView=true limit=6 where="Type" value="partner"  >}}
+{{< list title="Consortium" cardView=true limit=18 where="Type" value="partner"  >}}
 
