@@ -4,10 +4,11 @@
 <svg
    version="1.1"
    id="svg2"
-   width="426.30667"
-   height="95.279999"
-   viewBox="0 0 426.30667 95.279999"
-   sodipodi:docname="uvalogo_regular_compact_p_en.eps"
+   width="520"
+   height="500"
+   viewBox="0 0 520 500"
+   sodipodi:docname="uvalogo_centred.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +23,16 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.78897921"
+     inkscape:cx="230.67782"
+     inkscape:cy="253.4921"
+     inkscape:window-width="1496"
+     inkscape:window-height="697"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g8" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -30,7 +40,7 @@
      transform="matrix(1.3333333,0,0,-1.3333333,0,95.28)">
     <g
        id="g10"
-       transform="scale(0.1)">
+       transform="matrix(0.1,0,0,0.1,37.073222,-146.3917)">
       <path
          d="M 566.93,147.617 H 0 V 714.551 H 566.93 V 147.617"
          style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
