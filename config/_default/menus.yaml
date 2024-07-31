@@ -116,11 +116,15 @@ main:
   #   parent: Resources
 
   # Network tab
-  # - name: Network
-  #   weight: 50
+  - name: Network
+    weight: 50
+  - name: EVERSE Network
+    weight: 5
+    pageRef: /network
+    parent: Network
   # - name: Communities
   #   weight: 10
-  #   pageRef: network/communities
+  #   # pageRef: network/communities
   #   parent: Network
   # - name: Competence Centres
   #   weight: 20
