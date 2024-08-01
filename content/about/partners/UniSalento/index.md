@@ -7,4 +7,4 @@ tags: ["consortium"]
 type: "partner" 
 ---
 
-## Università del Salento
+The [University of Salento](https://international.unisalento.it) has been founded in 1767 as one of many "regional schools".
