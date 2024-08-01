@@ -13,4 +13,5 @@ type: "partner"
 {{< figure src="/images/logos/full_consortium/CERN_badge.svg" >}}
 {{< /flex-content >}}
 
+{{< figure src="/images/logos/full_consortium/CERN_badge.svg" >}}
 
