@@ -24,9 +24,10 @@ The expectation is for participants to bring with them their communities’ best
 
 You can find the draft agenda of the main event of the International Research Software Funders Workshop [here](https://docs.google.com/document/d/1v4PVLTP6MvY7kpfQX4QC5yl77BZ4GcA63jcmQFO19xI/edit), also linked in the [event page](https://adore.software/2024-international-research-software-funders-workshop/). Please note this workshop is open to funders of research software, open science, and open-source research software, as well as a few guests. If you are interested in attending but have not received an invitation, please contact them at res-soft-forum-uppsala@googlegroups.com (or at info@researchsoft.org, if you encounter issues with the first email).
 
+The agenda of the EVERSE workshop, together with logistics information, can be found [here](EVERSE_Workshop_IRSFW_2024_final_Agenda.pdf).
 
 
-{{< a href="New_EVERSE_International_Research_Software_Funders_Workshop_Announcement.pdf" download="New_EVERSE_International_Research_Software_Funders_Workshop_Announcement" >}}
+{{< a href="EVERSE_International_Research_Software_Funders_Workshop_Announcement.pdf" download="EVERSE_International_Research_Software_Funders_Workshop_Announcement" >}}
 Click here to download the Workshop Announcement (`.pdf`).
 {{< /a >}}
 
