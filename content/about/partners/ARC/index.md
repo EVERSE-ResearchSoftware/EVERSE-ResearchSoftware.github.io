@@ -7,9 +7,9 @@ tags: ["consortium"]
 type: "partner" 
 ---
 
-{{< flex-content >}}
+{{< balanced-content >}}
 Located in Athens, the [Research Center](https://www.athenarc.gr) focuses on information and communication technologies.
 
 <--->
 {{< figure src="/images/logos/full_consortium/Athena_Compact_EN.svg" >}}
-{{< /flex-content >}}
+{{< /balanced-content >}}

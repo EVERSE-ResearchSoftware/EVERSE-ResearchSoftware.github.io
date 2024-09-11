@@ -7,9 +7,9 @@ tags: ["consortium"]
 type: "partner" 
 ---
 
-{{< flex-content >}}
-The Technical University of Madrid [(UPM)](https://www.upm.es/internacional) was founded in 1971 through the integration of the Higher Technical Schools which up until then made up the Higher Technical Institutes.
+{{< balanced-content >}}
+Universidad Politécnica de Madrid [(UPM)](https://www.upm.es/internacional) is the largest Spanish technological university, with two recognition awards as Campus of International Excellence. More than 2,400 researchers carry out their activity at the UPM, grouped in 203 Research Groups, 21 Research Centers or Institutes and 55 Laboratories, all of them committed to transform the knowledge generated into innovation advances applied to the production sector. UPM has a strong commitment to Open Science and the FAIR principles applied to digital artifacts such as data, software and workflows.
 
 <--->
 {{< figure src="/images/logos/full_consortium/politecnico_landscape.svg" >}}
-{{< /flex-content >}}
+{{< /balanced-content >}}
