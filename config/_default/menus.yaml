@@ -26,6 +26,9 @@ main:
   - name: Collaborators
     pageRef: about/collaborators
     weight: 21
+  - name: People
+    pageRef: about/people
+    weight: 22
     parent: About
   - name: Scientific Advisory Board
     pageRef: about/scientific-advisory-board
