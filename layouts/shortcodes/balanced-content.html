@@ -1,0 +1,20 @@
+<!-- This shortcode will give a 3 column layout for a piece of text and a figure,
+ with 2 columns occupied by the text and 1 by the figure.
+ N.B. The CSS to do this is **not** in the default blowfish layouts, so it
+ is necessary to rebuild the tailwind CSS:
+ https://blowfish.page/docs/advanced-customisation/#building-the-theme-css-from-source
+ -->
+<div class="grid grid-cols-3 gap-4 align-top">
+    {{- range split .Inner "<--->" }}
+        {{ $has_figure := strings.FindRE `(?s)\<figure\s*\>.*\<\/figure\>` . 1 | len }}
+        {{ if eq $has_figure 1 }}
+        <div class="col-span-1">
+          {{ . | safeHTML -}}
+        </div>
+        {{ else }}
+        <div class="col-span-2 align-top">
+            {{ . | markdownify | safeHTML -}}
+        </div>
+        {{ end }}
+    {{- end }}
+</div>
