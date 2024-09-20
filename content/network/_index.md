@@ -7,19 +7,27 @@ showDate: false
 groupByYear: false
 ---
 
-## Network of Research Software Quality ##
 
-The EVERSE project is committed to improving the quality of software in European research in the international context. EVERSE will launch a Network of Research Software Quality to allow us to work with individuals and partner organisations to achieve this common goal.
+
+## Improving Research Software Quality ## 
+{{< flex-content >}}
+{{< figure src="/images/network/network_all.png" >}}
+{{< /flex-content>}}
+The EVERSE project is committed to improving the quality of software in European research in the international context. EVERSE is launching a Network of Research Software Quality to allow us to work with individuals and partner organisations to achieve this common goal.
+
 
 ### Vision ###
-Our vision of the EVERSE Network of Research Software Quality is to establish a Community of Practice around improving the quality of research software in Europe and beyond. EVERSE and partners work to provide standard and documented practices around tools and training for software developers, researchers who code and research software engineers and service providers, to help them write better code. We help define the meaning and principles of software quality for the research domain. We work for enhanced recognition for software developers contributing to research activities.
+Our vision of the EVERSE Network of Research Software Quality is to establish a Community of Practice to improve the quality of research software in Europe and beyond. EVERSE and partners work to provide standard and documented practices around tools and training for software developers, researchers who code and research software engineers and service providers. This will help them to write better code. We help define the meaning and principles of software quality for the research domain. We work for enhanced recognition for software developers contributing to research activities.
 
-[//]: <> (add picture/banner?)
+
+{{< flex-content >}}
+{{< figure src="/images/network/network1.jpg" >}}
+{{< /flex-content>}}
 
 ### Value ###
-Members of EVERSE and of the future European network can:
+Members of EVERSE and of the software quality Network can:
 
-* Become a member of the de facto EOSC Association expert group on software
+* Be members of the de facto EOSC Association expert group on software
 * Help shape software quality practices in Europe by:
     * Providing input and feedback to the  best practices captured within EVERSE 
     * Contributing and receiving feedback on their community or research project’s needs
@@ -40,3 +48,11 @@ Any individuals agreeing to our principles may apply to join the network. There 
 
 #### <font color="40A3DC"> Organisational Membership </font> ####
 Organisations with an interest in research software quality, and who agree with our principles and are potentially willing to adopt and contribute to the EVERSE outputs, can apply to join the network. There is no fee in this initial stage of the network.
+
+---
+### Interest to join us? ###
+
+Then follow the below-mentioned link and be part of the EVERSE Network:
+https://ec.europa.eu/eusurvey/runner/EVERSENetworkJoinIndividual
+
+
