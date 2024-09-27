@@ -7,3 +7,12 @@
 .max-w-prose {
     max-width:100ch
 }
+
+.float-right {
+    float:right
+  }
+
+  .w-\[30\%\] {
+    width:30%
+  }
+  
