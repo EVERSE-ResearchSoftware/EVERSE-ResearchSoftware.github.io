@@ -1,7 +1,7 @@
 ---
 title: Communities
 weight: 1000
-draft: false
+draft: true
 display_in_summary: true
 ---
 
