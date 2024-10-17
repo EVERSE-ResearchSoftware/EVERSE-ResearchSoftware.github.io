@@ -7,7 +7,6 @@ baseURL: https://everse.software/
 defaultContentLanguage: en
 
 enableRobotsTXT: true
-paginate: 10
 summaryLength: 0
 
 buildDrafts: false
