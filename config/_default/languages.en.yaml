@@ -9,7 +9,5 @@ params:
   rtl: false
   dateFormat: 2 January 2006
 
-author:
-  name: The EVERSE Project
-  links:
-    - github: https://github.com/EVERSE-ResearchSoftware
+pagination:
+  pagersize: 10

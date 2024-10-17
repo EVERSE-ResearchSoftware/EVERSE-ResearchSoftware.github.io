@@ -35,6 +35,11 @@ disableImageZoom: true
 
 logo: images/logos/EOSCEverse_PosColour.svg
 
+author:
+  name: The EVERSE Project
+  links:
+    - github: https://github.com/EVERSE-ResearchSoftware
+
 header:
   layout: fixed-fill # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
