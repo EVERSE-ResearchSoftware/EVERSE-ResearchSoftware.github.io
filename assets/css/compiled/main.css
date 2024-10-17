@@ -1474,6 +1474,10 @@ select {
   grid-column:span 2 / span 2
 }
 
+.float-right {
+  float:right
+}
+
 .float-left {
   float:left
 }
@@ -1844,6 +1848,10 @@ select {
 
 .w-\[15\%\] {
   width:15%
+}
+
+.w-\[30\%\] {
+  width:30%
 }
 
 .w-\[30px\] {
@@ -2739,6 +2747,14 @@ select {
   backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia)
 }
 
+.transition {
+  transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
+  transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-property:color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
+  transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration:150ms
+}
+
 .transition-opacity {
   transition-property:opacity;
   transition-timing-function:cubic-bezier(0.4, 0, 0.2, 1);
@@ -2859,21 +2875,6 @@ body button {
 #search-query::-webkit-search-results-button,
 #search-query::-webkit-search-results-decoration {
   display:none
-}
-
-/* Hamburger menu */
-
-body:has(#menu-controller:checked) {
-  overflow-y:hidden
-}
-
-#menu-button:has(#menu-controller:checked) {
-  visibility:hidden
-}
-
-#menu-controller:checked~#menu-wrapper {
-  visibility:visible;
-  opacity:1
 }
 
 /* RTL support */
