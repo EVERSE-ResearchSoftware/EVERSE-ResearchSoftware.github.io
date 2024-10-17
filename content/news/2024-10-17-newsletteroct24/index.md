@@ -20,6 +20,7 @@ Our first newsletter is finally ready! It's been a busy first half of a year for
 The first edition introduces the project itself with an interview with our project leader Fotis Psomopoulos; reports on meetings we've been to, especially the International Research Software Funders Workshop; talks about two launched services (RSQkit and the EVERSE Network); and an outlook on where research software engineering will be highlighted in the next months.
 
 
-Follow the link [here](https://preview.mailerlite.io/emails/webview/1144236/135360828853454549) or read the {{< a href=/newsletter/"Newsletter_Oct24.pdf download="Newsletter_Oct24"  >}}
- pdf.
+
+Follow the link [here](https://preview.mailerlite.io/emails/webview/1144236/135360828853454549) or read the 
+{{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} pdf.
 {{< /a >}}
