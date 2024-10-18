@@ -51,4 +51,8 @@ Organisations with an interest in research software quality, and who agree with 
 Then follow the link and let us know about your interests to become a member of the Network:
 https://ec.europa.eu/eusurvey/runner/EVERSENetworkJoinIndividual
 
+---
+
+If you have further questions or specific requests, please [get in touch](/network/contact).
+
 

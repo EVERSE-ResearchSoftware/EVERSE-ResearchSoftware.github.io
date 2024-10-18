@@ -122,6 +122,10 @@ main:
     weight: 5
     pageRef: /network
     parent: Network
+  - name: Contact EVERSE
+    weight: 10
+    pageRef: /network/contact
+    parent: Network  
   # - name: Communities
   #   weight: 10
   #   # pageRef: network/communities
@@ -132,12 +136,12 @@ main:
   #   parent: Network
   
   # Participate tab
-  - name: Participate
-    weight: 60
-  - name: How to Join
-    pageRef: participate/how_to_join
-    weight: 10
-    parent: Participate
+  # - name: Participate
+  #   weight: 60
+  # - name: How to Join
+  #   pageRef: participate/how_to_join
+  #   weight: 10
+  #   parent: Participate
 
   # News tab
   - name: News
@@ -147,7 +151,7 @@ main:
 
 footer:
   - name: Email
-    url: mailto:everse-request@lists.certh.gr
+    url: mailto:contact@everse.software
     pre: email
     weight: 100
   - name: GitHub
