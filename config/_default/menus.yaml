@@ -124,7 +124,7 @@ main:
     parent: Network
   - name: Contact EVERSE
     weight: 10
-    pageRef: /network/contact
+    pageRef: /contact
     parent: Network  
   # - name: Communities
   #   weight: 10

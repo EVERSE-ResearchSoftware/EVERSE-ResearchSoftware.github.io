@@ -53,6 +53,4 @@ https://ec.europa.eu/eusurvey/runner/EVERSENetworkJoinIndividual
 
 ---
 
-If you have further questions or specific requests, please [get in touch](/network/contact).
-
-
+If you have further questions or specific requests, please [get in touch](/contact).
