@@ -9,10 +9,12 @@ weight: 10
 
 <!-- {{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" class="justify-center" >}} -->
 
+{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
 **Latest:** *You can read the first [EVERSE
 newsletter](https://everse.software/news/2024-10-17-newsletteroct24/) right now,
 and you can already [join the EVERSE network](https://everse.software/network/)!*
 
+{{<  /alert >}}
 ## High Quality Research Software for the Communities by the Communities
 
 ### *Software for the Communities by the Communities*
