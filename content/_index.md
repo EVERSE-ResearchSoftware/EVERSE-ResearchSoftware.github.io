@@ -9,7 +9,14 @@ weight: 10
 
 <!-- {{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" class="justify-center" >}} -->
 
+{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
+**Latest:** *You can read the first [EVERSE
+newsletter](https://everse.software/news/2024-10-17-newsletteroct24/) right now,
+and you can already [join the EVERSE network](https://everse.software/network/)!*
+
+{{<  /alert >}}
 ## High Quality Research Software for the Communities by the Communities
+
 ### *Software for the Communities by the Communities*
 
 The **EVERSE** project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**.
