@@ -23,6 +23,10 @@ main:
     pageRef: about/consortium
     weight: 20
     parent: About
+  - name: Collaborators
+    pageRef: about/collaborators
+    weight: 21
+    parent: About
   - name: Scientific Advisory Board
     pageRef: about/scientific-advisory-board
     weight: 25
