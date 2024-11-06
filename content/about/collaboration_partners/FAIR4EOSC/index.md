@@ -1,7 +1,7 @@
 ---
-title: "FAIR4EOSC"
+title: "FAIRCORE4EOSC"
 draft: false
-description: "short description on FAIR4EOSC"
+description: "short description on FAIRCORE4EOSC"
 
 tags: ["collaborators"]
 type: "collaboration_partner" 
