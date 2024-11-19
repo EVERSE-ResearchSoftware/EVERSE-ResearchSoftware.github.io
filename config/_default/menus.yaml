@@ -146,7 +146,14 @@ main:
   # News tab
   - name: News
     weight: 70
-    pageRef: news
+  - name: All news 
+    weight: 5
+    pageRef: /news
+    parent: News
+  - name: Newsletter
+    weight: 10
+    pageRef: /newsletter
+    parent: News
 
 
 footer:
