@@ -58,6 +58,6 @@ _Initiated in March 2024, the European Virtual Institute for Research Software E
 
 
 
-{{< figure src="/images/all-oa7s.png" class="float-center m-2 w-[50%]" >}}
+{{< figure src="/images/3-oa7partners.png" class="float-center m-2 w-[50%]" >}}
 
 
