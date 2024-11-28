@@ -3,6 +3,7 @@ title: "Fotis Psomopoulos"
 description: "Fotis's presentation"
 draft: false
 
+<<<<<<< HEAD
 type: "people"
 
 params:
@@ -16,6 +17,10 @@ params:
     link: https://fpsom.github.io/
     linkedin: fpsom
     bluesky: fpsom.bsky.social
+=======
+tags: ["WP6", "WPL"]
+type: "people"
+>>>>>>> 0f350d9 (Basic people page with cardview)
 ---
 
 {{< figure src="feature.jpg" alt="A photo of Fotis, (C) Fotis Psomopoulos," class="float-right m-2 w-[30%]" >}}
