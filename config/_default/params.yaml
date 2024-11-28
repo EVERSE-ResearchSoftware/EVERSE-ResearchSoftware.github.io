@@ -134,8 +134,8 @@ term:
   cardViewScreenWidth: false
 
 matomo:
-  url: https://example.com/
-  id: 1
+  url: https://matomo.research.software/
+  id: 6
   track:
     button: Allow data anonymised collection
     message: Your anonymised session data will be collected
