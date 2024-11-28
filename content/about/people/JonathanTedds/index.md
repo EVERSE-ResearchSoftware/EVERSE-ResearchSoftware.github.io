@@ -8,6 +8,7 @@ type: "people"
 
 params:
   wp1: true
+  wp1lead: true
   wpl: true
 ---
 Jonathan works for Elixir and is the co-lead for WP1 at EVERSE.

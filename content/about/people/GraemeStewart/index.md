@@ -40,6 +40,7 @@ type: "people"
 
 params:
   wp1: true
+  wp1lead: true
   wpl: true
 ---
 Graeme Stewart is leading Work Package 1. He is based at CERN where he works for the  *Software Development for Experiments* group in the Experimental Physics Department.
