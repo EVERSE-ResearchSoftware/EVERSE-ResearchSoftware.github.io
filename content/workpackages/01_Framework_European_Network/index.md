@@ -10,7 +10,7 @@ Work package 1 aims to establish a network dedicated to *research software quali
 
 While we draw on the expertise of existing communities and individuals, EVERSE also offers a set of activities to engage with software development teams. Seminars, workshops, webinars and onboarding events, such as hackathons, are organised to share and learn about different skill sets; while newsletters and social media updates keep the community informed about the latest developments. 
 
-{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp1" value=true  >}}
+{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp1lead" value=true  >}}
 
 ## Participants
 
