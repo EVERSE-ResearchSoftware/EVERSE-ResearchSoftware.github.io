@@ -4,7 +4,10 @@ draft: false
 description: "short presentation of ELIXIR"
 
 tags: ["consortium"]
-type: "partner" 
+type: "partner"
+
+params:
+  wp1inst: true
 ---
 {{< balanced-content >}}
 
