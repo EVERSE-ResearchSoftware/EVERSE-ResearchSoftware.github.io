@@ -12,8 +12,6 @@ While we draw on the expertise of existing communities and individuals, EVERSE a
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp1lead" value=true  >}}
 
-## Participants
+{{< list title="Participating Institutes" cardView=true limit=18 where="Params.wp1inst" value=true  >}}
 
-{{< list title="Institutes" cardView=true limit=18 where="Params.wp1inst" value=true  >}}
-
-UEDIN, CNRS-IJCLab, NLeSC, OpenAIRE, SKAO, UPM, CERTH, UvA, UniSalento, CU
+<!-- UEDIN, CNRS-IJCLab, NLeSC, OpenAIRE, SKAO, UPM, CERTH, UvA, UniSalento, CU -->

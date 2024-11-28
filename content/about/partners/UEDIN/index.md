@@ -5,6 +5,9 @@ description: "short presentation of UEDIN"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1inst: true
 ---
  {{< balanced-content >}}
 
