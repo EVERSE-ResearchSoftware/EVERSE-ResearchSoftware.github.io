@@ -133,6 +133,16 @@ term:
   cardView: false
   cardViewScreenWidth: false
 
+matomo:
+  url: https://example.com/
+  id: 1
+  track:
+    button: Allow data anonymised collection
+    message: Your anonymised session data will be collected
+  block:
+    button: Switch off data collection
+    message: Your anonymised session data will *not* be collected
+
 firebase: {}
 fathomAnalytics: {}
 buymeacoffee: {}

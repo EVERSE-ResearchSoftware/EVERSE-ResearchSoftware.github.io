@@ -65,6 +65,8 @@
         {{ end }}
   
     </div>
+    <!-- GPDR compliant tracking -->
+    {{ partial "matomo-tracking" . }}
     <script>
       {{ if not .Site.Params.disableImageZoom | default true }}
       mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
