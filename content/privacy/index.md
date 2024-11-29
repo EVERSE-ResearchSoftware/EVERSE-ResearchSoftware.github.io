@@ -7,3 +7,4 @@ draft: false
 EVERSE will collect anonymised user data that helps us to monitor the
 effectiveness of our website.
 
+{{< matomo-optout >}}
