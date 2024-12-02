@@ -76,12 +76,12 @@ main:
   #   parent: Services
 
   # Training tab
-  - name: Training
-    weight: 30
-  - name: Training Events
-    weight: 10
-    pageRef: training/events
-    parent: Training
+  # - name: Training
+  #   weight: 30
+  # - name: Training Events
+  #   weight: 10
+  #   pageRef: training/events
+  #   parent: Training
   # - name: Training Materials
   #   weight: 20
   #   pageRef: training/material
