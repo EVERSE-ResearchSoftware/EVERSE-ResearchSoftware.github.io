@@ -67,7 +67,7 @@
         {{ end }}
   
     </div>
-    <!-- GPDR compliant tracking -->
+    <!-- GPDR compliant web stats with Matomo -->
     {{ partial "matomo-tracking" . }}
     <script>
       {{ if not .Site.Params.disableImageZoom | default true }}
