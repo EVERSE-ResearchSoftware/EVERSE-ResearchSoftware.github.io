@@ -15,7 +15,7 @@ An essential component of work package 3 is the tight collaboration with all oth
 The final catalogue of tools will be implemented into the Research Software Quality kit [(RSQkit)](/services/rsqkit/) and is based on FAIR principles for software.
 
 
-{{< figure src="/images/workpackages/wp3/20240224_everse_wp3.png" alt="WP3 simplified view" width="100%" >}}
+{{< figure src="/images/workpackages/wp3/wp3_summary_web.png" alt="WP3 summary" width="100%" >}}
 
 This WP collaborates tightly with other WPs and notably with the Science Clusters identified in WP4 that helps to shape the developed tools to their needs.
 
