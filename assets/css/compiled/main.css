@@ -1858,6 +1858,14 @@ select {
   width:30px
 }
 
+.w-\[50\%\] {
+  width:50%
+}
+
+.w-\[70\%\] {
+  width:70%
+}
+
 .w-full {
   width:100%
 }
