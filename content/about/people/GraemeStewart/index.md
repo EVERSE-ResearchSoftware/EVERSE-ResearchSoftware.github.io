@@ -26,4 +26,4 @@ Experiment](https://www.atlas.cern). One of his current strong interests is in
 using the [Julia Programming Language](https://julialang.org) in high-energy
 physics.
 
-{{< figure src="feature.jpg" alt="A photo pf Graeme on the Jura mountains" >}}
+{{< figure src="feature.jpg" alt="A photo of Graeme on the Jura mountains, © Fiona Crawford" >}}
