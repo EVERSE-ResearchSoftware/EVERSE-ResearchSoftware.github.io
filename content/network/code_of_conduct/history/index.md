@@ -1,5 +1,6 @@
 ---
 title: Updates and Changelogs
+weight: 20
 ---
 
 ## Main Code of Conduct Page
