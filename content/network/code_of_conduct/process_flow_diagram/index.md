@@ -1,5 +1,5 @@
 ---
-title: Breach Process - Flow Diagram
+title: Incident Report - Flow Diagram
 description: visualisation for CoC enforcement
 identifier: coc
 draft: false
@@ -16,4 +16,4 @@ Breach identified &#8594; set up a first meeting with the CoCc (Read about Incid
 * If a specific breach/issue was identified &#8594; email the reporter/reportee as explained in CoC report handling and enforcement process.
 * If it was undecided that a breach/issue occurred &#8594; hold a meeting with the reporter/reportee as explained in CoC report handling and enforcement process &#8594; Hold a second meeting with the CoCc to identify consequence/next steps as explained in CoC report handling and enforcement process.
 
-{{< figure src="feature.png" alt="Flow Diagram for legal follow-up" caption="&copy; The Carpentries.">}}
+{{< figure src="processdiagram.png" alt="Flow Diagram for legal follow-up" caption="&copy; The Carpentries.">}}

@@ -81,3 +81,10 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 - It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
+
+----
+<div class="text-sm">
+
+The Incident Guidelines presented here are based on the guidelines from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/incident-response.html). For more information, please refer to the original document. s
+
+<div />
