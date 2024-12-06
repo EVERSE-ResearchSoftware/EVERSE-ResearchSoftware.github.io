@@ -1,0 +1,35 @@
+<!-- Look for media links for this page and render appropriately  -->
+{{ $media := .Page.Params.media }}
+
+{{ if $media }}
+  {{ $Url := "" }}
+  {{ $Name := "" }}
+  
+  <ul>
+  {{ range $k, $v := $media }}
+    {{ $Name = $k }}
+    {{ if eq $k "bluesky"}}
+      {{ $Url = urls.JoinPath "https://bsky.app/profile" $v }}
+    {{ else if eq $k "github" }}
+      {{ $Url = urls.JoinPath "https://github.com/" $v }}
+    {{ else if eq $k "linkedin" }}
+      {{ $Url = urls.JoinPath "https://www.linkedin.com/in/" $v }}
+    {{ else if eq $k "link" }}
+      {{ $Url = $v }}
+      {{ $Name = "website" }}
+    {{ else if eq $k "email" }}
+      {{ $Url = printf "mailto:%s" $v }}
+    {{ else }}
+      {{ $Url = "" }}
+    {{ end }}
+    <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+      <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="{{ $Url }}" title="{{ $Name }}">
+        <span class="mr-1">
+            {{ partial "icon.html" $k }}
+        </span>
+        {{ $Name | markdownify | emojify }}
+      </a>
+    </li>
+  {{ end }}
+  </ul>
+{{ end }}

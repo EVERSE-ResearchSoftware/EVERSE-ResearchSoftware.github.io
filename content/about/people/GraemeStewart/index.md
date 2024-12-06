@@ -12,7 +12,7 @@ params:
   media: 
     email: graeme.andrew.stewart@cern.ch
     github: graeme-a-stewart
-    website: https://graeme-a-stewart.github.io
+    link: https://graeme-a-stewart.github.io
     linkedin: graeme-stewart-355b93318
     bluesky: graeme-a-stewart.bsky.social
 ---
@@ -29,3 +29,5 @@ Graeme has had major roles in software as part of the [ATLAS
 Experiment](https://www.atlas.cern). One of his current strong interests is in
 using the [Julia Programming Language](https://julialang.org) in high-energy
 physics.
+
+{{< insert-media-links >}}
