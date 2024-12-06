@@ -123,12 +123,16 @@ main:
   - name: Network
     weight: 50
   - name: EVERSE Network
-    weight: 5
+    weight: 10
     pageRef: /network
     parent: Network
   - name: Contact EVERSE
-    weight: 10
+    weight: 20
     pageRef: /contact
+    parent: Network  
+  - name: Code of Conduct
+    weight: 30
+    pageRef: /network/code_of_conduct
     parent: Network  
   # - name: Communities
   #   weight: 10
