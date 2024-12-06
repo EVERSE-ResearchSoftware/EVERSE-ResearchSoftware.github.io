@@ -7,7 +7,7 @@ showDate: false
 groupByYear: false
 ---
 
-## Improving Research Software Quality ##
+## Improving Research Software Quality
 
 {{< figure src="/images/network/network_all.png" class="float-right m-2 w-[30%]" >}}
 
@@ -37,20 +37,22 @@ We will support our members in establishing their own local communities for soft
 
 ---
 
-### Join Us ###
+### Join Us
+
 Any individual or organisation that agrees with our vision statement is welcome to join the network.
 
-#### <font color="40A3DC"> Individual Membership </font> ####
+#### <font color="80529a"> Individual Membership </font>
+
 Any individuals agreeing to our principles may apply to join the network. There are no formal professional or other qualifications required. There is no fee for joining.
 
-#### <font color="40A3DC"> Organisational Membership </font> ####
+- Follow the link, let us know about your interests, and become a member of the Network by filling in this [short form](https://ec.europa.eu/eusurvey/runner/EVERSENetworkJoinIndividual).
+
+#### <font color="80529a"> Organisational Membership </font>
+
 Organisations with an interest in research software quality, and who agree with our principles and are potentially willing to adopt and contribute to the EVERSE outputs, can apply to join the network. There is no fee in this initial stage of the network.
 
-### Interested? ###
-
-Then follow the link and let us know about your interests to become a member of the Network:
-https://ec.europa.eu/eusurvey/runner/EVERSENetworkJoinIndividual
+- If your organisation wishes to be an EVERSE Network member, please [send us an email](mailto:contact@everse.software).
 
 ---
 
-If you have further questions or specific requests, please [get in touch](/contact).
+*If you have further questions or specific requests, please [get in touch](/contact).*
