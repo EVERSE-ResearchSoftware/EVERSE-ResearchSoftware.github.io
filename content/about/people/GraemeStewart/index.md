@@ -15,6 +15,7 @@ params:
     link: https://graeme-a-stewart.github.io
     linkedin: graeme-stewart-355b93318
     bluesky: graeme-a-stewart.bsky.social
+    gitlab: https://gitlab.cern.ch/graemes
 ---
 
 {{< figure src="feature.jpg" alt="A photo of Graeme on the Jura mountains, Fiona Crawford" class="float-right m-2 w-[30%]" >}}
