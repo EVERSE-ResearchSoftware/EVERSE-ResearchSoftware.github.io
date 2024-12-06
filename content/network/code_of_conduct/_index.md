@@ -17,7 +17,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 5. Show courtesy and respect towards other community members. Address and acknowledge everyone equally and ensure everyone has an equal opportunity to make comments, ask questions and voice opinions.
 6. Use social media responsibly, respecting both individuals and the organisation hosting the meeting.
 
-If you believe someone is violating the Code of Conduct, we ask that you report it to the EVERSE Code of Conduct Committee by everse-ccc@lists.certh.gr, who will take the appropriate action to address the situation.
+If you believe someone is violating the Code of Conduct, we ask that you report it to the EVERSE Code of Conduct Committee by **everse-ccc@lists.certh.gr**, who will take the appropriate action to address the situation.
 
 ## <font color="40A3DC"> Code of Conduct - Complete description </font> 
 
@@ -27,7 +27,7 @@ Here you can find the full EVERSE Code of Conduct.
 
 The EVERSE Network is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others. \
 To make clear what is expected, everyone participating in EVERSE activities is required to conform to the Code of Conduct. This CoC applies to all spaces managed by EVERSE including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack, Mastodon, X, BlueSky and LinkedIn. Workshop hosts are expected to assist with the enforcement of the CoC. \
-The EVERSE Code of Conduct Committee is responsible for enforcing the Code of Conduct. It can be contacted by emailing everse-ccc@lists.certh.gr . All reports will be reviewed by the CoC Committee and will be kept confidential.
+The EVERSE Code of Conduct Committee is responsible for enforcing the Code of Conduct. It can be contacted by emailing **everse-ccc@lists.certh.gr** . All reports will be reviewed by the CoC Committee and will be kept confidential.
 
 ### Part 2: EVERSE Code of Conduct
 
@@ -45,11 +45,11 @@ All participants in our events and communications are expected to show respect a
 * Address and acknowledge everyone equally and ensure everyone has an equal opportunity to make comments, ask questions and voice opinions.
 * Use social media responsibly, respecting both individuals and the organisation hosting the meeting
 
-Note: See the four social rules for further recommendations.
+<!--- Note: See the four social rules for further recommendations.--->
 
 #### Part 2.2: Unacceptable behaviour
 
-Examples of unacceptable behaviour by participants at any EVERSE event/platform include: 
+Examples of unacceptable behaviour by participants at any EVERSE event/platform include but are not limited to: 
 * Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group. 
 * Causing someone to fear for their safety, such as through stalking, following, or intimidation. 
 * Violent threats or language directed against another person. 
@@ -64,9 +64,11 @@ Examples of unacceptable behaviour by participants at any EVERSE event/platform 
 * Continuing to initiate interaction (including photography or recording) with someone after being asked to stop. 
 * Publication of private communication without consent.
 
-#### Part 2.3: Consequences of Unacceptable behaviour
+Should you experience or observe inappropriate behaviour do not hesitate to contact the organisers (in case of an online event) or get in touch directly with the EVERSE Code of Conduct Committee: **everse-ccc@lists.certh.gr** .
 
-Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any EVERSE events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage the EVERSE Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+## Part 3: Consequences of Unacceptable behaviour
+
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any EVERSE events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage the EVERSE Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions. 
 
 -----
 
