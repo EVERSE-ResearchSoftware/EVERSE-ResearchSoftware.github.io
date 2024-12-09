@@ -19,7 +19,7 @@ params:
     gitlab: https://gitlab.cern.ch/graemes
 ---
 
-{{< figure src="feature.jpg" alt="A photo of Graeme on the Jura mountains, Fiona Crawford" class="float-right m-2 w-[30%]" >}}
+{{< figure src="feature.jpg" alt="A photo of Graeme on the Jura mountains, (C) Fiona Crawford 2024" class="float-right m-2 w-[30%]" >}}
 
 Graeme Stewart is leading [Work Package
 1](/workpackages/01_framework_european_network/). He is based at CERN where he
