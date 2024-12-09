@@ -1,0 +1,40 @@
+<!-- Look for media links for this page and render appropriately  -->
+{{ $media := .Page.Params.media }}
+
+{{ if $media }}
+  {{ $linkUrl := "" }}
+  {{ $Name := "" }}
+  <ul>
+  {{ range $k, $v := $media }}
+    {{ $Name = $k }}
+    {{ if eq $k "link" }}
+      {{ $Name = "website" }}
+    {{ end }}
+    {{ if or (hasPrefix $v "http") (hasPrefix $v "mailto" ) }}
+      {{ $linkUrl = $v }}
+    {{ else if eq $k "bluesky"}}
+      {{ $linkUrl = urls.JoinPath "https://bsky.app/profile" $v }}
+    {{ else if eq $k "github" }}
+      {{ $linkUrl = urls.JoinPath "https://github.com/" $v }}
+    {{ else if eq $k "linkedin" }}
+      {{ $linkUrl = urls.JoinPath "https://www.linkedin.com/in/" $v }}
+    {{ else if eq $k "x-twitter" }}
+      {{ $linkUrl = urls.JoinPath "https://x.com/" $v }}
+    {{ else if eq $k "link" }}
+      {{ $linkUrl = $v }}
+    {{ else if eq $k "email" }}
+      {{ $linkUrl = printf "mailto:%s" $v }}
+    {{ else }}
+      {{ $linkUrl = "" }}
+    {{ end }}
+    <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+      <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="{{ $linkUrl }}" title="{{ $Name }}">
+        <span class="mr-1">
+            {{ partial "icon.html" $k }}
+        </span>
+        {{ $Name | markdownify | emojify }}
+      </a>
+    </li>
+  {{ end }}
+  </ul>
+{{ end }}
