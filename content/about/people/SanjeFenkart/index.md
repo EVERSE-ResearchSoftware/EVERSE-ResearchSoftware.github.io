@@ -10,7 +10,7 @@ params:
     institute: CERN
     media:
         email: sanje.antona.fenkart@cern.ch
-        github: https://github.com/SanjeAntona
+        github: SanjeAntona
         linkedin: sanje-fenkart-656823255?l
 ---
 {{< figure src="feature.jpg" alt= "photo of Sanje, (C) Christin Hristova, Christop Markus Rist" class="float-right m-2 w-[30%]" >}} 
