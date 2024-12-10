@@ -51,9 +51,10 @@ When you are happy, push the changes to your fork, then make a pull request back
 On our webpage we also want to present the EVERSE members. As a member you can have your own page about yourself. For this, we would ask you to:
 
 1. Create a new branch in the repository.
-2. Create a new folder in `content/about/people` with your name "FirstnameLastname" with an `index.md`file. You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/GraemeStewart) or Sanje Fenkart) on how to setup the header.
-3. Your profile information should contain: your name ("First Name + Last Name"), your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) and then 2-3 sentences about yourself and your work.
-4. To show your involvement in EVERSE you should add metadata in the YAML header. See the examples linked above! For example: if you are part of Work Package 1 you can add a ```wp1``` label in the header under ```params```. Similarly labels for work package leaders can be added too (```wp1wpl```) and you set these labels to ```true```. This will automatically link you to the dedicated pages of work packages.
+2. Create a new folder in `content/about/people` with your name "FirstnameLastname" with an `index.md`file. You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/GraemeStewart) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/SanjeFenkart)) on how to setup the header.
+3. Your profile information should contain: your name ("First Name + Last Name"), your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) put into  3-4 sentences about yourself and your work.
+4. To show your involvement in EVERSE you should add metadata in the YAML header. See the examples linked above! \
+For example: if you are part of Work Package 1 you can add a ```wp1``` label in the header under ```params```. Similarly labels for work package leaders can be added too (```wp1wpl```) and you set these labels to ```true```. This will automatically link you to the dedicated pages of work packages.
 5. Also under ```params``` you should add your contact information:
 ```
 params:
@@ -64,7 +65,9 @@ params:
       linkedin: [handle link]
       bluesky: [handle link]
  ```     
-  You can add your desired means of contact here. A dedicated shortcode under `layouts/shortcodes/inser-media-links.html` processes the information. (Note that ```link``` connects to a webpage about you, like a personal one.) \
+You can add your desired means of contact here. A dedicated shortcode under `layouts/shortcodes/inser-media-links.html` processes the information. (Note that ```link``` connects to a webpage about you, like a personal one.) You can find the supported media links in the mentioned file. 
+
+Note: In order for your contact details to be displayed add  `{{< insert-media-links >}}` at the end of the file.
 
 If you don't want to link your email directly, you can also choose to spell out your address and obscure it (`me AT my.institute`).
 
@@ -74,7 +77,7 @@ params:
     institute: [name]
 ```
 
-This will automatically link you to the dedicated entry of the tagged [Consortium partner](https://everse.software/about/consortium/). You can find the according label acronym [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners). 
+  This will automatically link you to the dedicated entry of the tagged [Consortium partner](https://everse.software/about/consortium/). You can find the according label acronym [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners). 
 
 7. Please add a picture of yourself using the filename `feature.jpg` (potrait format/square). Your jpeg should have at least 256 px (or a minimum of 100 KB). You can find the command for the correct layout and insertion for the image in the example files.
 
