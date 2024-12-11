@@ -66,7 +66,7 @@ params:
       bluesky: [handle link]
  ```     
 You can add your desired means of contact here. In order for your contact details to be displayed add  `{{< insert-media-links >}}` at the end of the file.  
-For BlueSky, GitHub and X/Twitter adding the username suffices, the url will be constructed automatically. (ote that `link` connects to a webpage of your choice about you, e.g. a personal one.
+For BlueSky, GitHub and X/Twitter adding the username suffices, the url will be constructed automatically. (Note that `link` connects to a webpage of your choice about you, e.g. a personal one.
 
 If you don't want to link your email directly, you can also choose to spell out your address and obscure it (`me AT my.institute`).
 
