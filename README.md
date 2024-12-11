@@ -65,9 +65,8 @@ params:
       linkedin: [handle link]
       bluesky: [handle link]
  ```     
-You can add your desired means of contact here. A dedicated shortcode under `layouts/shortcodes/inser-media-links.html` processes the information. (Note that ```link``` connects to a webpage about you, like a personal one.) You can find the supported media links in the mentioned file. 
-
-Note: In order for your contact details to be displayed add  `{{< insert-media-links >}}` at the end of the file.
+You can add your desired means of contact here. In order for your contact details to be displayed add  `{{< insert-media-links >}}` at the end of the file.  
+For BlueSky, GitHub and X/Twitter adding the username suffices, the url will be constructed automatically. (ote that `link` connects to a webpage of your choice about you, e.g. a personal one.
 
 If you don't want to link your email directly, you can also choose to spell out your address and obscure it (`me AT my.institute`).
 
@@ -79,7 +78,8 @@ params:
 
   This will automatically link you to the dedicated entry of the tagged [Consortium partner](https://everse.software/about/consortium/). You can find the according label acronym [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners). 
 
-7. Please add a picture of yourself using the filename `feature.jpg` (potrait format/square). Your jpeg should have at least 256 px (or a minimum of 100 KB). You can find the command for the correct layout and insertion for the image in the example files.
+7. Please add a picture of yourself using the filename `feature.jpg` (potrait format/square). Your jpeg should have at least 256 px (or a minimum of 100 KB). You can find the command for the correct layout and insertion for the image in the example files. \
+E.g.: `{{< figure src="feature.jpg" alt= "photo of Sanje, (C) Christin Hristova, Christop Markus Rist" class="float-right m-2 w-[30%]" >}}`. Please add according credit in the `alt`text and stick to the value in `class`.
 
 For further information on how to add new content see the instruction on "Modifying and Adding content" above.
 
