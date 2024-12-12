@@ -48,52 +48,48 @@ Run `hugo serve` in the base directory of your check that the changes work as yo
 When you are happy, push the changes to your fork, then make a pull request back to the main EVERSE repository.
 
 ## Faces of EVERSE
-On our webpage we also want to present the EVERSE members. Each person can create their own entry with a bit of professional information about themselves.
 
-Your presentation page should contain a few sentences about yourself and a picture. This will be handled by a `index.md` with the text and two essential shortcodes: one for a picture (has to be named `feature.jpg`) and one for displaying your metadata (contact information, institutional affiliation, EVERSE affilitation ).
+On our webpage we also want to present EVERSE members. Each person can create their own entry with a bit of professional information about themselves.
 
-You can do this by yourself by following the instruction below and opening a pull request on the [EVERSE webpage repository](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io) on GitHub with SanjeAntona (or graeme-a-stewart) as your reviewer. \
-In case you don't feel comfortable creating this yourself or you don't have a GitHub account, send all your details (as described in the instructions and templates below) to sanje.antona.fenkart@cern.ch. 
+Your presentation page should contain a few sentences about yourself and a picture. The former is a page in markdown, `index.md`, with the text about yourself as well as some metadata; the later is just a JPG, which has to be called `feature.jpg` and should ideally be square and at least 256px each side.
 
-**Instructions for creating your own person page**
+You can prepare this yourself following the instructions below and opening a pull request on the [EVERSE webpage repository](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io) with [SanjeAntona](https://github.com/SanjeAntona) (or [graeme-a-stewart](https://github.com/graeme-a-stewart)) as a reviewer.
 
-1. Create a new branch from the repository on your local machine. 
-2. Create a new folder in `content/about/people` with your name "FirstnameLastname" with the `index.md`file. You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/GraemeStewart) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/SanjeFenkart)) on how to setup the header.
-3. Your profile information should contain: your name ("First Name + Last Name"), your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) put into  3-4 sentences about yourself and your work.
-4. To show your involvement in EVERSE you should add metadata in the YAML header. See the examples linked above! \
-For example: if you are part of Work Package 1 you can add a ```wp1``` label in the header under ```params```. Similarly labels for work package leaders can be added too (```wp1wpl```) and you set these labels to ```true```. This will automatically link you to the dedicated pages of work packages.
-5. Also under ```params``` you should add your contact information:
+In case you don't feel comfortable creating this yourself or you don't have a GitHub account, send all your details (as described in the instructions and templates below) to <mailto:sanje.antona.fenkart@cern.ch>.
+
+### Instructions for creating your own person page
+
+1. Create a new branch from the repository on your local machine (e.g., `graeme-everse-page` as branch name).
+2. Create a new folder in `content/about/people/FirstnameLastname` containing an `index.md`file. 
+  -  You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/GraemeStewart) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/SanjeFenkart)) for examples of this.
+3. Your text profile information should contain: your name, your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) and 3-4 sentences about yourself and your work.
+  - Note also the two special *short codes* that are needed - the first one inserts your picture, the second will process your professional contact/media information.
+4. To show your involvement in EVERSE you need to add metadata in the YAML header under `params`. 
+  - If you are involved in work package `N` add `wpN: true`. If you are a work package leader add `wpNwpl: true` and `wpl: true`.
+  - Add also your institute, using the abbreviations [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners), e.g., `institute: CERN`.
+  - Finally, under ```media``` add your contact information for the options:
 ```
-params:
-    media:
       email: [address]
       github: [link]
       link: [link to website]
       linkedin: [handle link]
       bluesky: [handle link]
+      x-twitter: [handle link]
  ```     
-You can add your desired means of contact here. In order for your contact details to be displayed add  `{{< insert-media-links >}}` at the end of the file!   
-For BlueSky, GitHub and X/Twitter adding the username suffices, the url will be constructed automatically. (Note that `link` connects to a webpage of your choice about you, e.g. a personal one.)
-
-If you don't want to link your email directly, you can also choose to spell out your address and obscure it (`me AT my.institute`).
-
-6. The same applies for tagging your affiliation under: 
-```
-params:
-    institute: [name]
-```
-
-  This will automatically link you to the dedicated entry of the tagged [Consortium partner](https://everse.software/about/consortium/). You can find the according label acronym [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners). 
-
-7. Please add a picture of yourself using the filename `feature.jpg` (potrait format/square)! Your jpg should have at least 256 px (or a minimum of 100 KB). You can find the command for the correct layout and insertion for the image in the example files. E.g.: 
+In order for your contact details to be displayed remember the  `{{< insert-media-links >}}` at the end of the file!
+  - For BlueSky, GitHub and X/Twitter adding the username suffices, the url will be constructed automatically.
+  - `link` connects to a webpage of your choice, e.g. a personal website.
+  - If you don't want to link your email directly, you can also choose to spell out your address and obscure it (`me AT my.institute`).
+  - For complete examples see the templates above.
+5. Then add a picture of yourself, using the filename `feature.jpg`, (potrait format/square)! Your jpg should have at least 256 px (or a minimum of 100 KB). You can find the command for the correct layout and insertion for the image in the example files: 
 ```
 {{< figure src="feature.jpg" alt= "photo of Sanje, (C) Christin Hristova, Christop Markus Rist" class="float-right m-2 w-[30%]" >}}
 ```
+Please add picture credit in the `alt` text.
 
-Please add according credit in the `alt` text and stick to the value in `class`.
+For further information on how to add new content see the instructions on "Modifying and Adding content" above.
 
-For further information on how to add new content see the instruction on "Modifying and Adding content" above.
-
+You can preview the results locally using `hugo` or submit a PR and the Netlify infrastructure will generate the page for you. You may have to manually construct the URL to actually see it, by adding `about/people/YourName` to the preview base URL.
 
 ## Problems? Issues?
 
