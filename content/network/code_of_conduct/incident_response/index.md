@@ -3,7 +3,7 @@ title: Code of Conduct Incident Response Guidelines
 description: 
 identifier: coc
 draft: false 
-weight: 10
+weight: 100
 ---
 
 Information on how to report a [Code of Conduct](/network/code_of_conduct/)
@@ -85,6 +85,8 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 ----
 <div class="text-sm">
 
-The Incident Guidelines presented here are based on the guidelines from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/incident-response.html). For more information, please refer to the original document. s
+The Incident Guidelines presented here are based on the guidelines from the [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/incident-response.html). For more information, please refer to the original documents.
 
 <div />
+
+[Return to the main Code of Conduct page](..)
