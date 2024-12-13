@@ -4,10 +4,7 @@ description: Overview
 identifier: home
 draft: false 
 weight: 10
-
 ---
-
-<!-- {{< figure src="/images/everse-logo-white-bg.png" alt="EVERSE Logo" class="justify-center" >}} -->
 
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
 **Latest:** *You can read the first [EVERSE
