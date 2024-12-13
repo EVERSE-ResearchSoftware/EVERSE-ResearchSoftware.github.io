@@ -31,6 +31,6 @@ We will be circulating a draft agenda and further details closer to the date. Th
 
 Please share with any groups and colleagues you think might be interested in the event.
 
-Contact: Elena Breitmoser, <mailto:e.breitmoser@epcc.ed.ac.uk>
+Contact: [Elena Breitmoser](mailto:e.breitmoser@epcc.ed.ac.uk).
 
 Run by EVERSE - European Virtual Institute for Research Software Excellence.
