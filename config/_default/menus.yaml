@@ -170,10 +170,10 @@ footer:
     url: https://www.linkedin.com/company/eosc-everse
     pre: linkedin
     weight: 120
-  # - name: Mastodon
-  #   url: https://mastodon.instance/@username
-  #   pre: mastodon
-  #   weight: 110
+  - name: BlueSky
+    url: https://bsky.app/profile/eosc-everse.bsky.social
+    pre: bluesky
+    weight: 125
   - name: X-Twitter
     url: https://twitter.com/eosc_everse
     pre: x-twitter
