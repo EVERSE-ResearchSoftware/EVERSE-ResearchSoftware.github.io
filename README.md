@@ -61,7 +61,7 @@ In case you don't feel comfortable creating this yourself or you don't have a Gi
 
 1. Create a new branch from the repository on your local machine (e.g., `graeme-everse-page` as branch name).
 2. Create a new folder in `content/about/people/FirstnameLastname` containing an `index.md`file. 
-  -  You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/GraemeStewart) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/people/SanjeFenkart)) for examples of this.
+  -  You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/people/GraemeStewart/index.md?plain=1) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/people/SanjeFenkart/index.md?plain=1)) for examples of this.
 3. Your text profile information should contain: your name, your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) and 3-4 sentences about yourself and your work.
   - Note also the two special *short codes* that are needed - the first one inserts your picture, the second will process your professional contact/media information.
 4. To show your involvement in EVERSE you need to add metadata in the YAML header under `params`. 
