@@ -12,10 +12,7 @@ params:
   media:
     email: a.nenadic@manchester.ac.uk
     github: anenadic
-    link: 
     linkedin: aleksandra-nenadic-bb64b96
-    bluesky: 
-    gitlab: 
 ---
 
 {{< figure src="feature.jpg" alt="Avatar of Aleks, (C) Lauren Beard 2019" class="float-right m-2 w-[30%]" >}}
