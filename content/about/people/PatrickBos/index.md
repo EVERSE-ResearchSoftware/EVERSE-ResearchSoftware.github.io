@@ -18,7 +18,7 @@ params:
     bluesky: egpbos.bsky.social
 ---
 
-{{< figure src="feature.jpg" alt="photo of Patrick" class="float-right m-2 w-[30%]" >}}
+{{< figure src="feature.jpg" alt="photo of Patrick, (C) Netherlands eScience Center" class="float-right m-2 w-[30%]" >}}
 
 Patrick co-leads [Work Package 2](/workpackages/02_best_practices) and is an editor for the [RSQKit](https://everse.software/RSQKit).
 He is Technology Lead for Software Quality at the Netherlands eScience Center.
