@@ -16,7 +16,7 @@ params:
         linkedin: npechl
         link: https://npechl.github.io/
 ---
-{{< figure src="feature.jpg" alt= "photo of Nikos" class="float-right m-2 w-[30%]" >}} 
+{{< figure src="feature.jpg" alt= "photo of Nikos, (C) Fotini Georgakopoulou 2024" class="float-right m-2 w-[30%]" >}} 
 
 Nikos is a bioinformatics engineer at the [Institute of Applied Biosciences (INAB)](https://www.inab.certh.gr/), part of the [Centre for Research and Technology, Hellas (CERTH)](https://www.certh.gr/root.en.aspx) in Thessaloniki, Greece. As a member of the EVERSE project, he contributes to multiple work packages, including WP2, WP3, WP4, and WP6.
 
