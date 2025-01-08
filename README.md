@@ -85,7 +85,7 @@ In order for your contact details to be displayed remember the  `{{< insert-medi
 ```
 {{< figure src="feature.jpg" alt= "photo of Sanje, (C) Christin Hristova, Christop Markus Rist" class="float-right m-2 w-[30%]" >}}
 ```
-Please add picture credit in the `alt` text.
+**Please add according credit in the `alt` text and stick to the value in `class`. If you're the owner/photographer, add "(C) private."**
 
 For further information on how to add new content see the instructions on "Modifying and Adding content" above.
 
