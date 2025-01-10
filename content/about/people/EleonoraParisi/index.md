@@ -16,7 +16,7 @@ params:
 
 {{< figure src="feature.jpg" alt= "Headshot of Eleonora on the UniSalento Ecotekne Campus, (C) Fabrizio Lecce 2022" class="float-right m-2 w-[30%]" >}}
 
-Eleonora Parisi leads Task 5.3 which aims to establish a long-term framework for the training activities supported by EVERSE, including: a network of training coordinators, knowledge exchange workshops and a discovery series on best practices for software quality.
+Eleonora Parisi leads Task 5.3 which aims to establish a long-term framework for the training activities supported by EVERSE, including: a network of training coordinators, knowledge exchange workshops and a discovery series on best practices for research software quality.
 
 Eleonora is a digital learning specialist with a background in communication studies. As a training officer at LifeWatch ERIC, she contributes to the design and implementation of training strategies catering for the needs of researchers in environmental science. 
 
