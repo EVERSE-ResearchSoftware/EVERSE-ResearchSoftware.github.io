@@ -18,7 +18,7 @@ params:
     bluesky: fpsom.bsky.social
 ---
 
-{{< figure src="feature.jpg" alt="A photo of Fotis" class="float-right m-2 w-[30%]" >}}
+{{< figure src="feature.jpg" alt="A photo of Fotis, (C) Fotis Psomopoulos," class="float-right m-2 w-[30%]" >}}
 
 Dr. Fotis Psomopoulos is a Senior Researcher at the Institute of Applied Biosciences, at the Centre for Research and Technology Hellas, in Thessaloniki Greece. His research interests lie at the intersection of Bioinformatics and Machine Learning, primarily working on the design and implementation of novel algorithms for knowledge extraction from large datasets in Life Sciences.
 
