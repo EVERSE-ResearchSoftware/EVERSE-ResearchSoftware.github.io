@@ -126,6 +126,10 @@ main:
     weight: 10
     pageRef: /network
     parent: Network
+  - name: Newsletter
+    weight: 15
+    pageRef: /network/newsletter
+    parent: Network
   - name: Contact EVERSE
     weight: 20
     pageRef: /contact
