@@ -126,11 +126,7 @@ main:
     weight: 10
     pageRef: /network
     parent: Network
-  - name: EVERSE Launch
-    weight: 12
-    pageRef: /network/launch
-    parent: Network  
-  - name: EVERSE Network Launch
+  - name: Contact EVERSE
     weight: 20
     pageRef: /contact
     parent: Network  
