@@ -28,7 +28,6 @@ Registration will be available soon.
 
 ## Meeting Venue
 
-BSC premises, Barcelona.<br>
 [**BSC | Barcelona Supercomputing Center**](https://www.bsc.es/)<br>
 *Plaça Eusebi Güell, 1-3<br>*
 *08034 Barcelona (Spain)*
