@@ -21,13 +21,19 @@ The **EVERSE General Assembly Meeting** will take place from 19 to 21 March 2025
 
 Registration will be available soon.
 
+## Time and Date
+
+- **Start**: Wednesday 19th March 2025 at 12:00 h
+- **End**: Friday 21st March 2025 at 13:00 h
+
 ## Meeting Venue
 
+BSC premises, Barcelona.<br>
 [**BSC | Barcelona Supercomputing Center**](https://www.bsc.es/)<br>
 *Plaça Eusebi Güell, 1-3<br>*
 *08034 Barcelona (Spain)*
 
-## Agenda
+<!-- ## Agenda
 
 
 <details>
@@ -94,4 +100,4 @@ Registration will be available soon.
 
 **BSC? will assume the costs of this meal for each of the attendees. As such, said attendees agree to renounce the corresponding per diem expenses.*
 
-</details>
+</details> -->
