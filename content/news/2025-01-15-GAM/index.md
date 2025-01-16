@@ -1,21 +1,37 @@
 ---
-title: "General Assembly Meeting "
+title: "General Assembly Meeting"
 draft: false
 date: 2025-01-15T00:00:00Z
 start_date: 2025-01-15T00:00:00Z
 end_date: 2025-03-21T00:00:00Z
 summary: >
-    The EVERSE General Assembly Meeting is taking place in Barcelona, from 19-21 March 2025.
-    The project participants gathered to start to create a framework for research 
-    software and code excellence. In close collaboration with the 
-    five EOSC Science Clusters and the OSCARS project the process of
-    building a **European Network of Research Software Quality** began.
-
+    The **EVERSE General Assembly Meeting** will be held in **Barcelona, Spain, from March 19 to 21, 2025**. 
+    Participants from the project will come together to present their progress in developing a framework 
+    for research software and code excellence.
 ---
+
+The **EVERSE General Assembly Meeting** will take place from 19 to 21 March 2025 in Barcelona, Spain. 
+
+{{< flex-content >}}
+<--->
+{{< figure src="feature.png" alt="Photo of Barcelona city. Photo on [Unsplash](https://unsplash.com/)">}}
+{{< /flex-content>}}
+
+## Registration
+
+Registration will be available soon.
+
+## Meeting Venue
+
+[**BSC | Barcelona Supercomputing Center**](https://www.bsc.es/)<br>
+*Plaça Eusebi Güell, 1-3<br>*
+*08034 Barcelona (Spain)*
 
 ## Agenda
 
-### DAY 1 – Wednesday 19 March 2025
+
+<details>
+<summary> <b>Day 1</b>, <i>Wednesday, March 19, 2025</i> </summary>
 
 | *Timeslot*    | Description |
 | ------------- | ----------- |
@@ -29,7 +45,13 @@ summary: >
 
 **BSC? will assume the costs of this meal for each of the attendees. As such, said attendees agree to renounce the corresponding per diem expenses.*
 
-### DAY 2 – Thursday 20 March 2025
+</details>
+
+<br>
+
+<details>
+
+<summary> <b>Day 2</b>, <i>Thursday, March 20, 2025</i> </summary>
 
 | *Timeslot*    | Description |
 | ------------- | ----------- |
@@ -53,7 +75,13 @@ summary: >
 - *During the WP presentations, have an “informal” survey in place, to capture possible outputs that are obviously missing (and we should be focusing on them in the next few months)*
 - *Focus on cross-WP activities/requirements/dependencies*
 
-### DAY 3 – Friday 21 March 2025
+</details>
+
+<br>
+
+<details>
+
+<summary> <b>Day 3</b>, <i>Friday, March 21, 2025</i> </summary>
 
 | *Timeslot*    | Description |
 | ------------- | ----------- |
@@ -65,3 +93,5 @@ summary: >
 | 12:30 | End of meeting / Lunch and departure |
 
 **BSC? will assume the costs of this meal for each of the attendees. As such, said attendees agree to renounce the corresponding per diem expenses.*
+
+</details>
