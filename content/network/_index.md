@@ -7,6 +7,10 @@ showDate: false
 groupByYear: false
 ---
 
+{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
+*Register to join us for the [EVERSE Network Launch event](https://indico.cern.ch/e/eversenetworklaunch) on 18 February!*
+{{<  /alert >}}
+
 ## Improving Research Software Quality
 
 {{< figure src="/images/network/network_all.png" class="float-right m-2 w-[30%]" >}}
@@ -18,8 +22,6 @@ The EVERSE project is committed to improving the quality of software in European
 Our vision of the EVERSE Network of Research Software Quality is to establish a Community of Practice to improve the quality of research software in Europe and beyond. EVERSE and partners work to provide standard and documented practices around tools and training for software developers, researchers who code and research software engineers and service providers. This will help them to write better code. We help define the meaning and principles of software quality for the research domain. We work for enhanced recognition for software developers contributing to research activities.
 
 ### Value
-
-{{< figure src="/images/network/network1_strip.png" class="float-left m-2 w-[15%]" >}}
 
 Members of EVERSE and of the software quality Network can:
 
