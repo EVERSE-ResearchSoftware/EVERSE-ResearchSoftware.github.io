@@ -16,3 +16,5 @@ summary: >
 {{< /flex-content>}}
 
 We're  back with our second edition of "Into the EVERSE".  It introduces a new series where our work packages present their tasks and goals, first one up is [Work Package 2 - Best Practice](https://everse.software/workpackages/02_best_practices/). In October many of our members joined the yearly EOSC Symposium, that took place in Berlin and launched the first EU Node, and shortly after a new EOSC-A Opportunity Area (OA7) opened as a collaboration between EVERSE and FAIRCORE4EOSC. Read all about it, our upcoming Network launch event and more in the newsletter.
+
+You can read the newsletter as a PDF [here](Newsletter-2025-01.pdf).
