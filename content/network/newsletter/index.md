@@ -12,7 +12,7 @@ ____
 ## <font color="3ea3dc"> All editions of "Into the EVERSE" </font>
 
 ### January 2025 - Nr. 2 ###
-dnowed
+
 
 ### October 2024 - Nr. 1 
 {{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
