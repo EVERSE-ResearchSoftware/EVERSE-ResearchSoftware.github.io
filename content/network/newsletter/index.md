@@ -11,12 +11,13 @@ You can find all published editions below. To subscribe, click the button on the
 ____
 ## <font color="3ea3dc"> All editions of "Into the EVERSE" </font>
 
-### January 2025 - Nr. 2 ###
+| **Edition** | **Date** | **Download PDF** |
+|---|---|---|
+| 1 | October 2024 | [PDF](Newsletter-2024-10.pdf) |
+| 2 | January 2025 | PDF to come |
 
-
-### October 2024 - Nr. 1 
-{{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
-{{< /a >}}
+<!-- {{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
+{{< /a >}} -->
 
 
 _________
