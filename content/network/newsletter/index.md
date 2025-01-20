@@ -5,6 +5,22 @@ draft: false
 display_in_summary: true
 ---
 
+"Into the EVERSE" is our quarterly newsletter, reporting on news from the project directly, the world of EOSC and our partners working on research software quality. It is also one of our main channels to keep the Network and its members informed.
+
+You can find all published editions below. To subscribe, click the button on the bottom of the page. Your contact details are only used for the subscription and will not be given to other parties.
+____
+## <font color="3ea3dc"> All editions of "Into the EVERSE" </font>
+
+### January 2025 - Nr. 2 ###
+dnowed
+
+### October 2024 - Nr. 1 
+{{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
+{{< /a >}}
+
+
+_________
+
 <!-- MailerLite Universal -->
 
 <script>
