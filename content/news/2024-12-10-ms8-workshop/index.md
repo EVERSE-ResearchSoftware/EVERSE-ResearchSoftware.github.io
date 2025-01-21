@@ -9,11 +9,12 @@ summary: >
 
 ---
 
-EVERSE [Work Package 3](/workpackages/03_tools_and_services/) on *Tools and Services* is organising an interactive workshop to examine which tools and services researchers use to improve the quality of research software, and how they use them!
+EVERSE [Work Package 3](/workpackages/03_tools_and_services/) on *Tools and Services* is organising an interactive **online** workshop to examine which tools and services researchers use to improve the quality of research software, and how they use them!
 
 ## Save the date: Monday 10th February 2025, 10:00-16:00 CET
 
 Please register your interest [here](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYY8mG3jqdkZDlfFoAQVJfklUNVNQMEVQUDQ4SUg1MVpXRzRIMDZONDYwQi4u). 
+
 
 ## Is this workshop for you? Join us if you:
 
