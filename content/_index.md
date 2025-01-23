@@ -11,7 +11,7 @@ weight: 10
 {{<  /alert >}}
 &nbsp;
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Read our new January 2025 newsletter [here](newsletter/network)!*
+*Read our new January 2025 newsletter [here](/network/newsletter/)!*
 {{<  /alert >}}
 
 ## High Quality Research Software for the Communities by the Communities
