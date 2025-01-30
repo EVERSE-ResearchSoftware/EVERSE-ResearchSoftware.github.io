@@ -18,7 +18,7 @@ params:
 
 {{< figure src="feature.jpg" alt="photo of Carlos, (C) Netherlands eScience Center" class="float-right m-2 w-[30%]" >}}
 
-Carlos is involved in [Work Package 1](workpackages/01_framework_european_network/).
+Carlos is involved in [Work Package 1](/workpackages/01_framework_european_network/).
 He is a [Community Manager at the Netherlands eScience Center](https://www.esciencecenter.nl/team/dr-carlos-martinez-ortiz/).
 In this role, he advocates for best practices in research software development and connects people who are working in this field.
 He previously worked as an RSE at the eScience Center and is active in the RSE community in the Netherlands and internationally.
