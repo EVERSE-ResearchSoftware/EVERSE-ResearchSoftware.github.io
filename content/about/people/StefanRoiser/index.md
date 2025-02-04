@@ -14,7 +14,7 @@ params:
     email: stefan.roiser@cern.ch
     github: roiser
     linkedin: roiser
-    bluesky: roiser
+    bluesky: roiser.bsky.social
 ---
 
 {{< figure src="feature.jpg" alt="A photo of Stefan in the Camargue (C) Private" class="float-right m-2 w-[30%]" >}}
