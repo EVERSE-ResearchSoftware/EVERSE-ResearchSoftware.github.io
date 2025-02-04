@@ -1,7 +1,7 @@
 ---
 title: "Stefan Roiser"
 description: "Stefan's presentation"
-draft: true
+draft: false
 
 type: "people"
 
