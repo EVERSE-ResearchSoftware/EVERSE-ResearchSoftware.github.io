@@ -31,7 +31,7 @@ founded in 2010 as the first organisation in the world dedicated to improving so
 Neil has had many roles relating to research software, including: 
 co-leading the development of the [FAIR Principles for Research Software](https://doi.org/10.15497/RDA00068), 
 authoring a set of [metrics for automated FAIR software assessment](https://doi.org/10.5281/zenodo.10047400), 
-creating guidance on software citation for [authors](https://doi.org/10.5281/zenodo.3479198) and [developers](https://doi.org/10.5281/zenodo.3482768). 
+creating guidance on software citation for [authors](https://doi.org/10.5281/zenodo.3479198) and [developers](https://doi.org/10.5281/zenodo.3482768), 
 co-authoring [Best Practices for Scientific Computing](https://doi.org/10.1371/journal.pbio.1001745)
 and [An Open Science Peer Reviewers Oath](https://doi.org/10.12688/f1000research.5686.2), 
 and creating the [Research Software Development Principles](https://doi.org/10.5281/zenodo.11494173).
