@@ -9,6 +9,8 @@ params:
     wp2: true
     wp6: true
     wpl: true
+    wp6wpl: true
+    wp2wpl: true
     institute: BSC
     media:
         email: salvador.capella@bsc.es
