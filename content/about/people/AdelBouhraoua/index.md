@@ -22,3 +22,4 @@ Adel Bouhraoua is a Software Developer at the [University of Padua](https://unip
 
 With a focus on advancing recognition systems for non-traditional research assets, Adel has been instrumental in shaping [APICURON](https://apicuron.org) into a key platform for promoting equitable acknowledgment of research contributions. His role combines technical expertise with strategic input, ensuring impactful and sustainable outcomes.
 
+{{< insert-media-links >}}
