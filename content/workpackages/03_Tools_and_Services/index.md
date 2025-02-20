@@ -14,15 +14,11 @@ An essential component of work package 3 is the tight collaboration with all oth
 
 The final catalogue of tools will be implemented into the Research Software Quality kit [(RSQkit)](/services/rsqkit/) and is based on FAIR principles for software.
 
-
 {{< figure src="/images/workpackages/wp3/wp3_summary_web.png" alt="WP3 summary" width="100%" >}}
 
 This WP collaborates tightly with other WPs and notably with the Science Clusters identified in WP4 that helps to shape the developed tools to their needs.
 
-## Work Package Leads
-
-- [Thomas Vuillaume (CNRS-LAPP)](mailto:thomas.vuillaume@lapp.in2p3.fr)
-- Neil Chue Hong (UEDIN)
+{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp3lead" value=true  >}}
 
 ## Participants
 

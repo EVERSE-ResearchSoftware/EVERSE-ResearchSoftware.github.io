@@ -9,10 +9,7 @@ Each research community has its own techniques for computing-based research. Wor
 
 The curated best practices are gathered across four pillars: technical quality, FAIR principles, Openness and Software Sustainability. They are used to find a common framework and act as measurables for indicators of software quality. Woven into the RSQkit, these practices will be incorporated into the future Virtual Institute driven by WP1.
 
-## Work Package Leads
-
-- Salvador Capella-Gutierrez (BSC)
-- Patrick Bos (NLeSC)
+{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp2lead" value=true  >}}
 
 ## Participants
 

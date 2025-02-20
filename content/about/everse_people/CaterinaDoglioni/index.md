@@ -8,7 +8,7 @@ type: "people"
 params:
     wp4: true
     wpl: true
-    wp4wpl: true
+    wp4lead: true
     institute: UNIMAN
     media:
         email: caterina.doglioni@manchester.ac.uk

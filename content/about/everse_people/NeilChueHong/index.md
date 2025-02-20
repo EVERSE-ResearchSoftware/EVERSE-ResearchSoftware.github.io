@@ -9,7 +9,7 @@ params:
   wp1: true
   wp3: true
   wp6: true
-  wp3wpl: true
+  wp3lead: true
   wpl: true
   institute: University of Edinburgh
   media: 

@@ -65,7 +65,7 @@ In case you don't feel comfortable creating this yourself or you don't have a Gi
 3. Your text profile information should contain: your name, your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) and 3-4 sentences about yourself and your work.
   - Note also the two special *short codes* that are needed - the first one inserts your picture, the second will process your professional contact/media information.
 4. To show your involvement in EVERSE you need to add metadata in the YAML header under `params`. 
-  - If you are involved in work package `N` add `wpN: true`. If you are a work package leader add `wpNwpl: true` and `wpl: true`.
+  - If you are involved in work package `N` add `wpN: true`. If you are a work package leader add `wpNlead: true` and `wpl: true`.
   - Add also your institute, using the abbreviations [here](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/tree/main/content/about/partners), e.g., `institute: CERN`.
   - Finally, under ```media``` add your contact information for the options:
 ```
