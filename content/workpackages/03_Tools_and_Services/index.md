@@ -18,12 +18,7 @@ The final catalogue of tools will be implemented into the Research Software Qual
 
 This WP collaborates tightly with other WPs and notably with the Science Clusters identified in WP4 that helps to shape the developed tools to their needs.
 
-## Work Package Leads
-
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp3lead" value=true  >}}
-
-- [Thomas Vuillaume (CNRS-LAPP)](mailto:thomas.vuillaume@lapp.in2p3.fr)
-- Neil Chue Hong (UEDIN)
 
 ## Participants
 

@@ -10,12 +10,7 @@ Software and computing are becoming more and more essential tools for research, 
 
 While the work package will aim at creating a common framework, training methods will be tailored to the respective research communities (astronomy & particle physics, photon & neutron science, environmental science, life sciences, social sciences & humanities), so that developers can focus their learning on the most important tools for their discipline.
 
-## Work Package Leads
-
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp5lead" value=true  >}}
-
-- Stefan Roiser (CERN)
-- Daniel Garijo (UPM)
 
 ## Participants
 

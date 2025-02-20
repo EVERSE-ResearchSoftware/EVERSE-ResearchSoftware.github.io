@@ -10,12 +10,7 @@ Execution, supervision and the governance of EVERSE is handled by work package 6
 
 The project lead additionally appoints a Scientific Advisory Committee, coordinates the management board (includes work package leaders) and chairs the General Assembly (one representative of each consortium partner). As a last important point, WP6 ensures the implementation of ethical, legal and societal implication aspects.
 
-## Work Package Leads
-
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp6lead" value=true  >}}
-
-- Fotis Psomopoulos (CERTH)
-- Salvador Capella-Gutierrez (BSC)
 
 ## Participants
 
