@@ -10,6 +10,8 @@ This WP serves as the interface of EVERSE to and from the EOSC-Future science cl
 
 ## Work Package Leads
 
+{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp4lead" value=true  >}}
+
 - Guido Juckeland (HZDR)
 - Caterina Doglioni (UniMan)
 

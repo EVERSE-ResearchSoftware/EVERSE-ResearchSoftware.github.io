@@ -11,6 +11,8 @@ The curated best practices are gathered across four pillars: technical quality, 
 
 ## Work Package Leads
 
+{{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp2lead" value=true  >}}
+
 - Salvador Capella-Gutierrez (BSC)
 - Patrick Bos (NLeSC)
 
