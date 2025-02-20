@@ -8,10 +8,11 @@ type: "people"
 params:
     wp1: true
     wp1lead: true
-    wpl: treue
+    wpl: true
     institute: ELIXIR
     media:
         email: jonathan.tedds@elixir-europe.org
+        linkedin: jtedds
 ---
 
 {{< figure src="feature.jpg" alt= "photo of Jonathan, (C) private" class="float-right m-2 w-[30%]" >}} 
