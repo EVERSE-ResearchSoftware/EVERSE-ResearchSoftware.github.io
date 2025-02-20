@@ -7,10 +7,6 @@ showDate: false
 groupByYear: false
 ---
 
-{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Register to join us for the [EVERSE Network Launch event](https://indico.cern.ch/e/eversenetworklaunch) on 18 February!*
-{{<  /alert >}}
-
 ## Improving Research Software Quality
 
 {{< figure src="/images/network/NETWORKLogo_new.png" class="float-right m-2 w-[30%]" >}}
