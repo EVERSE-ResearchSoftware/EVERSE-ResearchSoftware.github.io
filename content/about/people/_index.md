@@ -7,4 +7,4 @@ showDate: false
 groupByYear: false
 ---
 
-{{< list title="Here are the people of EVERSE" cardView=true limit=40 value=true  >}}
+{{< list title="Here are the people of EVERSE" cardView=true limit=40 where="Type" value="people" value=true  >}}
