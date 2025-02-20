@@ -60,8 +60,8 @@ In case you don't feel comfortable creating this yourself or you don't have a Gi
 ### Instructions for creating your own person page
 
 1. Create a new branch from the repository on your local machine (e.g., `graeme-everse-page` as branch name).
-2. Create a new folder in `content/about/people/FirstnameLastname` containing an `index.md`file. 
-  -  You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/people/GraemeStewart/index.md?plain=1) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/people/SanjeFenkart/index.md?plain=1)) for examples of this.
+2. Create a new folder in `content/about/everse_people/FirstnameLastname` containing an `index.md`file. 
+  -  You can check the templates (i.e. [Graeme Stewart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/everse_people/GraemeStewart/index.md?plain=1) or [Sanje Fenkart](https://github.com/EVERSE-ResearchSoftware/EVERSE-ResearchSoftware.github.io/blob/main/content/about/everse_people/SanjeFenkart/index.md?plain=1)) for examples of this.
 3. Your text profile information should contain: your name, your job title (e.g. "Data scientist", "Training Developer", etc...), your affiliation (your institute or organisation) and 3-4 sentences about yourself and your work.
   - Note also the two special *short codes* that are needed - the first one inserts your picture, the second will process your professional contact/media information.
 4. To show your involvement in EVERSE you need to add metadata in the YAML header under `params`. 
@@ -89,7 +89,7 @@ In order for your contact details to be displayed remember the  `{{< insert-medi
 
 For further information on how to add new content see the instructions on "Modifying and Adding content" above.
 
-You can preview the results locally using `hugo` or submit a PR and the Netlify infrastructure will generate the page for you. You may have to manually construct the URL to actually see it, by adding `about/people/YourName` to the preview base URL.
+You can preview the results locally using `hugo` or submit a PR and the Netlify infrastructure will generate the page for you. You may have to manually construct the URL to actually see it, by adding `about/everse_people/YourName` to the preview base URL.
 
 ## Problems? Issues?
 
