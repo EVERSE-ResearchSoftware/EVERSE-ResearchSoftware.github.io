@@ -7,10 +7,6 @@ weight: 10
 ---
 
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Register to join us for the [EVERSE Network Launch event](https://indico.cern.ch/e/eversenetworklaunch) on 18 February!*
-{{<  /alert >}}
-&nbsp;
-{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
 *Read our new January 2025 newsletter [here](/network/newsletter/)!*
 {{<  /alert >}}
 
