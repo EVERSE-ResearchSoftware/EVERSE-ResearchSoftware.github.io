@@ -89,7 +89,7 @@ In order for your contact details to be displayed remember the  `{{< insert-medi
 
 For further information on how to add new content see the instructions on "Modifying and Adding content" above.
 
-You can preview the results locally using `hugo` or submit a PR and the Netlify infrastructure will generate the page for you. You may have to manually construct the URL to actually see it, by adding `about/people/YourName` to the preview base URL.
+You can preview the results locally using `hugo` or submit a PR and the Netlify infrastructure will generate the page for you. You may have to manually construct the URL to actually see it, by adding `about/everse_people/YourName` to the preview base URL.
 
 ## Problems? Issues?
 
