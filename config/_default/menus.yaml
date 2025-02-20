@@ -23,47 +23,51 @@ main:
     pageRef: about/consortium
     weight: 20
     parent: About
+  - name: People
+    pageref: about/people
+    weight: 30
+    parent: About
   - name: Collaborators
     pageRef: about/collaborators
-    weight: 21
+    weight: 40
     parent: About
   - name: Scientific Advisory Board
     pageRef: about/scientific-advisory-board
-    weight: 25
+    weight: 50
     parent: About
   - name: Workpackage Overview
     pageRef: /workpackages
-    weight: 30
+    weight: 60
     parent: About
     identifer: workpackages
   - name: WP1 - Network
     pageRef: workpackages/01_Framework_European_Network
-    weight: 40
+    weight: 70
     identifer: WP1
     parent: About
   - name: WP2 - Best Practice
     pageRef: workpackages/02_Best_Practices
-    weight: 50
+    weight: 80
     identifer: WP2
     parent: About
   - name: WP3 - Tools and Services
     pageRef: workpackages/03_Tools_and_Services
-    weight: 60
+    weight: 90
     identifer: WP3
     parent: About
   - name: WP4 - Pilots and Drivers
     pageRef: workpackages/04_Pilots_and_Drivers
-    weight: 70
+    weight: 100
     identifer: WP4
     parent: About
   - name: WP5 - Capacity and Recognition
     pageRef: workpackages/05_Capacity_and_Recognition
-    weight: 80
+    weight: 110
     identifer: WP5
     parent: About
   - name: WP6 - Project Management
     pageRef: workpackages/06_Project_Management
-    weight: 90
+    weight: 120
     identifer: WP6
     parent: About
 
