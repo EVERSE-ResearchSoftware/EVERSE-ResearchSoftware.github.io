@@ -12,3 +12,5 @@ type: "partner"
 <--->
 {{< figure src="/images/logos/full_consortium/CERN_badge.svg" >}}
 {{< /balanced-content >}}
+
+{{< list title="CERN People in EVERSE" cardView=true limit=18 where="Params.institute" value="CERN"  >}}
