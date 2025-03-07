@@ -7,9 +7,9 @@ showDate: false
 groupByYear: false
 ---
 
+{{< figure src="/images/network/EVERSE_Logo_Subline.png" class="float-right m-2 w-[30%]" >}}
 ## Improving Research Software Quality
 
-{{< figure src="/images/network/NETWORKLogo_new.png" class="float-right m-2 w-[30%]" >}}
 
 The EVERSE project is committed to improving the quality of software in European research in the international context. EVERSE is launching a Network of Research Software Quality to allow us to work with individuals and partner organisations to achieve this common goal.
 
