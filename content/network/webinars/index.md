@@ -13,8 +13,7 @@ ___
 
 ## <font color="3ea3dc"> EVERSE Webinar overview </font>
 
+
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
 | 15th April 2025, 10 AM CEST | Building the Landscape of Software Quality and Defining Software Quality Indicators | [Indico agenda](https://indico.cern.ch/event/1531998/) |
-| May 2025 | TBA | TBA |
-| June 2025 | TBA | TBA |
