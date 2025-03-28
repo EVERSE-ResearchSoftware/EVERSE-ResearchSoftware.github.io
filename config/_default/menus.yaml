@@ -134,12 +134,16 @@ main:
     weight: 15
     pageRef: /network/newsletter
     parent: Network
-  - name: Contact EVERSE
+  - name: Webinar series
     weight: 20
+    pageRef: /network/webinars
+    parent: Network
+  - name: Contact EVERSE
+    weight: 30
     pageRef: /contact
     parent: Network  
   - name: Code of Conduct
-    weight: 30
+    weight: 40
     pageRef: /network/code_of_conduct
     parent: Network  
   # - name: Communities
