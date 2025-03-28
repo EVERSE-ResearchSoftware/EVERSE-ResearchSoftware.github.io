@@ -7,7 +7,7 @@ weight: 10
 ---
 
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Join our first webinar on 15th April 2025, 10 AM CEST. All information on [indico](https://indico.cern.ch/event/1531998/)!*
+*Join our first webinar on 15th April 2025, 10 AM CEST. All information is on [Indico](https://indico.cern.ch/event/1531998/)!*
 {{<  /alert >}}
 
 ## High Quality Research Software for the Communities by the Communities
