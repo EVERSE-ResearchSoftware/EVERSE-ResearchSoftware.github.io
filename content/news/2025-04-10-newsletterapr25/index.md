@@ -17,4 +17,4 @@ summary: >
 
 Welcome spring and welcome to a new edition of "Into the EVERSE". Our winter months have been busy - no hibernation break for us - with conferences, workshops and an online Network launch event. We also had our one-year anniversary and met again in person for a general assembly in Barcelona. Next in line for our Work Package series is [WP3 - Tools and services](/workpackages/03_tools_and_services/), talking about their "Tech Watch". Finally, our latest addition to activites is our webinar series, which will launch in April and come back on a monthly basis.
 
-You can read the newsletter as a PDF [here]().
+You can read the newsletter as a PDF [here](Newsletter-2025-04.pdf).
