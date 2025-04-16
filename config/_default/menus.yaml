@@ -35,45 +35,49 @@ main:
     pageRef: about/scientific-advisory-board
     weight: 50
     parent: About
-  - name: Workpackage Overview
+
+  # Workpackage tab
+  - name: Work Packages
+    weight: 20
+  - name: Overview
     pageRef: /workpackages
-    weight: 60
-    parent: About
+    weight: 10
+    parent: Work Packages
     identifer: workpackages
   - name: WP1 - Network
     pageRef: workpackages/01_Framework_European_Network
-    weight: 70
+    weight: 20
     identifer: WP1
-    parent: About
+    parent: Work Packages
   - name: WP2 - Best Practice
     pageRef: workpackages/02_Best_Practices
-    weight: 80
+    weight: 30
     identifer: WP2
-    parent: About
+    parent: Work Packages
   - name: WP3 - Tools and Services
     pageRef: workpackages/03_Tools_and_Services
-    weight: 90
+    weight: 40
     identifer: WP3
-    parent: About
+    parent: Work Packages
   - name: WP4 - Pilots and Drivers
     pageRef: workpackages/04_Pilots_and_Drivers
-    weight: 100
+    weight: 50
     identifer: WP4
-    parent: About
+    parent: Work Packages
   - name: WP5 - Capacity and Recognition
     pageRef: workpackages/05_Capacity_and_Recognition
-    weight: 110
+    weight: 60
     identifer: WP5
-    parent: About
+    parent: Work Packages
   - name: WP6 - Project Management
     pageRef: workpackages/06_Project_Management
-    weight: 120
+    weight: 70
     identifer: WP6
-    parent: About
+    parent: Work Packages
 
   # Services tab
   - name: Services
-    weight: 20
+    weight: 30
   - name: RSQkit
     weight: 10
     pageRef: services/RSQkit
