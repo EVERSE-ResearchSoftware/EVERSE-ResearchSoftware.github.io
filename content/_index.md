@@ -5,10 +5,14 @@ identifier: home
 draft: false 
 weight: 10
 ---
-
+{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
+**Latest:** *Read our April 2025 newsletter [here](/network/newsletter/)!*
+{{<  /alert >}}
+&nbsp; 
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
 *Our next webinar will be a training session with ENVRI-Hub NEXT on 20th May 2025, 10 AM CEST. All information [here](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/)!*
 {{<  /alert >}}
+
 
 ## High Quality Research Software for the Communities by the Communities
 
