@@ -7,7 +7,7 @@ weight: 10
 ---
 
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Join our first webinar on 15th April 2025, 10 AM CEST. All information is on [Indico](https://indico.cern.ch/event/1531998/)!*
+*Our next webinar will be a training session with ENVRI-Hub NEXT on 20th May 2025, 10 AM CEST. All information [here](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/)!*
 {{<  /alert >}}
 
 ## High Quality Research Software for the Communities by the Communities
