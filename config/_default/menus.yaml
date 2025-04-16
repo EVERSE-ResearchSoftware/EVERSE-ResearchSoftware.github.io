@@ -186,9 +186,9 @@ footer:
     url: https://bsky.app/profile/eosc-everse.bsky.social
     pre: bluesky
     weight: 125
-  - name: X-Twitter
-    url: https://twitter.com/eosc_everse
-    pre: x-twitter
+  - name: YouTube
+    url: https://www.youtube.com/channel/UCHMrK3NFTwTAB2t8Sbt7sVA
+    pre: youtube
     weight: 130
   - name: FOSStodon
     url: https://fosstodon.org/@eosc_everse
