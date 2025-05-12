@@ -11,6 +11,6 @@ The curated best practices are gathered across four pillars: technical quality, 
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp2lead" value=true  >}}
 
-{{< list title="People" cardView=true limit=18 where="Params.wp2" value=true  >}}
+<!-- {{< list title="People" cardView=true limit=18 where="Params.wp2" value=true  >}} -->
 
 {{< list title="Participants" cardView=true limit=18 where="Params.wp2partner" value=true  >}}

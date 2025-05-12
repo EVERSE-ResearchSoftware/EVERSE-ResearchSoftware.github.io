@@ -10,6 +10,6 @@ This WP serves as the interface of EVERSE to and from the EOSC-Future science cl
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp4lead" value=true  >}}
 
-{{< list title="People" cardView=true limit=18 where="Params.wp4" value=true  >}}
+<!-- {{< list title="People" cardView=true limit=18 where="Params.wp4" value=true  >}} -->
 
 {{< list title="Participants" cardView=true limit=18 where="Params.wp4partner" value=true  >}}

@@ -12,6 +12,6 @@ The project lead additionally appoints a Scientific Advisory Committee, coordina
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp6lead" value=true  >}}
 
-{{< list title="People" cardView=true limit=18 where="Params.wp6" value=true  >}}
+<!-- {{< list title="People" cardView=true limit=18 where="Params.wp6" value=true  >}} -->
 
 {{< list title="Participants (All)" cardView=true limit=18 where="Type" value="partner"  >}}
