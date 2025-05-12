@@ -6,7 +6,7 @@ draft: false
 type: "people"
 
 params:
-    wp4: true
+    # wp4: true
     wpl: true
     wp4lead: true
     institute: UNIMAN

@@ -6,7 +6,7 @@ draft: false
 type: "people"
 
 params:
-  wp5: true
+  # wp5: true
   wp5lead: true
   wpl: true
   institute: UPM

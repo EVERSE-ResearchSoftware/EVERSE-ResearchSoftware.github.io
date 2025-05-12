@@ -5,6 +5,11 @@ description: "short presentation of NLeSC"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1partner: true
+  wp3partner: true
+  wp5partner: true
 ---
 
 {{< balanced-content >}}

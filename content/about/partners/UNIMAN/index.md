@@ -5,6 +5,11 @@ description: "short presentation of UNIMAN"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp2partner: true
+  wp3partner: true
+  wp5partner: true
 ---
 {{< balanced-content >}}
 

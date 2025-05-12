@@ -6,7 +6,7 @@ draft: false
 type: "people"
 
 params:
-  wp2: true
+  # wp2: true
   wp2lead: true
   wp3: true
   wpl: true

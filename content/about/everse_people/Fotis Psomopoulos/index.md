@@ -6,7 +6,7 @@ draft: false
 type: "people"
 
 params:
-  wp6: true
+  # wp6: true
   wp6lead: true
   wpl: true
   institute: CERTH

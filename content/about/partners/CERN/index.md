@@ -5,6 +5,11 @@ description: "short presentation of CERN"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1partner: true
+  wp5partner: true
+
 ---
 
 {{< balanced-content >}}

@@ -20,6 +20,6 @@ This WP collaborates tightly with other WPs and notably with the Science Cluster
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp3lead" value=true  >}}
 
-## Participants
+<!-- {{< list title="People" cardView=true limit=18 where="Params.wp3" value=true  >}} -->
 
-FAU/ESCAPE, UvA (ENVRI), ARC (OpenAIRE), NLeSC, HZDR (HIFIS), UNIMAN (SSI, ELIXIR-UK), BSC, CERN, CU, SKAO, UPM, CERTH
+{{< list title="Participants" cardView=true limit=18 where="Params.wp3partner" value=true  >}}

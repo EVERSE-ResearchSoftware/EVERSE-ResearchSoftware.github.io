@@ -5,6 +5,13 @@ description: "short presentation of OpenAIRE"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1partner: true
+  wp2partner: true
+  wp3partner: true
+  wp4partner: true
+  wp5partner: true
 ---
 
 {{< balanced-content >}}
