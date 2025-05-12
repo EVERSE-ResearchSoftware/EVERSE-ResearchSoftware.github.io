@@ -12,6 +12,6 @@ While the work package will aim at creating a common framework, training methods
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp5lead" value=true  >}}
 
-## Participants
+{{< list title="People" cardView=true limit=18 where="Params.wp5" value=true  >}}
 
-CNRS-LAPP, UNIMAN, OpenAIRE, HZDR, CNRS-IJCLab, UvA, UniSalento, NLeSC, CU, UniPD, CERTH, ARC, ELIXIR Hub
+{{< list title="Participants" cardView=true limit=18 where="Params.wp5partner" value=true  >}}

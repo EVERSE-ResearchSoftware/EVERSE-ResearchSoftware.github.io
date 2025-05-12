@@ -5,6 +5,10 @@ description: "short presentation of UniPD"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp2partner: true
+  wp5partner: true
 ---
 {{< balanced-content >}}
 

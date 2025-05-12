@@ -5,6 +5,10 @@ description: "short presentation of ELIXIR"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp4partner: true
+  wp5partner: true
 ---
 {{< balanced-content >}}
 

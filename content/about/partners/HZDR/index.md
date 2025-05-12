@@ -5,6 +5,10 @@ description: "short presentation of HZDR"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp3partner: true
+  wp5partner: true
 ---
 
 {{< balanced-content>}}

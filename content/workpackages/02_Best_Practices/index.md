@@ -11,6 +11,6 @@ The curated best practices are gathered across four pillars: technical quality, 
 
 {{< list title="Work Package Leads" cardView=true limit=18 where="Params.wp2lead" value=true  >}}
 
-## Participants
+{{< list title="People" cardView=true limit=18 where="Params.wp2" value=true  >}}
 
-FAU, CNRS-LAPP, UvA, ARC, OpenAIRE, UNIMAN, UEDIN, SKAO, CU, UPM, UniPD, CERTH
+{{< list title="Participants" cardView=true limit=18 where="Params.wp2partner" value=true  >}}

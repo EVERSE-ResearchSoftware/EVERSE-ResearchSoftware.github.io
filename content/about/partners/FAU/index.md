@@ -5,6 +5,10 @@ description: "short presentation of FAU"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp2partner: true
+  wp3partner: true
 ---
 
 {{< balanced-content >}}

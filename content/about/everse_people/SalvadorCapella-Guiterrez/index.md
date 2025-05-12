@@ -6,8 +6,8 @@ draft: false
 type: "people"
 
 params:
-    wp2: true
-    wp6: true
+    # wp2: true
+    # wp6: true
     wpl: true
     wp6lead: true
     wp2lead: true

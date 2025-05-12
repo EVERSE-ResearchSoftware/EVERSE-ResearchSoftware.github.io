@@ -5,6 +5,10 @@ description: "short presentation of UniSalento"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1partner: true
+  wp5partner: true
 ---
 
 {{< balanced-content >}}

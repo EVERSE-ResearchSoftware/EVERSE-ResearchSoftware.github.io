@@ -5,6 +5,11 @@ description: "short presentation of CNRS"
 
 tags: ["consortium"]
 type: "partner" 
+
+params:
+  wp1partner: true
+  wp2partner: true
+  wp5partner: true
 ---
 {{< balanced-content >}}
  The National Centre for Scientific Research [(CNRS)](https://www.cnrs.fr/en) is a major player in basic research on the global stage and the only organisation in France that is active in all fields of science. Its unique position as a specialist in multiple fields means that it can bring together different scientific disciplines to shed light on and gain insight into current global challenges, in partnership with public sector, social and economic stakeholders. Together the sciences are used to bring about sustainable progress that benefits the whole of society. 

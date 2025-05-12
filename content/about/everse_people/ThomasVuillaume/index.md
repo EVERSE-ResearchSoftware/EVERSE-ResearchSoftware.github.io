@@ -7,7 +7,7 @@ type: "people"
 
 params:
   wp2: true
-  wp3: true
+  # wp3: true
   wp5: true
   wp3lead: true
   wpl: true
