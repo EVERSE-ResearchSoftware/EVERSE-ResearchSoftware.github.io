@@ -21,6 +21,6 @@ params:
 
 Stefan Roiser is leading [Work Package 5](/workpackages/05_capacity_and_recognition/). He is based at CERN where he leads a team of scientists and engineers working on performance optimisation and hardware acceleration of high energy physics simulation software applications.
 
-Stefan has had major coordination roles in the past in software and computing as part of the [LHCb Experiment](https://lhcb-outreach.web.cern.ch/) at CERN. He programs mainly in C++ and Cuda/HIP but has also come across Fortran, which he has not (had to) use in his career until recently.
+Stefan has had major coordination roles in the past in software and computing as part of the [LHCb Experiment](https://lhcb-outreach.web.cern.ch/) at CERN. He programs mainly in C++ and Cuda/HIP but has also come across Fortran, which he did not (have to) use in his career until recently.
 
 {{< insert-media-links >}}
