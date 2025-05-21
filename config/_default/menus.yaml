@@ -142,13 +142,13 @@ main:
     weight: 20
     pageRef: /network/webinars
     parent: Network
-  - name: Contact EVERSE
-    weight: 30
-    pageRef: /contact
-    parent: Network  
   - name: Code of Conduct
-    weight: 40
+    weight: 30
     pageRef: /network/code_of_conduct
+    parent: Network  
+  - name: Contact EVERSE
+    weight: 40
+    pageRef: /contact
     parent: Network  
   # - name: Communities
   #   weight: 10
