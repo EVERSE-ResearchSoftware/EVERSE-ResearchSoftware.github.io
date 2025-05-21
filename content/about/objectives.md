@@ -1,7 +1,8 @@
 ---
 draft: false
 title: "EVERSE Objectives"
-weight: 90
+
+type: "objectives"
 ---
 
 This project, funded by Horizon Europe call [HORIZON-INFRA-2023-EOSC-01-02](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-infra-2023-eosc-01-02) ([#101057344](https://doi.org/10.3030/101057344)) has the following objectives:

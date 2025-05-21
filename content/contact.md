@@ -2,6 +2,8 @@
 draft: false
 title: Get in touch
 weight: 600
+
+type: "contact"
 ---
 
 ## Contact
