@@ -79,8 +79,8 @@ article:
   editAppendPath: true
   seriesOpened: false
   showHeadingAnchors: true
-  showPagination: true
-  invertPagination: false
+  showPagination: true # this is where the prev and next can be enabled
+  invertPagination: true
   showReadingTime: false
   showTableOfContents: false
   # showRelatedContent: false

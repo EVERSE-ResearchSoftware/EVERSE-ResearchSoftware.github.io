@@ -1,7 +1,8 @@
 ---
 draft: false
 title: "EVERSE Scientific Advisory Board"
-weight: 70
+
+type: "board"
 ---
 
 {{< figure src="images/sab/AnnaLena.jpg" alt="Anna Lena profile picture" >}}
