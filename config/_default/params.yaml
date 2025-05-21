@@ -80,7 +80,7 @@ article:
   seriesOpened: false
   showHeadingAnchors: true
   showPagination: true
-  invertPagination: false
+  invertPagination: true
   showReadingTime: false
   showTableOfContents: false
   # showRelatedContent: false
