@@ -17,7 +17,7 @@ params:
 
 {{< figure src="feature.jpg" alt="Avatar of David, (C) Private" class="float-right m-2 w-[30%]" >}}
 
-David Chamont is a Research Software Engineer based at IJCLab (Orsay, France). He is specialized in High Throughput Computing, practicing and teaching C++ and Python.
+David Chamont is a Research Software Engineer based at IJCLab (Orsay, France). He is specialized in High Throughput Computing for High Energy Physics. He practices and teaches C++ and Python.
 
 In the EVERSE context, David is mostly involved in WP5. He helps to collect and sort training resources, advocates for self-training issues, and investigates the use of generative IA. Within WP1, he contributes to the relations with the RSE communities, especially the French ones. 
 
