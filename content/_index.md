@@ -6,11 +6,7 @@ draft: false
 weight: 10
 ---
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-**Latest:** *Read our April 2025 newsletter [here](/network/newsletter/)!*
-{{<  /alert >}}
-&nbsp; 
-{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-*Our next webinar will be the Compute & Accelerator Forum - Julia and GPUs on June 11 2025, 4:30 PM CEST. All information [here](https://indico.cern.ch/event/1472683/)!*
+**Latest:** *Read our June 2025 newsletter [here](/network/newsletter/)!*
 {{<  /alert >}}
 
 
