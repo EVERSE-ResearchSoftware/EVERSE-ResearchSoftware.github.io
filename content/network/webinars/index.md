@@ -15,6 +15,7 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
+|23rd October 2025, 11 AM CEST | The EVERSE Reference Framework - A Showcase | [Indico agenda](https://indico.cern.ch/event/1588342/)
 | 11th June 2025, 4.30 PM CEST | Compute & Accelerator Forum - Julia and GPUs (Co-organised) | [Indico agenda](https://indico.cern.ch/event/1472683/) |
 | 21st May 2025, 11 AM CEST | ENVRI-Hub NEXT & EVERSE Training Webinar: Research Software Quality Assessment | [Agenda](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/) |
 | 15th April 2025, 10 AM CEST | Building the Landscape of Software Quality and Defining Software Quality Indicators | [Indico agenda](https://indico.cern.ch/event/1531998/) |
