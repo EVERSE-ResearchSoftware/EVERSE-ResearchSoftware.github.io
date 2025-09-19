@@ -6,7 +6,7 @@ draft: false
 weight: 10
 ---
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-**Latest:** *Read our June 2025 newsletter [here](/network/newsletter/)!*
+**Latest:** *Read our September 2025 newsletter [here](/network/newsletter/)!*
 {{<  /alert >}}
 
 
