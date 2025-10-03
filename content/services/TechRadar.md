@@ -15,4 +15,4 @@ It consists of two main elements:
 
 TechRadar provides a structured overview of research software quality tools and services, systematically organized according to the [EVERSE Quality Dimensions](https://everse.software/RSQKit/rs_quality). While it does not cover every existing tool, it highlights those that meet defined selection criteria, ensuring relevance and usefulness across the EOSC Science Clusters.
 
-You can explore the latest updates on the [TechRadar](https://everse.software/TechRadar/), and provide your comments or suggestions by opening an issue in its [source code repository](https://github.com/EVERSE-ResearchSoftware/TechRadar).
+Feel free to explore the [TechRadar](https://everse.software/TechRadar/), and provide your comments or suggestions by opening an issue in its [source code repository](https://github.com/EVERSE-ResearchSoftware/TechRadar).
