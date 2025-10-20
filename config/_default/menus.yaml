@@ -82,6 +82,10 @@ main:
     weight: 10
     pageRef: services/RSQkit
     parent: Services
+  - name: TechRadar
+    weight: 20
+    pageRef: services/TechRadar
+    parent: Services
   # - name: SMP
   #   weight: 20
   #   pageRef: services/SMP

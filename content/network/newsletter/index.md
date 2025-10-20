@@ -16,6 +16,8 @@ ____
 | 1 | October 2024 | [PDF](Newsletter-2024-10.pdf) |
 | 2 | January 2025 | [PDF](Newsletter-2025-01.pdf) |
 | 3 | April 2025   | [PDF](Newsletter-2025-04.pdf) |  
+| 4 | June 2025    | [PDF](Newsletter-2025-06.pdf) | 
+| 5 | September 2025 | [PDF](Newsletter-2025-09.pdf)
 
 <!-- {{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
 {{< /a >}} -->

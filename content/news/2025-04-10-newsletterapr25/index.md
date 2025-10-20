@@ -9,7 +9,7 @@ summary: >
     Read it here.
 ---
 
-**Newsletter (N<sup>o</sup> 2) April 2025**
+**Newsletter (N<sup>o</sup> 3) April 2025**
 {{< flex-content >}}
 <--->
 {{< figure src="feature.png">}}
