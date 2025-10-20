@@ -25,6 +25,6 @@ and advocates for open science, best practices in research software development,
 He previously worked as a Technology Lead at the eScience Center and is active in the research software community in the 
 Netherlands and internationally.
 
-In EVERSE, Jason is an editor for the [RSQKit](https://everse.software/RSQKit/), and involved in [WP2](workpackages/02_best_practices/) and [WP6](workpackages/06_project_management/).
+In EVERSE, Jason is an editor for the [RSQKit](https://everse.software/RSQKit/), and involved in [WP2](/workpackages/02_best_practices/) and [WP6](/workpackages/06_project_management/).
 
 {{< insert-media-links >}}
