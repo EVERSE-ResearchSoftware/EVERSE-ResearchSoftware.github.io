@@ -7,6 +7,7 @@ type: "people"
 
 params:
   # wp1: true
+  wp1lead: true
   wpl: true
   institute: CERN
   media: 
