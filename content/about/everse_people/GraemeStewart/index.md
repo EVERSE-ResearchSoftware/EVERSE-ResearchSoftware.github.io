@@ -7,6 +7,8 @@ type: "people"
 
 params:
   institute: DESY
+  wp1former: true
+  wp1leadformer: true
   media: 
     email: graeme.andrew.stewart@desy.de
     github: graeme-a-stewart
