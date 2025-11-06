@@ -15,7 +15,7 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
-| 18th November 2025, 3 PM CEST | Strengthen your research by telling its Research Software Story: a narrative approach for better impact | [Indico agenda](https://indico.cern.ch/event/1609264/) |
+| 18th November 2025, 3 PM CET | Strengthen your research by telling its Research Software Story: a narrative approach for better impact | [Indico agenda](https://indico.cern.ch/event/1609264/) |
 | 21st October 2025, 11 AM CEST | Enhancing Research Software FAIRness through the OpenAIRE Graph | [Indico agenda](https://indico.cern.ch/event/1596327/)
 | 23rd September 2025, 11 AM CEST | The EVERSE Reference Framework - A Showcase | [Indico agenda](https://indico.cern.ch/event/1588342/)
 | 11th June 2025, 4.30 PM CEST | Compute & Accelerator Forum - Julia and GPUs (Co-organised) | [Indico agenda](https://indico.cern.ch/event/1472683/) |
