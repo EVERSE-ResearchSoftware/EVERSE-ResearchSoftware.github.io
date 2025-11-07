@@ -33,4 +33,21 @@ weight: 1000
 
 ## Milestones
 
-It's a long way to Tipperary
+### Work Package 1
+- Fenkart, S. A., & Stewart, G. A. (2025). MS1_WP1 Project website, newsletter and social media setup. Zenodo. https://doi.org/10.5281/zenodo.14978814
+- Peru, G., Garijo, D., & Martinez-Ortiz, C. (2025). Milestone 2 : Common activities established with partner organisations, including links to industry. Zenodo. https://doi.org/10.5281/zenodo.16940054
+
+### Work Package 2
+- Graf, K., & Schnabel, J. (2025). WP2 MS4 Initial best practices landscaping results. Zenodo. https://doi.org/10.5281/zenodo.16569797
+- Garijo, D., Sufi, S., Nenadic, A., Bajaria, S., Diblen, F., Maassen, J., & Anton, M. (2025). MS5_WP2_Initial Release of the RSQKit. Zenodo. https://doi.org/10.5281/zenodo.14978844
+
+### Work Package 3
+- Breitmoser, E. (2025). Milestone 8 (extended version): First evaluation of the tools and services in the form of a workshop against WP2 initial best practices (MS4) and recommendations to adapt these tools if necessary. Zenodo. https://doi.org/10.5281/zenodo.15132175
+- Graf, K. (2025). Milestone 9 : First Version of Metadata Framework for Software Quality Indicators and Actionable Pipelines. Zenodo. https://doi.org/10.5281/zenodo.16940413
+
+### Work Package 4
+- Doglioni, C., & SPARKS, M. (2025). Milestone 12: First feedback on the identified common software quality metrics and measurement tools from the science clusters. Zenodo. https://doi.org/10.5281/zenodo.16984579
+
+### Work Package 5
+- Juckeland, G., & Ghosh, S. (2025). MS15 - Mapping of the stocktake of training materials across the training initiatives in the research communities of WP4 and a first assessment on gaps to be filled. Zenodo. https://doi.org/10.5281/zenodo.14979108
+- Bouhraoua, K. E. A., Quaglia, F., ZOUBIRI, M., Vergoulis, T., Maria Makaronidou, Roiser, S., Garijo, D., & Tosatto, S. (2025). MS16 A mechanism for recognition of activities to be easily used in CVs. Zenodo. https://doi.org/10.5281/zenodo.16941916
