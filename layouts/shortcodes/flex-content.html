@@ -1,6 +1,6 @@
-<div class="flex justify-evenly flex-col sm:flex-row gap-6">
+<div class="flex justify-evenly flex-col sm:flex-row gap-x-6 gap-y-2 mt-8">
   {{- range split .Inner "<--->" }}
-  <div class="flex-1">
+  <div class="flex-1 [&>*:first-child]:mt-0">
     {{ $has_figure := strings.FindRE `(?s)\<figure\s*\>.*\<\/figure\>` . 1 | len }}
     {{ if eq $has_figure 1 }}
       {{ . | safeHTML -}}
