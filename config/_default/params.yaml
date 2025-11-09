@@ -57,7 +57,7 @@ homepage:
   showRecentItems: 3 # Keep this ~<4, but adjust to make sure relevant articles are highlighted
   showMoreLink: false
   showMoreLinkDest: /posts
-  cardView: false
+  cardView: true
   cardViewScreenWidth: false
   layoutBackgroundBlur: false  # only used when layout equals background
 
