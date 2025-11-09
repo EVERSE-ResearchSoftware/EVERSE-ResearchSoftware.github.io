@@ -3287,6 +3287,18 @@ select {
   margin-top:0.1rem
 }
 
+.mb-4 {
+  margin-bottom:1rem
+}
+
+.mb-8 {
+  margin-bottom:2rem
+}
+
+.-mt-6 {
+  margin-top:-1.5rem
+}
+
 .box-content {
   box-sizing:content-box
 }
@@ -3373,6 +3385,18 @@ select {
 
 .h-screen {
   height:100vh
+}
+
+.h-96 {
+  height:24rem
+}
+
+.h-auto {
+  height:auto
+}
+
+.h-72 {
+  height:18rem
 }
 
 .max-h-3 {
@@ -3630,6 +3654,15 @@ select {
   gap:1rem
 }
 
+.gap-6 {
+  gap:1.5rem
+}
+
+.gap-x-6 {
+  -moz-column-gap:1.5rem;
+       column-gap:1.5rem
+}
+
 .space-x-2 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-x-reverse:0;
   margin-right:calc(0.5rem * var(--tw-space-x-reverse));
@@ -3865,6 +3898,14 @@ select {
   background-color:transparent
 }
 
+.bg-opacity-40 {
+  --tw-bg-opacity:0.4
+}
+
+.bg-opacity-50 {
+  --tw-bg-opacity:0.5
+}
+
 .bg-gradient-to-b {
   background-image:linear-gradient(to bottom, var(--tw-gradient-stops))
 }
@@ -3936,6 +3977,16 @@ select {
 .object-left {
   -o-object-position:left;
      object-position:left
+}
+
+.object-center {
+  -o-object-position:center;
+     object-position:center
+}
+
+.object-top {
+  -o-object-position:top;
+     object-position:top
 }
 
 .\!p-0 {
@@ -4170,6 +4221,11 @@ select {
   line-height:1rem
 }
 
+.text-3xl {
+  font-size:1.875rem;
+  line-height:2.25rem
+}
+
 .font-bold {
   font-weight:700
 }
@@ -4212,6 +4268,10 @@ select {
 
 .leading-7 {
   line-height:1.75rem
+}
+
+.tracking-wide {
+  letter-spacing:0.025em
 }
 
 .\!text-neutral {
@@ -4301,6 +4361,21 @@ select {
 
 .text-transparent {
   color:transparent
+}
+
+.text-everse_sky_medium {
+  --tw-text-opacity:1;
+  color:rgb(216 237 248 / var(--tw-text-opacity, 1))
+}
+
+.text-everse_sky_light {
+  --tw-text-opacity:1;
+  color:rgb(239 248 252 / var(--tw-text-opacity, 1))
+}
+
+.text-primary-100 {
+  --tw-text-opacity:1;
+  color:rgba(var(--color-primary-100), var(--tw-text-opacity, 1))
 }
 
 .\!no-underline {
@@ -5019,6 +5094,21 @@ select {
     padding-left:6rem;
     padding-right:6rem
   }
+
+  .md\:text-5xl {
+    font-size:3rem;
+    line-height:1
+  }
+
+  .md\:text-xl {
+    font-size:1.25rem;
+    line-height:1.75rem
+  }
+
+  .md\:text-4xl {
+    font-size:2.25rem;
+    line-height:2.5rem
+  }
 }
 
 @media (min-width: 1024px) {
@@ -5155,6 +5245,16 @@ select {
   .lg\:py-32 {
     padding-top:8rem;
     padding-bottom:8rem
+  }
+
+  .lg\:text-6xl {
+    font-size:3.75rem;
+    line-height:1
+  }
+
+  .lg\:text-5xl {
+    font-size:3rem;
+    line-height:1
   }
 }
 

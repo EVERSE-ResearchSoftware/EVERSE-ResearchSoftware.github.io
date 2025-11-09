@@ -1,0 +1,38 @@
+{{ $image := .Get "image" }}
+{{ $tag := .Get "tag" }}
+{{ $headline := .Get "headline" }}
+{{ $subhead := .Get "subhead" }}
+
+<div class="relative mb-8 not-prose">
+  <!-- Image with overlay -->
+  <div class="relative h-72 overflow-hidden rounded-lg bg-black">
+    <img src="{{ $image }}" class="absolute inset-0 w-full h-full object-cover" alt="{{ $headline }}" />
+    
+    <!-- Dark overlay for better text readability -->
+    <div class="absolute inset-0" style="background-color: rgba(0, 0, 0, 0.5);"></div>
+    
+    <!-- Text content -->
+    <div class="absolute inset-0 flex flex-col items-center justify-center text-primary-100 px-6">
+      <!-- Tag -->
+      {{ if $tag }}
+      <div class="font-semibold uppercase tracking-wide">
+        {{ $tag }}
+      </div>
+      {{ end }}
+      
+      <!-- Headline -->
+      {{ if $headline }}
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-center mb-2 text-primary-100">
+        {{ $headline | markdownify }}
+      </h1>
+      {{ end }}
+      
+      <!-- Subhead -->
+      {{ if $subhead }}
+      <p class="text-lg md:text-xl text-center max-w-3xl">
+        {{ $subhead | markdownify }}
+      </p>
+      {{ end }}
+    </div>
+  </div>
+</div>
