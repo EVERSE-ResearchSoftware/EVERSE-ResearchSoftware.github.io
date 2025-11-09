@@ -3547,6 +3547,27 @@ select {
   animation:pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite
 }
 
+@keyframes swing {
+  0%, 6%, 12% {
+    transform:rotate(7deg);
+    transform-origin:top center
+  }
+
+  3%, 9% {
+    transform:rotate(-7deg);
+    transform-origin:top center
+  }
+
+  12%, 100% {
+    transform:rotate(0deg);
+    transform-origin:top center
+  }
+}
+
+.animate-swing {
+  animation:swing 3s linear infinite
+}
+
 .cursor-default {
   cursor:default
 }
@@ -4273,23 +4294,13 @@ select {
   color:rgba(var(--color-primary-800), var(--tw-text-opacity, 1))
 }
 
-.text-transparent {
-  color:transparent
-}
-
-.text-everse_sky_dark {
-  --tw-text-opacity:1;
-  color:rgb(25 65 88 / var(--tw-text-opacity, 1))
-}
-
-.text-gray-800 {
-  --tw-text-opacity:1;
-  color:rgb(31 41 55 / var(--tw-text-opacity, 1))
-}
-
 .text-primary-900 {
   --tw-text-opacity:1;
   color:rgba(var(--color-primary-900), var(--tw-text-opacity, 1))
+}
+
+.text-transparent {
+  color:transparent
 }
 
 .\!no-underline {
@@ -4332,6 +4343,12 @@ select {
   mix-blend-mode:multiply
 }
 
+.shadow {
+  --tw-shadow:0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+  --tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
+  box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
+}
+
 .shadow-2xl {
   --tw-shadow:0 25px 50px -12px rgb(0 0 0 / 0.25);
   --tw-shadow-colored:0 25px 50px -12px var(--tw-shadow-color);
@@ -4347,12 +4364,6 @@ select {
 .shadow-xl {
   --tw-shadow:0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
   --tw-shadow-colored:0 20px 25px -5px var(--tw-shadow-color), 0 8px 10px -6px var(--tw-shadow-color);
-  box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
-}
-
-.shadow {
-  --tw-shadow:0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
-  --tw-shadow-colored:0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color);
   box-shadow:var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
 }
 
@@ -4623,11 +4634,6 @@ select {
   color:rgba(var(--color-primary-700), var(--tw-text-opacity, 1))
 }
 
-.hover\:text-primary-200:hover {
-  --tw-text-opacity:1;
-  color:rgba(var(--color-primary-200), var(--tw-text-opacity, 1))
-}
-
 .hover\:underline:hover {
   text-decoration-line:underline
 }
@@ -4726,6 +4732,11 @@ select {
   border-color:rgba(var(--color-primary-600), var(--tw-border-opacity, 1))
 }
 
+.dark\:bg-everse_sky_dark:is(.dark *) {
+  --tw-bg-opacity:1;
+  background-color:rgb(25 65 88 / var(--tw-bg-opacity, 1))
+}
+
 .dark\:bg-neutral-400:is(.dark *) {
   --tw-bg-opacity:1;
   background-color:rgba(var(--color-neutral-400), var(--tw-bg-opacity, 1))
@@ -4772,11 +4783,6 @@ select {
 .dark\:bg-primary-900:is(.dark *) {
   --tw-bg-opacity:1;
   background-color:rgba(var(--color-primary-900), var(--tw-bg-opacity, 1))
-}
-
-.dark\:bg-everse_sky_dark:is(.dark *) {
-  --tw-bg-opacity:1;
-  background-color:rgb(25 65 88 / var(--tw-bg-opacity, 1))
 }
 
 .dark\:from-neutral-800:is(.dark *) {
@@ -4849,11 +4855,6 @@ select {
   color:rgba(var(--color-primary-400), var(--tw-text-opacity, 1))
 }
 
-.dark\:text-primary-100:is(.dark *) {
-  --tw-text-opacity:1;
-  color:rgba(var(--color-primary-100), var(--tw-text-opacity, 1))
-}
-
 .dark\:opacity-60:is(.dark *) {
   opacity:0.6
 }
@@ -4896,24 +4897,14 @@ select {
   color:rgba(var(--color-neutral-800), var(--tw-text-opacity, 1))
 }
 
-.dark\:hover\:text-primary-400:hover:is(.dark *) {
-  --tw-text-opacity:1;
-  color:rgba(var(--color-primary-400), var(--tw-text-opacity, 1))
-}
-
-.dark\:hover\:text-primary-200:hover:is(.dark *) {
-  --tw-text-opacity:1;
-  color:rgba(var(--color-primary-200), var(--tw-text-opacity, 1))
-}
-
-.dark\:hover\:text-primary-600:hover:is(.dark *) {
-  --tw-text-opacity:1;
-  color:rgba(var(--color-primary-600), var(--tw-text-opacity, 1))
-}
-
 .dark\:hover\:text-primary-300:hover:is(.dark *) {
   --tw-text-opacity:1;
   color:rgba(var(--color-primary-300), var(--tw-text-opacity, 1))
+}
+
+.dark\:hover\:text-primary-400:hover:is(.dark *) {
+  --tw-text-opacity:1;
+  color:rgba(var(--color-primary-400), var(--tw-text-opacity, 1))
 }
 
 .dark\:focus\:bg-primary-900:focus:is(.dark *) {

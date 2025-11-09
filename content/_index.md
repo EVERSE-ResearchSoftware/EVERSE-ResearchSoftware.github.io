@@ -5,8 +5,8 @@ identifier: home
 draft: false 
 weight: 10
 ---
-{{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-**Latest:** *Participate to the Community Engagement Event on Thursday, 5 February 2026! [Register here](/news/2025-10-31-community-engagement/)*
+{{< alert icon="bell" iconColor="#194158" cardColor="#d8edf8" textColor="#194158" >}}
+Latest: Participate to the Community Engagement Event on Thursday, 5 February 2026! [**Register here**](/news/2025-10-31-community-engagement/)
 {{<  /alert >}}
 
 

@@ -27,6 +27,16 @@ module.exports = {
     },
     extend: {
       ...blowfishConfig.theme.extend,
+      keyframes: {
+        swing: {
+          '0%, 6%, 12%': { transform: 'rotate(7deg)', transformOrigin: 'top center' },
+          '3%, 9%': { transform: 'rotate(-7deg)', transformOrigin: 'top center' },
+          '12%, 100%': { transform: 'rotate(0deg)', transformOrigin: 'top center' },
+        }
+      },
+      animation: {
+        swing: 'swing 3s linear infinite',
+      },
     },
   },
 };
