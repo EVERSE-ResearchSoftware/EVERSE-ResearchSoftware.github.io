@@ -23,7 +23,7 @@ mainSections:
 # The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
 # for other image types
 disableImageOptimization: true
-disableTextInHeader: false
+disableTextInHeader: true # We don't need the title as we already have an SVG logo
 disableImageZoom: true
 
 # defaultBackgroundImage: "IMAGE.jpg" # used as default for background images 

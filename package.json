@@ -1,0 +1,14 @@
+{
+  "name": "everse-website",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/compiled/main.css --watch",
+    "build": "tailwindcss -i ./assets/css/tailwind.css -o ./assets/css/compiled/main.css --minify"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0",
+    "@tailwindcss/typography": "^0.5.15",
+    "@tailwindcss/forms": "^0.5.9",
+    "tailwind-scrollbar": "^3.1.0"
+  }
+}
