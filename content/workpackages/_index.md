@@ -1,5 +1,5 @@
 ---
-title: "Workpackages"
+title: "Work Packages"
 draft: false
 weight: 100
 showDate: false
