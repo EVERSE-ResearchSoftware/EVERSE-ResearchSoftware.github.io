@@ -110,10 +110,10 @@ main:
   # Resources tab
   - name: Resources
     weight: 40
-  # - name: Deliverables and Milestones
-  #   weight: 10
-  #   pageRef: resources/deliverables_milestones
-  #   parent: Resources
+  - name: Deliverables and Milestones
+    weight: 10
+    pageRef: resources/deliverables_milestones
+    parent: Resources
   - name: Presentations
     weight: 20
     pageRef: resources/presentations
