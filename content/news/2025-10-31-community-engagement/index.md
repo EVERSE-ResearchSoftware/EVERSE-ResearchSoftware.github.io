@@ -35,4 +35,4 @@ Thursday, 5 February 2026, all-day
 
 ## Agenda
 
-The event agenda will be shared soon.
+[Preliminary Agenda (subject to change)](https://drive.google.com/file/d/1t1HJGgVJSFAkQGddcTaYvFXUXFDcxdkv/view)
