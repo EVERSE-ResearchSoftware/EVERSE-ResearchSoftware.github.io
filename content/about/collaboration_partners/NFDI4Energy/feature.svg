@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="500" height="90" viewBox="0 -110 700 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tealGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#9ecad3"/>
+      <stop offset="100%" stop-color="#4f8f9b"/>
+    </linearGradient>
+    <radialGradient id="pinkGrad" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffd1e8"/>
+      <stop offset="100%" stop-color="#e61b7a"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Symbol -->
+  <g transform="translate(120,150)">
+    <!-- Outer swoosh -->
+    <path d="M0,-110
+             C-80,-90 -110,-20 -90,40
+             C-60,110 40,130 100,90
+             C150,60 160,-10 120,-70
+             C90,-115 30,-130 0,-110 Z"
+          fill="url(#tealGrad)"/>
+    <!-- Inner cut -->
+    <path d="M20,-60
+             C-30,-40 -40,10 -20,40
+             C0,70 40,70 70,40
+             C95,15 90,-25 60,-50
+             C45,-65 30,-70 20,-60 Z"
+          fill="#000000"/>
+    <!-- Pink spheres -->
+    <circle cx="-10" cy="-10" r="26" fill="url(#pinkGrad)"/>
+    <circle cx="25" cy="-35" r="22" fill="url(#pinkGrad)"/>
+    <circle cx="30" cy="10" r="20" fill="url(#pinkGrad)"/>
+    <circle cx="-30" cy="-40" r="18" fill="url(#pinkGrad)"/>
+  </g>
+
+  <!-- Text -->
+  <text x="320" y="135" font-size="110" font-family="Arial, Helvetica, sans-serif" fill="#6fb7c3">
+    nfdi<tspan fill="#9e9e9e">4</tspan>
+  </text>
+  <text x="320" y="235" font-size="120" font-family="Arial, Helvetica, sans-serif" fill="#e61b7a">
+    energy
+  </text>
+</svg>
+
+
+
+
