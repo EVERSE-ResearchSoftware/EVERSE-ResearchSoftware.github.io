@@ -14,7 +14,7 @@ Visit the [RSQKit](https://everse.software/RSQKit/) to check out the latest advi
 
 
 RSQKit brings together:
-- [Best practices](https://everse.software/RSQKit/your_tasks) [internally and externally sourced and authored](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/224) under the auspicies of [EVERSE WP2](https://everse.software/workpackages/02_best_practices/)
+- [Best practices](https://everse.software/RSQKit/tasks) [internally and externally sourced and authored](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/224) under the auspicies of [EVERSE WP2](https://everse.software/workpackages/02_best_practices/)
 - [Dimensions and Indicators](https://github.com/EVERSE-ResearchSoftware/indicators) from EVERSE [WP2](https://everse.software/workpackages/02_best_practices/)/[WP3](https://everse.software/workpackages/03_tools_and_services/)
 - [Tools](https://everse.software/TechRadar/overview/) from the [TechRadar](https://everse.software/TechRadar/) of [EVERSE WP3](https://everse.software/workpackages/03_tools_and_services/)
 - Information about [Research Software Clusters & Infrastructures](https://everse.software/RSQKit/research_clusters_and_infrastructures) and associated [Research Software Stories](https://everse.software/RSQKit/research_software_stories) from [EVERSE WP4](https://everse.software/workpackages/04_pilots_and_drivers/)
