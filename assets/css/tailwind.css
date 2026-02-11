@@ -1,0 +1,6 @@
+@import "../../themes/blowfish/assets/css/main.css";
+
+/* Your custom Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

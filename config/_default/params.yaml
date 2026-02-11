@@ -23,7 +23,7 @@ mainSections:
 # The real fix is to disable the optimisation only for SVGs and allow optimisation proceed
 # for other image types
 disableImageOptimization: true
-disableTextInHeader: false
+disableTextInHeader: true # We don't need the title as we already have an SVG logo
 disableImageZoom: true
 
 # defaultBackgroundImage: "IMAGE.jpg" # used as default for background images 
@@ -57,7 +57,7 @@ homepage:
   showRecentItems: 3 # Keep this ~<4, but adjust to make sure relevant articles are highlighted
   showMoreLink: false
   showMoreLinkDest: /posts
-  cardView: false
+  cardView: true
   cardViewScreenWidth: false
   layoutBackgroundBlur: false  # only used when layout equals background
 
