@@ -10,7 +10,7 @@ An essential component of work package 3 is the tight collaboration with all oth
 
 1. Establish a “technology watch” that identifies and gathers existing software tools to ensure workflow quality.
 2. Strengthen these services to make their integration into pipelines and communities easier.
-3. Develop a dashboard of indicators for software quality in the Science Clusters.
+3. Develop a dashboard for software quality in the Science Clusters. This is implemented in the [**DashVERSE dashboard**](/services/dashverse/), which displays the results of research software quality assessments.
 
 The final catalogue of tools will be implemented into the Research Software Quality kit [(RSQkit)](/services/rsqkit/) and is based on FAIR principles for software.
 
