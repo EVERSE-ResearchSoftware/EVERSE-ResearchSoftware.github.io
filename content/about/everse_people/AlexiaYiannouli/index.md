@@ -13,7 +13,7 @@ params:
         github: 
         linkedin: alexia-yiannouli
 ---
-{{< figure src="Alexia-photo.jpg" alt= "photo of Alexia, (C) Alexia Yiannouli" class="float-right m-2 w-[30%]" >}} 
+{{< figure src="feature.jpg" alt= "photo of Alexia, (C) Alexia Yiannouli" class="float-right m-2 w-[30%]" >}} 
 
 Alexia works as a Communications Officer for the EVERSE project. íí
 
