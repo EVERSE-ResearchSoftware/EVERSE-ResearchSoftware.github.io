@@ -19,7 +19,7 @@ Organised by the EVERSE project, the University of Cape Town's e-Research Center
 
 {{< flex-content >}}
 <--->
-{{< [feature.jpg]" alt="event poster">}}
+{{< figure src="feature.jpg" alt="event poster">}}
 {{< /flex-content>}}
 
 ## Registration
