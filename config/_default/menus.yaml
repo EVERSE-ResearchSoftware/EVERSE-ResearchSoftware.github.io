@@ -86,6 +86,10 @@ main:
     weight: 20
     pageRef: services/TechRadar
     parent: Services
+  - name: DashVERSE
+    weight: 30
+    pageRef: services/DashVERSE
+    parent: Services
   # - name: SMP
   #   weight: 20
   #   pageRef: services/SMP
