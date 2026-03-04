@@ -35,4 +35,4 @@ Registration was undertaken in November/December 2025, and is closed.
 *CH-1211 Geneve 23 (Switzerland)*
 
 ## Agenda
-The meeting agenda is avaiable in the (Indico site)[https://indico.cern.ch/event/1597083/]
+The meeting agenda is available in the [Indico site](https://indico.cern.ch/event/1597083/)
