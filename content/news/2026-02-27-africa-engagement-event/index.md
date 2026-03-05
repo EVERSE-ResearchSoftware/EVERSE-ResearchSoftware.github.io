@@ -13,9 +13,9 @@ Software created to address the needs of researchers is playing an increasingly 
 
 The goal of this event is to share experience across continents on the challenges faced in creating research software and the improving its quality, and to foster both knowledge-sharing and collaboration.
 
-The EVERSE project is pooling the knowledge of best practices for research software quality, initially targeting diverse research communities initially in Europe.  It seeks to identify the tools, metrics and training available in related topics.  Its target is to  work towards having it valued as a first-level contribution to research.
+The EVERSE project is pooling the knowledge of best practices for research software quality, initially targeting diverse research communities in Europe.  It seeks to identify the tools, metrics and training available in related topics.  Its target is to  work towards having it valued as a first-level contribution to research.
 
-Organised by the EVERSE project, the University of Cape Town's e-Research Center and the Science for Africa Foundation.
+Organised by the EVERSE project, the [University of Cape Town's e-Research Center](https://www.uct.ac.za/eresearch) and the [Science for Africa Foundation](https://scienceforafrica.foundation/).
 
 {{< flex-content >}}
 <--->
@@ -31,8 +31,6 @@ Please [register for the event]( https://indico.cern.ch/event/1636332//) (free r
 Tuesday 14th April 2026, 10:00 - 14:30 CET
 
 ## Venue/Logistics
-
-<ins>Online</ins>: 
 
 <ins>Remote</ins>: Zoom link will be provided to registered participants
 
