@@ -12,7 +12,6 @@ weight: 10
 
 ## High Quality Research Software for the Communities by the Communities
 
-### *Software for the Communities by the Communities*
 
 The **EVERSE** project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**.
 
