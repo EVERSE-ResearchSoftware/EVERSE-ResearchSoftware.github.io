@@ -6,7 +6,7 @@ draft: false
 weight: 10
 ---
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
-**Latest:** *Participate to the Community Engagement Event on Thursday, 5 February 2026! [Register here](/news/2025-10-31-community-engagement/)*
+**Latest:** *Participate in the Research Software Quality Across Continents event on Tuesday 14th April! [Register here](https://indico.cern.ch/event/1636332/)*
 {{<  /alert >}}
 
 
