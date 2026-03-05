@@ -1,5 +1,5 @@
 ---
-title: "Consortium parnters"
+title: "Consortium partners"
 draft: false
 description: "all logos on panels"
 #slug: "partials"
