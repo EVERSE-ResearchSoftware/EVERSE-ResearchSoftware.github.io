@@ -1,9 +1,9 @@
 ---
 title: "EOSC EVERSE Policy Brief: Software as a first class citizen in research"
 draft: false
-date: 2026-02-27T00:00:00Z
-start_date: 2026-04-14T10:00:00Z
-end_date: 2026-04-14T14:30:00Z
+date: 2026-03-13T00:00:00Z
+start_date: 2026-03-13T00:00:00Z
+end_date: 2026-03-13T00:00:00Z
 summary: >
     EOSC EVERSE Policy Brief
 ---
