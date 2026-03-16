@@ -20,3 +20,21 @@ RSQKit brings together:
 - Information about [Research Software Clusters & Infrastructures](https://everse.software/RSQKit/research_clusters_and_infrastructures) and associated [Research Software Stories](https://everse.software/RSQKit/research_software_stories) from [EVERSE WP4](https://everse.software/workpackages/04_pilots_and_drivers/)
 - Associated [collected training resources](https://github.com/EVERSE-ResearchSoftware/training) served via the [EVERSE Training Portal](https://everse-training.app.cern.ch/) from [EVERSE WP5](https://everse.software/workpackages/05_capacity_and_recognition/)
 - And is a key item mentioned in the outreach and promoted to the [EVERSE Network](https://everse.software/network/) and via [EVERSE WP1](https://everse.software/workpackages/01_framework_european_network/)
+
+## RSQKit Leadership & Governance
+
+### Project lead
+
+Shoaib Sufi leads the RSQKit project and its engagement wih other parts, products and communities of EVERSE, as well as adjacent open research communities.
+
+{{< figure src="/about/everse_people/shoaibsufi/feature.jpg"></div>" alt="Shoaib Sufi profile picture" >}}
+
+### Infrastructure lead
+
+Aleksandra Nenadic leads the technical work on RSQKit and is looking after its infrastructure.
+
+{{< figure src="/about/everse_people/aleksandranenadic/feature.jpg"></div>" alt="Aleksandra Nenadic profile picture" >}}
+
+### Editorial board
+
+The [RSQKit Editorial Board](https://everse.software/RSQKit/editorial_board) approves, governs and curates the content of RSQKit.
