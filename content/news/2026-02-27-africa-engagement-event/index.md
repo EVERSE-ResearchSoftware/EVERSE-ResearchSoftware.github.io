@@ -5,7 +5,8 @@ date: 2026-02-27T00:00:00Z
 start_date: 2026-04-14T10:00:00Z
 end_date: 2026-04-14T14:30:00Z
 summary: >
-    An EVERSE-Africa Engagement Event
+    Do you write code for research? Join researchers and engineers across Africa and Europe for the upcoming EVERSE-Africa engagement event: Research Software Quality Across Continents!
+
 ---
 We are excited to invite you to the EVERSE Community Engagement Event on **Research Software Quality Across Continents!**
 
