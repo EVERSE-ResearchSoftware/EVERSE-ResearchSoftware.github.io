@@ -1,18 +1,19 @@
 ---
 title: "Shaping research software policy at OECD"
 draft: false
-date: 2026-03-13T00:00:00Z
-start_date: 2026-03-13T00:00:00Z
-end_date: 2026-03-13T00:00:00Z
+date: 2026-03-18T00:00:00Z
+start_date: 2026-03-18T00:00:00Z
+end_date: 2026-03-18T00:00:00Z
 summary: >
-    OECD workshop
+    Recently, the Organisation for Economic Co-operation and Development (OECD), in partnership with EVERSE and the @Research Software Alliance, organised a workshop on policies for research software – bringing together stakeholders from across academia, government and the private sector to explore policy options that strengthen access to research software and promote open science. 
+
 ---
 
-On 6th March, the Organisation for Economic Co-operation and Development (OECD), in partnership with EVERSE and the Research Software Alliance, organised a workshop on policies for research software in the age of artificial intelligence. A diverse range of stakeholders, from across academia, government and the private sector, came to explore policy options that strengthen access to research software and promote open science. 
+On 6th March, the [Organisation for Economic Co-operation and Development (OECD)](https://www.oecd.org/en.html), in partnership with EVERSE and the [Research Software Alliance](https://www.researchsoft.org/), organised a workshop on policies for research software in the age of artificial intelligence. A diverse range of stakeholders, from across academia, government and the private sector, came to explore policy options that strengthen access to research software and promote open science. 
 
-EVERSE was actively represented in the workshop through various Institutions, including CERTH, University of Manchester, University of Edinburgh, SSI, as well as members of the EVERSE Scientific Advisory Board. 
+EVERSE was actively represented in the workshop through various Institutions, including [CERTH](https://www.certh.gr/root.en.aspx), [University of Manchester](https://www.manchester.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), [SSI](https://www.software.ac.uk/), as well as members of the EVERSE Scientific Advisory Board. 
 
-Fotis Psomopoulos (CERTH, coordinator of EVERSE) presented the current state of national policies and practices related to access to research software. Alongside presenting EVERSE and its outputs, he also highlighted our recently published policy brief, which provides an actionable framework with key recommendations from EVERSE on how to develop research software that is credited, properly documented and can be reused, reviewed and built on by others. 
+[Fotis Psomopoulos](https://everse.software/about/everse_people/fotis_psomopoulos/) (CERTH, coordinator of EVERSE) presented the current state of national policies and practices related to access to research software. Alongside presenting EVERSE and its outputs, he also highlighted our recently published policy brief, which provides an actionable framework with key recommendations from EVERSE on how to develop research software that is credited, properly documented and can be reused, reviewed and built on by others. 
 
 He explored several topics addressed in the brief, including:
 
@@ -38,7 +39,7 @@ Moderated by Fotis Psomopoulos, this session addressed questions such as:
 
 **Infrastructure**
 
-Moderated by Carole Goble (Professor at the University of Manchester and Joint Head of Node, this session addressed questions such as: 
+Moderated by [Carole Goble](https://www.linkedin.com/in/carole-goble-45881/) (Professor at the University of Manchester and Joint Head of Node, this session addressed questions such as: 
 
 * How can we identify which infrastructure is critical and at risk? And what shared infrastructure countries should jointly invest in? 
 
@@ -48,7 +49,7 @@ Moderated by Carole Goble (Professor at the University of Manchester and Joint H
 
 **Governance of access to research software**
 
-Moderated by Neil Chue Hong (Principal Investigator and PI and founding Director of the Software Sustainability Institute and co-lead of EVERSE WP3), this session addressed questions such as: 
+Moderated by [Neil Chue Hong](https://everse.software/about/everse_people/neilchuehong/) (Principal Investigator and PI and founding Director of the Software Sustainability Institute and co-lead of EVERSE WP3), this session addressed questions such as: 
 
 * Who should be responsible for governance of access to research software? 
 
@@ -60,7 +61,7 @@ Moderated by Neil Chue Hong (Principal Investigator and PI and founding Director
 
 **International cooperation**
 
-Moderated by Michelle Barker (Director of Research Software Alliance and member of EVERSE’s Scientific Advisory Board), this session addressed questions such as: 
+Moderated by [Michelle Barker](https://www.linkedin.com/in/michelledbarker/) (Director of Research Software Alliance and member of EVERSE’s [Scientific Advisory Board](https://everse.software/about/scientific-advisory-board/)), this session addressed questions such as: 
 
 * What are the main aspects where international cooperation is needed, and why?  
 
@@ -70,7 +71,7 @@ Moderated by Michelle Barker (Director of Research Software Alliance and member 
 
 **Human resources**
 
-Moderated by Dan Katz (Chief Scientist at the National Center for Supercomputing Applications (NCSA), University of Illinois Urbana-Champaign), this session addressed questions such as: 
+Moderated by [Dan Katz](https://www.linkedin.com/in/danielskatz/) (Chief Scientist at the [National Center for Supercomputing Applications (NCSA)](https://www.ncsa.illinois.edu/), University of Illinois Urbana-Champaign), this session addressed questions such as: 
 
 * What mechanisms should be used to encourage and enable research software work, particularly as a primary job (e.g. for research software engineers)? 
 
