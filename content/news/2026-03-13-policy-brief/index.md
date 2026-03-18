@@ -5,7 +5,8 @@ date: 2026-03-13T00:00:00Z
 start_date: 2026-03-13T00:00:00Z
 end_date: 2026-03-13T00:00:00Z
 summary: >
-    EOSC EVERSE Policy Brief
+    Hot off the press, we’re excited to share our latest policy brief: Software as a First Class Citizen in Research! Through this document, and through the objectives of EVERSE, we are working to ensure that research software that is developed is credited, has proper documentation and can be reused, reviewed and built on by others.
+
 ---
 
 We’ve recently published our latest policy brief!
