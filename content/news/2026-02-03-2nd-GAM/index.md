@@ -16,7 +16,7 @@ The second **EVERSE General Assembly Meeting** will take place from the 3rd to t
 
 {{< flex-content >}}
 <--->
-{{< figure src="feature.png" alt="Photo of the CERN Globe. Photo copyright CERN 2011">}}
+{{< figure src="feature.jpg" alt="Photo of the CERN Globe. Photo copyright CERN 2011">}}
 {{< /flex-content>}}
 
 ## Registration
