@@ -21,19 +21,20 @@ RSQKit brings together:
 - Associated [collected training resources](https://github.com/EVERSE-ResearchSoftware/training) served via the [EVERSE Training Portal](https://everse-training.app.cern.ch/) from [EVERSE WP5](https://everse.software/workpackages/05_capacity_and_recognition/)
 - And is a key item mentioned in the outreach and promoted to the [EVERSE Network](https://everse.software/network/) and via [EVERSE WP1](https://everse.software/workpackages/01_framework_european_network/)
 
+<figure class="float-right m-2 w-[30%]">
+{{< figure src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture">}}
+{{< figure src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" >}}
+</figure>
+
 ## RSQKit Leadership & Governance
 
 ### Project lead
 
-Shoaib Sufi leads the RSQKit project and its engagement wih other parts, products and communities of EVERSE, as well as adjacent open research communities.
-
-{{< figure src="/about/everse_people/shoaibsufi/feature.jpg"></div>" alt="Shoaib Sufi profile picture" >}}
+[Shoaib Sufi](/about/everse_people/shoaibsufi) leads the RSQKit project and its engagement wih other parts, products and communities of EVERSE, as well as adjacent open research communities.
 
 ### Infrastructure lead
 
-Aleksandra Nenadic leads the technical work on RSQKit and is looking after its infrastructure.
-
-{{< figure src="/about/everse_people/aleksandranenadic/feature.jpg"></div>" alt="Aleksandra Nenadic profile picture" >}}
+[Aleksandra Nenadic](/about/everse_people/aleksandranenadic) leads the technical work on RSQKit and is looking after its infrastructure.
 
 ### Editorial board
 
