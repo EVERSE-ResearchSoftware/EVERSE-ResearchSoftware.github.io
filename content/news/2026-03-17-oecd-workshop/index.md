@@ -13,7 +13,7 @@ On 6th March, the [Organisation for Economic Co-operation and Development (OECD)
 
 EVERSE was actively represented in the workshop through various Institutions, including [CERTH](https://www.certh.gr/root.en.aspx), [University of Manchester](https://www.manchester.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk/), [SSI](https://www.software.ac.uk/), as well as members of the EVERSE Scientific Advisory Board. 
 
-[Fotis Psomopoulos](https://everse.software/about/everse_people/fotis_psomopoulos/) (CERTH, coordinator of EVERSE) presented the current state of national policies and practices related to access to research software. Alongside presenting EVERSE and its outputs, he also highlighted our recently published policy brief, which provides an actionable framework with key recommendations from EVERSE on how to develop research software that is credited, properly documented and can be reused, reviewed and built on by others. 
+[Fotis Psomopoulos](/about/everse_people/fotis_psomopoulos/) (CERTH, coordinator of EVERSE) presented the current state of national policies and practices related to access to research software. Alongside presenting EVERSE and its outputs, he also highlighted our recently published policy brief, which provides an actionable framework with key recommendations from EVERSE on how to develop research software that is credited, properly documented and can be reused, reviewed and built on by others. 
 
 He explored several topics addressed in the brief, including:
 
@@ -49,7 +49,7 @@ Moderated by [Carole Goble](https://www.linkedin.com/in/carole-goble-45881/) (Pr
 
 **Governance of access to research software**
 
-Moderated by [Neil Chue Hong](https://everse.software/about/everse_people/neilchuehong/) (Principal Investigator and PI and founding Director of the Software Sustainability Institute and co-lead of EVERSE WP3), this session addressed questions such as: 
+Moderated by [Neil Chue Hong](/about/everse_people/neilchuehong/) (Principal Investigator and PI and founding Director of the Software Sustainability Institute and co-lead of EVERSE WP3), this session addressed questions such as: 
 
 * Who should be responsible for governance of access to research software? 
 
