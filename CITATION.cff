@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EVERSE Webiste
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name: >-
+      European Virtual Institute for Research Software
+      Excellence
+    email: contact@everse.software
+    website: 'https://everse.software/'
+    alias: EVERSE
+identifiers:
+  - type: url
+    value: 'https://everse.software/'
+repository-code: 'https://github.com/EVERSE-ResearchSoftware'
+keywords:
+  - Research Software
+  - Software Quality
+  - EVERSE
+  - EOSC
+  
