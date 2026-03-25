@@ -25,7 +25,6 @@ our [2nd General Assembly Meeting](/news/2026-03-24-general-assembly-meeting/) a
 Engagement Event](/news/2026-03-24-community-engagement-event/) held at CERN. Not to mention our involvement in the
 recent [OECD workshop](/news/2026-03-17-oecd-workshop/) and [deRSE](/news/2026-03-18-everse-at-drse/).
 
-
-To read all our latest news and get up to speed, check out the latest issue of the EVERSE newsletter as a [PDF](Newsletter-2026-03). 
+To read all our latest news and get up to speed, check out the latest issue of the EVERSE newsletter as a [PDF](../../network/newsletter/Newsletter-2026-03.pdf).
 
 And if you are not yet receiving our newsletter in your inbox, why not join our [network](/network/) and make sure that you're always first to get the latest EVERSE news and updates?
