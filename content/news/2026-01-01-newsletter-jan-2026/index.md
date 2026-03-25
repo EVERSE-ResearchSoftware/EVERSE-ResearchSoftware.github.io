@@ -17,4 +17,4 @@ summary: >
 
 How to learn more about the EVERSE project? Attend the EVERSE Community Engagement Event on February 5th at CERN or online; we also learn about EVERSE WP5, that's involved in capacity building and recognition; we have a report from the S³ School – Sustainable Scienti c Software School; or check-out our services and website.
 
-You can read the newsletter as a PDF [here](Newsletter-2026-01.pdf).
+You can read the newsletter as a PDF [here](../../network/newsletter/Newsletter-2026-01.pdf).
