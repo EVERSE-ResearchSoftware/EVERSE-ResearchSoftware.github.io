@@ -15,6 +15,7 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
+| 28th April 2026, 3 PM CEST | A Credit and Recognition Framework for RSEs and Trainers | [Indico agenda and registration](https://indico.cern.ch/event/1663496/) |
 | 22nd January 2026, 11 AM CET | EVERSE Webinar: The Research Software Quality Toolkit | [Indico agenda](https://indico.cern.ch/event/1621523/) |
 | 18th November 2025, 3 PM CET | EVERSE Network training - Strengthen your research by telling its Research Software Story: a narrative approach for better impact | [Indico agenda](https://indico.cern.ch/event/1609264/) |
 | 21st October 2025, 11 AM CEST | Enhancing Research Software FAIRness through the OpenAIRE Graph | [Indico agenda](https://indico.cern.ch/event/1596327/)
