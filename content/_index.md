@@ -8,6 +8,11 @@ weight: 10
 {{< alert icon="bell" iconColor=#80539a  cardColor="#3ea3dc" textColor="#e4e4e3" >}}
 **Latest:** *Participate in the Research Software Quality Across Continents event on Tuesday 14th April! [Register here](https://indico.cern.ch/event/1636332/)*
 {{<  /alert >}}
+<br>
+
+{{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
+**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming webinar: A Credit and Recognition Framework for RSEs and Trainers on Tuesday 28th April! [<span style="color: #e4e4e3;">Register here</span>](https://indico.cern.ch/event/1663496/)*
+{{< /alert >}}
 
 
 ## High Quality Research Software for the Communities by the Communities
