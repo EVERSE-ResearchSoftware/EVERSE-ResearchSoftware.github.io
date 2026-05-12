@@ -32,4 +32,4 @@ Looking back on the breadth of discussions and insights shared throughout the da
 
 If you would like to listen to the talks from the event, the full recording is available to watch on [EVERSE’s YouTube channel.](https://www.youtube.com/watch?v=UNNfXN_hRMo&t=6202s)
 
-All presentation slides and useful resources can be found on the [event page.](https://indico.cern.ch/event/1636332/)
+All [presentation slides and useful resources](https://indico.cern.ch/event/1636332/) can be found on the event page.
