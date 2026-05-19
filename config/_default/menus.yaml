@@ -90,6 +90,10 @@ main:
     weight: 30
     pageRef: services/DashVERSE
     parent: Services
+  - name: EVERSE Training
+    weight: 40
+    pageRef: services/EVERSETraining
+    parent: Services
   # - name: SMP
   #   weight: 20
   #   pageRef: services/SMP
