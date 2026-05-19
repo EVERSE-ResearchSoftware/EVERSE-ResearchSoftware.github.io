@@ -14,10 +14,10 @@ The first batch of training materials has been collected by the entire EVERSE Co
 
 The underlying infrastructre behind EVERSE Training is the open source software: [TeSS (Training e-Support System)](https://github.com/ElixirTeSS/TeSS). This core software has been developed by [ELIXIR](https://elixir-europe.org/) and extensively used by their community in the last decade, collecting thousands of materials and events. EVERSE Training is also part of the [mTeSS-X project](https://elixirtess.github.io/mTeSS-X/) and is currently supporting the multi-space and exchange features.
 
-EVERSE Training is a project from the [WP5 (Capacity Building and Recognition)](/workpackages/05_Capacity_and_Recognition) co-led by [Daniel Garijo](/about/everse_people/DanielGarijo) and [Stefan Roiser](/about/everse_people/StefanRoiser). It is deployed, maintained and developed at CERN by [Kenneth Rioja](/about/everse_people/KennethRioja).
+EVERSE Training is a project from the [WP5 (Capacity Building and Recognition)](/workpackages/05_capacity_and_recognition) co-led by [Daniel Garijo](/about/everse_people/danielgarijo) and [Stefan Roiser](/about/everse_people/stefanroiser). It is deployed, maintained and developed at CERN by [Kenneth Rioja](/about/everse_people/kennethrioja).
 
 <figure class="grid grid-cols-3 gap-4">
-{{< figure src="/about/everse_people/StefanRoiser/feature.jpg" alt="Stefan Roiser profile picture">}}
-{{< figure src="/about/everse_people/DanielGarijo/feature.jpg" alt="Daniel Garijo profile picture" >}}
-{{< figure src="/about/everse_people/KennethRioja/feature.jpg" alt="Kenneth Rioja profile picture" >}}
+{{< figure src="/about/everse_people/stefanroiser/feature.jpg" alt="Stefan Roiser profile picture">}}
+{{< figure src="/about/everse_people/danielgarijo/feature.jpg" alt="Daniel Garijo profile picture" >}}
+{{< figure src="/about/everse_people/kennethrioja/feature.jpg" alt="Kenneth Rioja profile picture" >}}
 </figure>
