@@ -1,18 +1,15 @@
 ---
-title: "Caterina Doglioni"
-description: "Caterina's presentation"
+title: "Chris Wood"
+description: "Chris's presentation"
 draft: false
 
 type: "people"
 
-params:
-    # wp4: true
-    wpl: true
-    wp4lead: true
+wp1: true
     institute: University of Edinburgh
     media:
         email: 
-        linkedin:
+        linkedin: 
 ---
 {{< figure src="feature.jpg" alt= "photo of Chris, (C) private" class="float-right m-2 w-[30%]" >}} 
 
