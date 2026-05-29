@@ -5,9 +5,6 @@ identifier: home
 draft: false 
 weight: 10
 ---
-{{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
-**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming webinar: A Credit and Recognition Framework for RSEs and Trainers on Tuesday 28th April! [<span style="color: #e4e4e3;">Register here</span>](https://indico.cern.ch/event/1663496/)*
-{{< /alert >}}
 
 
 ## High Quality Research Software for the Communities by the Communities
