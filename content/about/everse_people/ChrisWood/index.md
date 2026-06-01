@@ -4,12 +4,12 @@ description: "Chris's presentation"
 draft: false
 
 type: "people"
-
-wp1: true
-    institute: University of Edinburgh
-    media:
-        email: 
-        linkedin: 
+params:
+  wp1: true
+  institute: University of Edinburgh
+  media:
+    email: 
+    linkedin: 
 ---
 {{< figure src="feature.jpg" alt= "photo of Chris, (C) private" class="float-right m-2 w-[30%]" >}} 
 
