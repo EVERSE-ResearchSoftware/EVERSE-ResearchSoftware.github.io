@@ -9,9 +9,7 @@ params:
   institute: University of Edinburgh
   media:
     email: C.Wood@epcc.ed.ac.uk
-    github: wood-chris
-    link: https://github.com/wood-chris
-    
+    github: wood-chris  
 ---
 
 {{< figure src="feature.jpg" alt= "photo of Chris, (C) private" class="float-right m-2 w-[30%]" >}} 
