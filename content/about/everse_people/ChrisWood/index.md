@@ -8,8 +8,9 @@ params:
   wp1: true
   institute: University of Edinburgh
   media:
-    email: 
-    linkedin: 
+    email: C.Wood@epcc.ed.ac.uk
+    github: wood-chris
+    link: https://github.com/wood-chris
 ---
 {{< figure src="feature.jpg" alt= "photo of Chris, (C) private" class="float-right m-2 w-[30%]" >}} 
 
