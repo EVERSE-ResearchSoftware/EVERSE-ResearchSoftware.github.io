@@ -15,13 +15,14 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
-| 28th April 2026, 3 PM CEST | A Credit and Recognition Framework for RSEs and Trainers | [Indico agenda and registration](https://indico.cern.ch/event/1663496/) |
+| 23rd June 2026, 11 AM CEST | A Training Catalogue for Research Software Quality | [Indico agenda and registration](https://indico.cern.ch/event/1697013/) |
+| 28th April 2026, 3 PM CEST | A Credit and Recognition Framework for RSEs and Trainers | [Indico agenda ](https://indico.cern.ch/event/1663496/) |
 | 22nd January 2026, 11 AM CET | EVERSE Webinar: The Research Software Quality Toolkit | [Indico agenda](https://indico.cern.ch/event/1621523/) |
 | 18th November 2025, 3 PM CET | EVERSE Network training - Strengthen your research by telling its Research Software Story: a narrative approach for better impact | [Indico agenda](https://indico.cern.ch/event/1609264/) |
 | 21st October 2025, 11 AM CEST | Enhancing Research Software FAIRness through the OpenAIRE Graph | [Indico agenda](https://indico.cern.ch/event/1596327/)
 | 23rd September 2025, 11 AM CEST | The EVERSE Reference Framework - A Showcase | [Indico agenda](https://indico.cern.ch/event/1588342/)
 | 11th June 2025, 4.30 PM CEST | Compute & Accelerator Forum - Julia and GPUs (Co-organised) | [Indico agenda](https://indico.cern.ch/event/1472683/) |
-| 21st May 2025, 11 AM CEST | ENVRI-Hub NEXT & EVERSE Training Webinar: Research Software Quality Assessment | [Agenda](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/) |
+| 21st May 2025, 11 AM CEST | ENVRI-Hub NEXT & EVERSE Training Webinar: Research Software Quality Assessment | [Indico agenda](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/) |
 | 15th April 2025, 10 AM CEST | Building the Landscape of Software Quality and Defining Software Quality Indicators | [Indico agenda](https://indico.cern.ch/event/1531998/) |
 
 To synchronize with your calendar, copy-paste the following URL into your scheduling application. Contents will be automatically synchronized: <https://indico.cern.ch/category/19377/events.ics?user_token=212229_pMClLPnfmeBd0AW9NfvRjsaL7H_BRSuNbtEj54RXHTo>
