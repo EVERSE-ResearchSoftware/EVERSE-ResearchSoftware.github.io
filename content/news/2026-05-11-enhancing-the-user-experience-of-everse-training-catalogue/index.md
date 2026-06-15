@@ -17,7 +17,7 @@ This was a question that arose during EVERSE’s second general assembly meeting
 
 With Kenneth’s work as the maintainer and developer of EVERSE Training, Hugo’s focus on designing and building advanced AI systems for training and research software quality, and David’s extensive experience on training in research institutions, together they worked on developing a new feature for the catalogue.
 
-Filling out a lengthy form is what most, if not all, would consider not to be a fun task — and this was the challenge with our training catalogue. Each time a user wants to register a material or an event in EVERSE Training, the form takes a lot of time to go through, asking for a lot of information, such as: a description, learning objectives, trainee prerequisites, key words, and the list goes on — you get the picture. But what actually ends up happening? Less information written on the form,  resulting in fewer details about the training resource to assess its usefulness. 
+Filling out a lengthy form is what most, if not all, would consider to not be a particularly fun task — and this was the challenge with the training catalogue. Each time a user wants to register a material or an event in EVERSE Training, the form takes a lot of time to go through, asking for a lot of information, such as: a description, learning objectives, trainee prerequisites, key words, and the list goes on — you get the picture. But what actually ends up happening? Less information written on the form,  resulting in fewer details about the training resource to assess its usefulness. 
 
 After exchanging emails, pondering how exactly such changes to the user experience could be implemented, Kenneth and Hugo decided to meet in person in Paris at the  [IJC Lab](https://www.ijclab.in2p3.fr/en/home/) in early May.
 
@@ -43,7 +43,10 @@ To find out more details, take a look at the [GitHub repo](https://github.com/ke
 
 This  working pipeline is currently waiting to be implemented in EVERSE Training. Reflecting on their work, Kenneth and Hugo identify some challenges still to be overcome: “The current pipeline was mainly giving better output using self-hosted models like Gemma4 than the one we could access using [AI4EOSC](https://ai4eosc.eu/) models. We are now looking for non-commercial/institution-hosted models to deploy this feature in production.”
 
-  ![photo](feature.png)
+ <div style="display: flex; justify-content: center;">
+  <img src="feature.png" alt="photo" style="max-width: 100%; height: auto;" />
+</div>
+<br>
 
 <div style="display: flex; gap: 12px; justify-content: center;">
   <a href="https://indico.cern.ch/event/1697013/"
