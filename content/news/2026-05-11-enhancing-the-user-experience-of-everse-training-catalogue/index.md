@@ -53,8 +53,5 @@ This  working pipeline is currently waiting to be implemented in EVERSE Training
  <div style="display: flex; justify-content: center;">
   <img src="feature.png" alt="photo" style="max-width: 100%; height: auto;" />
 </div>
-<div style="display: flex; justify-content: center;">
-  <em>The room in IJC Lab where the brainstorming happened!</em>
-</div>
 
 
