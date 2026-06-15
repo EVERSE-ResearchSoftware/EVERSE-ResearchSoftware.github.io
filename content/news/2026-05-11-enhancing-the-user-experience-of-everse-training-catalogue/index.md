@@ -43,12 +43,16 @@ To find out more details, take a look at the [GitHub repo](https://github.com/ke
 
 This  working pipeline is currently waiting to be implemented in EVERSE Training. Reflecting on their work, Kenneth and Hugo identify some challenges still to be overcome: “The current pipeline was mainly giving better output using self-hosted models like Gemma4 than the one we could access using [AI4EOSC](https://ai4eosc.eu/) models. We are now looking for non-commercial/institution-hosted models to deploy this feature in production.”
 
- <div style="display: flex; justify-content: center;">
-  <img src="feature.png" alt="photo" style="max-width: 100%; height: auto;" />
-</div>
-<br>
-
 <div style="display: flex; gap: 12px; justify-content: center;">
   <a href="https://indico.cern.ch/event/1697013/"
      style="background-color: purple; color: white; padding: 12px 16px; text-decoration: none; border-radius: 6px; display:flex; width: max-content; justify-content: center; align-items: center; font-size: 16px; line-height: 24px; margin:0;">Find out more about EVERSE Training in our upcoming webinar</a>
+</div>
+
+<br>
+
+ <div style="display: flex; justify-content: center;">
+  <img src="feature.png" alt="photo" style="max-width: 100%; height: auto;" />
+</div>
+
+
 
