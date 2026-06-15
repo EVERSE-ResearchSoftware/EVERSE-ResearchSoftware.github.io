@@ -45,7 +45,7 @@ This  working pipeline is currently waiting to be implemented in EVERSE Training
 
 <div style="display: flex; gap: 12px; justify-content: center;">
   <a href="https://indico.cern.ch/event/1697013/"
-     style="background-color: purple; color: white; padding: 12px 16px; text-decoration: none; border-radius: 6px; display:flex; width: max-content; justify-content: center; align-items: center; font-size: 16px; line-height: 24px; margin:0;">Find out more about EVERSE Training in our upcoming webinar</a>
+     style="background-color: purple; color: white; padding: 12px 16px; text-decoration: none; border-radius: 6px; display:flex; width: max-content; justify-content: center; align-items: center; font-size: 16px; line-height: 24px; margin:0;">Find out more about EVERSE Training in our upcoming webinar!</a>
 </div>
 
 <br>
@@ -53,6 +53,8 @@ This  working pipeline is currently waiting to be implemented in EVERSE Training
  <div style="display: flex; justify-content: center;">
   <img src="feature.png" alt="photo" style="max-width: 100%; height: auto;" />
 </div>
-
+<div style="display: flex; justify-content: center;">
+  <em>The room in IJC Lab where the brainstorming happened!</em>
+</div>
 
 
