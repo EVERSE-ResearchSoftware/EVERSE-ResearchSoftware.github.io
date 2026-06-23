@@ -130,20 +130,23 @@ By embedding the RSQKit and related services into the EOSC Science Clusters, EVE
 The [RSQKit Editorial Board](https://everse.software/RSQKit/editorial_board) approves, governs and curates the content of RSQKit. 
 <br>
 
+<div style="display:flex; flex-wrap:wrap; gap:12px; justify-content:center; align-items:center; margin:16px 0;">
 
-<div style="display:grid; grid-template-columns:repeat(3, 160px); gap:12px; justify-content:center; margin:16px 0;">
   <a href="https://everse.software/RSQKit/"
-     style="width:160px; height:42px; display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; margin:0; padding:0 10px; box-sizing:border-box; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; line-height:1; text-align:center; border-radius:999px; border:1px solid #82529d;">
-    <span style="display:block; line-height:1; text-align:center;">Visit RSQKit</span>
+     style="display:flex; align-items:center; justify-content:center; width:160px; height:42px; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; border-radius:999px; border:1px solid #82529d; box-sizing:border-box; padding:0 10px; white-space:nowrap;">
+    <span style="display:block; text-align:center; line-height:1; margin:0; padding:0;">Visit RSQKit</span>
   </a>
 
   <a href="https://everse.software/RSQKit/get_involved"
-     style="width:160px; height:42px; display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; margin:0; padding:0 10px; box-sizing:border-box; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; line-height:1; text-align:center; border-radius:999px; border:1px solid #82529d;">
-    <span style="display:block; line-height:1; text-align:center;">Make suggestions</span>
+     style="display:flex; align-items:center; justify-content:center; width:160px; height:42px; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; border-radius:999px; border:1px solid #82529d; box-sizing:border-box; padding:0 10px; white-space:nowrap;">
+    <span style="display:block; text-align:center; line-height:1; margin:0; padding:0;">Make suggestions</span>
   </a>
 
   <a href="https://github.com/EVERSE-ResearchSoftware/RSQKit"
-     style="width:160px; height:42px; display:inline-flex; align-items:center; justify-content:center; vertical-align:middle; margin:0; padding:0 10px; box-sizing:border-box; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; line-height:1; text-align:center; border-radius:999px; border:1px solid #82529d;">
-    <span style="display:block; line-height:1; text-align:center;">RSQKit on GitHub</span>
+     style="display:flex; align-items:center; justify-content:center; width:160px; height:42px; background:#82529d; color:#ffffff; text-decoration:none; font-size:14px; font-weight:600; border-radius:999px; border:1px solid #82529d; box-sizing:border-box; padding:0 10px; white-space:nowrap;">
+    <span style="display:block; text-align:center; line-height:1; margin:0; padding:0;">RSQKit on GitHub</span>
   </a>
+
 </div>
+
+
