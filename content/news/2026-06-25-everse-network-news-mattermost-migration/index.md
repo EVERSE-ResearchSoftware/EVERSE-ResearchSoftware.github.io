@@ -70,6 +70,6 @@ If you do not have a CERN account, ignore the ‘sign in with a CERN account’ 
 
 Once you have logged in and created your account, please join the **Town Square channel only** for now. This is where we will share updates, events, and relevant information for the Network. 
 
-If you have any concerns or questions about this process of moving platforms and joining the new Mattermost channels, please don’t hesitate to [reach out to us.](mailto:contact@everse.software)
+If you have any concerns or questions about this process of moving platforms and joining the new Mattermost channels, please don’t hesitaste to [reach out to us.](mailto:everse-network-admin@cern.ch)
 
 
