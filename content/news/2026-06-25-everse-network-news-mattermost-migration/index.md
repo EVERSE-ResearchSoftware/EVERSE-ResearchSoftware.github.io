@@ -21,6 +21,7 @@ To help you in the process of moving platforms, we have included all the informa
 **How do I join?**
 
 ***Step 1***
+
 Click on [this invite link to join.](https://mattermost.web.cern.ch/signup_user_complete/?id=&md=link&sbr=su)
 
 ***Step 2***
