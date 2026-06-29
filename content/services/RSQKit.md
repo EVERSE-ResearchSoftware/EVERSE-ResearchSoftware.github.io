@@ -106,24 +106,26 @@ By embedding the RSQKit and related services into the EOSC Science Clusters, EVE
   <p style="margin:0; font-size:0.96rem; line-height:1.5;">Featured in EVERSE outreach and shared through WP1 and the EVERSE Network.</p>
 </a>
 
+
+<div style="margin-bottom:2rem;">
+
+  <h2>RSQKit Leadership &amp; Governance</h2>
+
+  <h3>Project lead</h3>
+  <div style="display:flex; align-items:flex-start; gap:1.5rem; margin-bottom:1.5rem;">
+    <img src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+    <p style="margin:0;"><a href="/about/everse_people/shoaibsufi">Shoaib Sufi</a> leads the RSQKit project and its engagement with other parts, products and communities of EVERSE, as well as adjacent open research communities.</p>
+  </div>
+
+  <h3>Infrastructure lead</h3>
+  <div style="display:flex; align-items:flex-start; gap:1.5rem;">
+    <img src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+    <p style="margin:0;"><a href="/about/everse_people/aleksandranenadic">Aleksandra Nenadic</a> leads the technical work on RSQKit and is looking after its infrastructure.</p>
+  </div>
+
 </div>
 
-
-
-<figure class="float-right m-2 w-[30%]">
-{{< figure src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture">}}
-{{< figure src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" >}}
-</figure>
-
-## RSQKit Leadership & Governance
-
-### Project lead
-
-[Shoaib Sufi](/about/everse_people/shoaibsufi) leads the RSQKit project and its engagement wih other parts, products and communities of EVERSE, as well as adjacent open research communities.
-
-### Infrastructure lead
-
-[Aleksandra Nenadic](/about/everse_people/aleksandranenadic) leads the technical work on RSQKit and is looking after its infrastructure.
+</div>
 
 ### Editorial board
 
