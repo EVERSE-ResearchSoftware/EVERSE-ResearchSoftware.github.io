@@ -6,7 +6,7 @@ weight: 1000
 display_in_summary: true
 ---
 <div style="text-align:center;">
-  <img src="rsqkitlogo.svg" alt="RSQKit logo" style="height:80px; width:auto;" />
+  <img src="rsqkitlogo.png" alt="rsqkit logo" style="height:80px; width:auto;" />
 </div>
 
 ## What is the RSQKit?
