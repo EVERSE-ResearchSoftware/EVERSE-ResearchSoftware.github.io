@@ -107,25 +107,34 @@ By embedding the RSQKit and related services into the EOSC Science Clusters, EVE
 </a>
 
 
+
+</div>
+
 <div style="margin-bottom:2rem;">
+<h2>RSQKit Leadership &amp; Governance</h2>
 
-  <h2>RSQKit Leadership &amp; Governance</h2>
+<div style="display:flex; gap:2rem; align-items:flex-start; flex-wrap:wrap;">
 
-  <h3>Project lead</h3>
-  <div style="display:flex; align-items:flex-start; gap:1.5rem; margin-bottom:1.5rem;">
-    <img src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
-    <p style="margin:0;"><a href="/about/everse_people/shoaibsufi">Shoaib Sufi</a> leads the RSQKit project and its engagement with other parts, products and communities of EVERSE, as well as adjacent open research communities.</p>
-  </div>
+<div style="flex:1; min-width:320px;">
+<h3>Project lead</h3>
+<div style="display:flex; align-items:flex-start; gap:1.5rem;">
+<img src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+<p style="margin:0;"><a href="/about/everse_people/shoaibsufi">Shoaib Sufi</a> leads the RSQKit project and its engagement with other parts, products and communities of EVERSE, as well as adjacent open research communities.</p>
+</div>
+</div>
 
-  <h3>Infrastructure lead</h3>
-  <div style="display:flex; align-items:flex-start; gap:1.5rem;">
-    <img src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
-    <p style="margin:0;"><a href="/about/everse_people/aleksandranenadic">Aleksandra Nenadic</a> leads the technical work on RSQKit and is looking after its infrastructure.</p>
-  </div>
-
+<div style="flex:1; min-width:320px;">
+<h3>Infrastructure lead</h3>
+<div style="display:flex; align-items:flex-start; gap:1.5rem;">
+<img src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" style="width:120px; height:120px; object-fit:cover; border-radius:8px; flex-shrink:0;" />
+<p style="margin:0;"><a href="/about/everse_people/aleksandranenadic">Aleksandra Nenadic</a> leads the technical work on RSQKit and is looking after its infrastructure.</p>
+</div>
 </div>
 
 </div>
+</div>
+
+
 
 ### Editorial board
 
