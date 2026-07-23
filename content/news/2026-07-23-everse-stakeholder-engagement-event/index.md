@@ -1,5 +1,5 @@
 ---
-title: "Improving Research Software Quality in Europe:"
+title: "Improving Research Software Quality in Europe: an EVERSE Stakeholder Engagement Event"
 draft: false
 date: 2026-07-23T00:00:00Z
 start_date: 2026-07-23T00:00:00Z
