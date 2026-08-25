@@ -6,9 +6,9 @@ draft: false
 weight: 10
 ---
 
-{{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
-**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming webinar: Introducing the TechRadar for Research Software Quality on Tuesday 15th September![<span style="color: #e4e4e3;">Register here</span>](https://indico.cern.ch/event/1720136/)*
-{{< /alert >}}
+{{% alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" %}}
+**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming webinar: Introducing the TechRadar for Research Software Quality on Tuesday 15th September! [Register here](https://indico.cern.ch/event/1720136/)*
+{{% /alert %}}
 
 
 ## High Quality Research Software for the Communities by the Communities
