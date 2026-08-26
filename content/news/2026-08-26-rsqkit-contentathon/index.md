@@ -57,4 +57,4 @@ Since you're reading this, your experience is part of the community knowledge we
 
 
 
-![photo](feature.png)
+![photo](articlephoto.png)
