@@ -15,6 +15,7 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
+| 15th September 2026, 11 AM CEST | Introducing the TechRadar for Research Software Quality| [Indico agenda and registration](https://indico.cern.ch/event/1720136/) |
 | 23rd June 2026, 11 AM CEST | A Training Catalogue for Research Software Quality | [Indico agenda and registration](https://indico.cern.ch/event/1697013/) |
 | 28th April 2026, 3 PM CEST | A Credit and Recognition Framework for RSEs and Trainers | [Indico agenda ](https://indico.cern.ch/event/1663496/) |
 | 22nd January 2026, 11 AM CET | EVERSE Webinar: The Research Software Quality Toolkit | [Indico agenda](https://indico.cern.ch/event/1621523/) |
