@@ -33,7 +33,7 @@ Since you're reading this, your experience is part of the community knowledge we
 
 **Upcoming RSQKit writing sessions following on from the RSQKit Contentathon:**
 
-* [4th September 2026](https://indico.cern.ch/e/rsqkit-writing-1)
+* [14th September 2026](https://indico.cern.ch/e/rsqkit-writing-1)
 
 * [5th October 2026](https://indico.cern.ch/e/rsqkit-writing-2)
 
