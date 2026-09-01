@@ -13,26 +13,181 @@ weight: 10
 
 ## High Quality Research Software for the Communities by the Communities
 
-### *Software for the Communities by the Communities*
+EVERSE is a European project creating a shared framework to improve the quality, recognition and sustainability of research software.
 
-The **EVERSE** project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities, in pursuit of building a **European network of Research Software Quality** and setting the foundations of a future **Virtual Institute for Research Software Excellence**.
+We are bringing together reseach communities to define standards and share best practices towards building a **European network of research software quality**, setting the foundations for a future **Virtual Instittue for Research Software Excellence.**
 
-{{< figure src="/images/misc/markus-spiske-Skf7HxARcoc-unsplash.jpg" alt="Colorful software or web code on a computer monitor" >}}
 
-## Ambition
+## Our Mission
 
-EVERSE ultimate ambition is to contribute towards a cultural change where research software is recognized as a first-class citizen of the scientific process and the people that contribute to it are credited for their efforts.
+To make research software a first class research output  and ensure that everyone who contributes, whether a researcher or research software engineer, gain the recognition they deserve.
 
-EVERSE is coordinated by the [Centre for Research and Technology hellas (CERTH)](https://www.certh.gr) and the [Barcelona Supercomputing Center (BSC)](https://www.bsc.es/). EVERSE will be interfacing with the [EOSC science clusters](https://science-clusters.eu) and their emerging use cases:
 
-{{< flex-content >}}
-- [ENVRI Community](https://envri.eu): Essential Climate Variables
-- [Life Science RI](https://lifescience-ri.eu/home.html): The Workflow Execution Service backend with RO-Crate
-- [ESCAPE](https://projectescape.eu/): Particle physics and astrophysics in the Dark Matter Science Project
-- [PaNOSC](https://www.panosc.eu/): Photon and neutron science through LEAPS/LENS
-- [SSHOC](https://sshopencloud.eu/): UDPipe language processing suite
-<--->
-{{< figure src="/images/logos/science-clusters-logo.svg" alt="Science Cluster Organisation Logo" >}}
-{{< /flex-content >}}
+{{< figure src="/images/misc/scienceclusters.jpg" >}}
 
-{{< figure src="images/logos/EOSCEverse_PosColour_full.svg" alt="EVERSE project full logo" >}}
+Coordinated by the Centre for Research and Technology Hellas (CERTH) and the Barcelona Supercomputing Center (BSC), EVERSE partners with the EOSC science clusters to embed quality practices in their emerging use cases:
+
+<div class="science-clusters">
+
+<div class="science-cluster">
+<div class="science-cluster-text">
+Essential climate
+variables
+</div>
+<a href="https://envri.eu" target="_blank" rel="noopener">
+<img src="/images/logos/envri-community-logo.svg" alt="ENVRI Community">
+</a>
+</div>
+
+<div class="science-cluster">
+<div class="science-cluster-text">
+The Workflow Execution Service
+backend with RO-Crate
+</div>
+<a href="https://lifescience-ri.eu/home.html" target="_blank" rel="noopener">
+<img src="/images/logos/life-science-ri-logo.svg" alt="Life Science RI">
+</a>
+</div>
+
+<div class="science-cluster">
+<div class="science-cluster-text">
+Particle physics and
+astrophysics in the Dark
+Matter Science Project
+</div>
+<a href="https://projectescape.eu/" target="_blank" rel="noopener">
+<img src="/images/logos/escape-logo.svg" alt="ESCAPE">
+</a>
+</div>
+
+<div class="science-cluster">
+<div class="science-cluster-text">
+Photon and neutron science
+through LEAPS/LENS
+</div>
+<a href="https://www.panosc.eu/" target="_blank" rel="noopener">
+<img src="/images/logos/panosc-logo.svg" alt="PaNOSC">
+</a>
+</div>
+
+<div class="science-cluster">
+<div class="science-cluster-text">
+UDPipe language processing
+suite
+</div>
+<a href="https://sshopencloud.eu/" target="_blank" rel="noopener">
+<img src="/images/logos/sshoc-logo.svg" alt="SSHOC">
+</a>
+</div>
+
+</div>
+
+{{< figure src="/images/logos/EOSCEverse_PosColour_full.svg" alt="EVERSE project full logo" class="mx-auto max-w-xs" >}}
+
+
+Coordinated by the Centre for Research and Technology Hellas (CERTH) and the Barcelona Supercomputing Center (BSC), EVERSE partners with the EOSC science clusters to embed quality practices in their emerging use cases:
+
+<div style="text-align: center; margin: 2rem auto;">
+  <img
+    src="/images/misc/scienceclusters.jpg"
+    alt="Science Clusters"
+    style="display: block; width: min(420px, 90%); height: auto; margin: 0 auto;"
+  >
+</div>
+
+<p>
+  Coordinated by the
+  <a href="https://www.certh.gr" target="_blank" rel="noopener">Centre for Research and Technology Hellas (CERTH)</a>
+  and the
+  <a href="https://www.bsc.es/" target="_blank" rel="noopener">Barcelona Supercomputing Center (BSC)</a>,
+  EVERSE partners with the
+  <a href="https://science-clusters.eu" target="_blank" rel="noopener">EOSC science clusters</a>
+  to embed quality practices in their emerging use cases:
+</p>
+
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  max-width: 1150px;
+  margin: 2rem auto;
+  text-align: center;
+">
+
+  <div style="width: 180px; display: flex; flex-direction: column; align-items: center;">
+    <div style="font-size: 0.9rem; font-weight: 500; min-height: 4.2rem; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 0.75rem;">
+      Essential climate<br>variables
+    </div>
+    <a href="https://envri.eu" target="_blank" rel="noopener">
+      <img
+        src="/images/logos/envri-community-logo.svg"
+        alt="ENVRI Community"
+        style="display: block; max-width: 130px; max-height: 70px; width: auto; height: auto; object-fit: contain;"
+      >
+    </a>
+  </div>
+
+  <div style="width: 180px; display: flex; flex-direction: column; align-items: center;">
+    <div style="font-size: 0.9rem; font-weight: 500; min-height: 4.2rem; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 0.75rem;">
+      The Workflow Execution Service<br>backend with RO-Crate
+    </div>
+    <a href="https://lifescience-ri.eu/home.html" target="_blank" rel="noopener">
+      <img
+        src="/images/logos/life-science-ri-logo.svg"
+        alt="Life Science RI"
+        style="display: block; max-width: 130px; max-height: 70px; width: auto; height: auto; object-fit: contain;"
+      >
+    </a>
+  </div>
+
+  <div style="width: 180px; display: flex; flex-direction: column; align-items: center;">
+    <div style="font-size: 0.9rem; font-weight: 500; min-height: 4.2rem; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 0.75rem;">
+      Particle physics and<br>astrophysics in the Dark<br>Matter Science Project
+    </div>
+    <a href="https://projectescape.eu/" target="_blank" rel="noopener">
+      <img
+        src="/images/logos/escape-logo.svg"
+        alt="ESCAPE"
+        style="display: block; max-width: 130px; max-height: 70px; width: auto; height: auto; object-fit: contain;"
+      >
+    </a>
+  </div>
+
+  <div style="width: 180px; display: flex; flex-direction: column; align-items: center;">
+    <div style="font-size: 0.9rem; font-weight: 500; min-height: 4.2rem; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 0.75rem;">
+      Photon and neutron science<br>through LEAPS/LENS
+    </div>
+    <a href="https://www.panosc.eu/" target="_blank" rel="noopener">
+      <img
+        src="/images/logos/panosc-logo.svg"
+        alt="PaNOSC"
+        style="display: block; max-width: 130px; max-height: 70px; width: auto; height: auto; object-fit: contain;"
+      >
+    </a>
+  </div>
+
+  <div style="width: 180px; display: flex; flex-direction: column; align-items: center;">
+    <div style="font-size: 0.9rem; font-weight: 500; min-height: 4.2rem; display: flex; align-items: flex-end; justify-content: center; margin-bottom: 0.75rem;">
+      UDPipe language processing<br>suite
+    </div>
+    <a href="https://sshopencloud.eu/" target="_blank" rel="noopener">
+      <img
+        src="/images/logos/sshoc-logo.svg"
+        alt="SSHOC"
+        style="display: block; max-width: 130px; max-height: 70px; width: auto; height: auto; object-fit: contain;"
+      >
+    </a>
+  </div>
+
+</div>
+
+<div style="text-align: center; margin: 2rem auto;">
+  <img
+    src="/images/logos/EOSCEverse_PosColour_full.svg"
+    alt="EVERSE project full logo"
+    style="display: block; width: min(260px, 80%); height: auto; margin: 0 auto;"
+  >
+</div>
+
