@@ -16,9 +16,8 @@ This was a question explored by [Kenneth Rioja](/about/everse_people/kennethrioj
 We asked Kenneth about his experience to find out more. Here’s what he had to say...
 <br>
 
-<div style="text-align:center;">
-  <img src="trainphoto.jpeg" alt="photo" style="max-width:100%;">
-</div>
+<img src="trainphoto.jpeg" alt="photo" style="display:block; margin-left:auto; margin-right:auto; max-width:100%;">
+
 
 <span style="font-size:4rem; color:#4a90d9; line-height:0.1em; vertical-align:-0.4em;">&#8220;</span> The clock hits 5:10, and it’s time to wake up and get ready to travel to the RSE Swiss Day in ETH Zurich (ETHZ). After a three hour train journey, I arrived and went straight to the welcome coffee. 
 
@@ -38,9 +37,7 @@ There is also a huge question mark over the maintenance of research software. Fu
 
 On a personal note, I saw one of our summer students from last year, which was a nice surprise!   <span style="font-size:4rem; color:#4a90d9; line-height:0.1em; vertical-align:-0.4em;">&#8221;</span>
 
-<div style="text-align:center;">
-  <img src="carlaphoto.jpeg" alt="photo" style="max-width:100%;">
-</div>
+<img src="carlaphoto.jpeg" alt="photo" style="display:block; margin-left:auto; margin-right:auto; max-width:100%;">
 
 
 <br>
