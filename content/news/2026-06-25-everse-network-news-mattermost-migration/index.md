@@ -1,12 +1,12 @@
 ---
-title: "EVERSE Network Members: action required — migrate to our new Mattermost platform by 3rd July"
+title: "EVERSE Network Members: action required — migration to new Mattermost platform"
 draft: false
 date: 2026-06-25T00:00:00Z
 start_date: 2026-06-25T00:00:00Z
 end_date: 2026-06-25T00:00:00Z
 summary: >
     Important information for our Network members! 
-    The Mattermost instance currently hosted by Helmholtz will be discontinued on 15 July. We are migrating to a new instance hosted by CERN. The channels and layout will remain the same. Please create your account on the new CERN-hosted instance as soon as possible, and no later than Friday 3rd July, to ensure continuity.
+    The Mattermost instance currently hosted by Helmholtz was discontinued on 15 July and we have migrated to a new instance hosted by CERN. The channels and layout all remain the same. Please create your account on the new CERN-hosted instance as soon as possible, and no later than Friday 3rd July, to ensure continuity.
  
 ---
 
@@ -14,7 +14,7 @@ summary: >
   <img src="feature.png" alt="photo">
 </p>
 
-The Mattermost instance currently hosted by Helmholtz will be discontinued on 15 July. We are migrating to a new instance hosted by CERN. The channels and layout will remain the same. Please create your account on the new CERN-hosted instance as soon as possible, and **no later than Friday 3rd July**, to ensure continuity. Please follow the instructions below.
+The Mattermost instance currently hosted by Helmholtz was discontinued on 15 July and we have migrated to a new instance hosted by CERN. The channels and layout all remain the same. Please create your account on the new CERN-hosted instance as soon as possible to ensure continuity. Please follow the instructions below.
 
 To help you in the process of moving platforms, we have included all the information and steps you will need to create your account. 
 
