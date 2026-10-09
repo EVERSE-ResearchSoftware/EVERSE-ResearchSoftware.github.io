@@ -22,7 +22,7 @@ RSQKit brings together:
 - And is a key item mentioned in the outreach and promoted to the [EVERSE Network](https://everse.software/network/) and via [EVERSE WP1](https://everse.software/workpackages/01_framework_european_network/)
 
 <figure class="float-right m-2 w-[30%]">
-{{< figure src="/about/everse_people/shoaibsufi/feature.jpg" alt="Shoaib Sufi profile picture">}}
+{{< figure src="/images/michael-sparks-profile-photo.jpeg" alt="Michael Sparks profile picture">}}
 {{< figure src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" >}}
 </figure>
 
@@ -30,7 +30,7 @@ RSQKit brings together:
 
 ### Project lead
 
-[Shoaib Sufi](/about/everse_people/shoaibsufi) leads the RSQKit project and its engagement wih other parts, products and communities of EVERSE, as well as adjacent open research communities.
+[Michael Sparks](https://www.linkedin.com/in/michael-sparks-uk/) leads the RSQKit project and its engagement with other parts, products and communities of EVERSE, as well as adjacent open research communities.
 
 ### Infrastructure lead
 
