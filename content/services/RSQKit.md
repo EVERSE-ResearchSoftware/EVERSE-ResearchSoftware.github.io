@@ -22,7 +22,7 @@ RSQKit brings together:
 - And is a key item mentioned in the outreach and promoted to the [EVERSE Network](https://everse.software/network/) and via [EVERSE WP1](https://everse.software/workpackages/01_framework_european_network/)
 
 <figure class="float-right m-2 w-[30%]">
-{{< figure src="/assets/images/michael sparks profile photo.jpg" alt="Michael Sparks profile picture">}}
+{{< figure src="/images/michael-sparks-profile-photo.jpeg" alt="Michael Sparks profile picture">}}
 {{< figure src="/about/everse_people/aleksandranenadic/feature.jpg" alt="Aleksandra Nenadic profile picture" >}}
 </figure>
 
