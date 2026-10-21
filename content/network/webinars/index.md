@@ -4,7 +4,7 @@ weight: 200
 draft: false
 display_in_summary: true
 ---
-As part of our engagement with and within the EVERSE Network of Research Software quality, we organsie a recurrent webinar series on all things Research Software Quality (RSQ). This is coordinated by [WP1](workpackages/01_framework_european_network/) and [WP5](/workpackages/05_capacity_and_recognition/).
+As part of our engagement with and within the EVERSE Network of Research Software quality, we organise a recurring webinar series on all things Research Software Quality (RSQ). This is coordinated by [WP1](workpackages/01_framework_european_network/) and [WP5](/workpackages/05_capacity_and_recognition/).
 
 The webinars will happen monthly, alternating between a general RSQ topic and training session. For this we will have our project members to present what we are working on, as well as inviting researchers (who code), research software engineers, professionals from related fields and Science Cluster members to give an outside view.
 
@@ -14,7 +14,7 @@ ___
 ## <font color="3ea3dc"> EVERSE Webinar overview </font>
 
 | **Time & Date** | **Topic** | **Event page** |
-|---|---|---|
+| 10th November 2026, 15:00 CET| AI Guidance for Research Software Engineering Team Leaders|[Indico agenda and registration](https://indico.cern.ch/event/1744683/) |
 | 15th September 2026, 11 AM CEST | Introducing the TechRadar for Research Software Quality| [Indico agenda and registration](https://indico.cern.ch/event/1720136/) |
 | 23rd June 2026, 11 AM CEST | A Training Catalogue for Research Software Quality | [Indico agenda and registration](https://indico.cern.ch/event/1697013/) |
 | 28th April 2026, 3 PM CEST | A Credit and Recognition Framework for RSEs and Trainers | [Indico agenda ](https://indico.cern.ch/event/1663496/) |
@@ -26,4 +26,4 @@ ___
 | 21st May 2025, 11 AM CEST | ENVRI-Hub NEXT & EVERSE Training Webinar: Research Software Quality Assessment | [Indico agenda](https://envri.eu/envri-hub-next-everse-training-webinar-research-software-quality-assessment/) |
 | 15th April 2025, 10 AM CEST | Building the Landscape of Software Quality and Defining Software Quality Indicators | [Indico agenda](https://indico.cern.ch/event/1531998/) |
 
-To synchronize with your calendar, copy-paste the following URL into your scheduling application. Contents will be automatically synchronized: <https://indico.cern.ch/category/19377/events.ics?user_token=212229_pMClLPnfmeBd0AW9NfvRjsaL7H_BRSuNbtEj54RXHTo>
+To synchronise with your calendar, copy-paste the following URL into your scheduling application. Contents will be automatically synchronized: <https://indico.cern.ch/category/19377/events.ics?user_token=212229_pMClLPnfmeBd0AW9NfvRjsaL7H_BRSuNbtEj54RXHTo>
