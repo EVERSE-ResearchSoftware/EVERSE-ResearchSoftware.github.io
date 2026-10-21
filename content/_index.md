@@ -7,7 +7,8 @@ weight: 10
 ---
 
 {{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
-**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming webinar: Introducing the TechRadar for Research Software Quality on Tuesday 15th September! [<span style="color: #ffffff;">Register here!</span>](https://indico.cern.ch/event/1720136/)*
+**<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming EVERSE - ReSA Webinar: AI Guidance for Research Software Engineering Team Leaders, on Tuesday 10th November
+[<span style="color: #ffffff;">- Register here!</span>](https://indico.cern.ch/event/1744683/)*
 {{< /alert >}}
 
 
