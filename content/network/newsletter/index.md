@@ -21,6 +21,7 @@ ____
 | 6 | January 2026 | [PDF](Newsletter-2026-01.pdf)
 | 7 | March 2026 | [PDF](Newsletter-2026-03.pdf)
 | 8 | June 2026 | [PDF](Newsletter-2026-06.pdf)
+| 9 | November 2026 | [PDF](Newsletter-2026-11.pdf)
 <!-- {{< a href="Newsletter-2024-10.pdf" download="Newsletter-2024-10.pdf" >}} Into the EVERSE - Nr. 1
 {{< /a >}} -->
 
