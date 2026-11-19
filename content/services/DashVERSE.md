@@ -1,5 +1,5 @@
 ---
-title: "DashVERSE"
+title: "About DashVERSE"
 description: The dashboard prototype for the EVERSE project.
 draft: false
 weight: 1100

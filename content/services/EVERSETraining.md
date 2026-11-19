@@ -1,5 +1,5 @@
 ---
-title: "EVERSE Training"
+title: "About EVERSE Training"
 description: Training and events to foster Research Software Quality
 draft: false
 weight: 1000

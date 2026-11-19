@@ -1,5 +1,5 @@
 ---
-title: EVERSE Technology Radar
+title: About EVERSE Technology Radar
 weight: 1100
 draft: false
 display_in_summary: true

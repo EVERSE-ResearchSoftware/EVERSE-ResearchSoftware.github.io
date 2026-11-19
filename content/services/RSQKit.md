@@ -1,5 +1,5 @@
 ---
-title: "Research Software Quality Kit"
+title: "About Research Software Quality Kit"
 description: Research Software Quality Kit
 draft: false
 weight: 1000
