@@ -6,6 +6,15 @@ weight: 1000
 display_in_summary: true
 ---
 
+{{< figure
+  src="images/services/RSQKitPreview-thumb.png"
+  alt="Preview of RSQKit"
+  class="float-right m-2 w-[50%]"
+  href="https://everse.software/RSQKit/"
+  target="_self"
+  nozoom="true"
+>}}
+
 The  [**Research Software Quality toolkit** (RSQKit)](https://everse.software/RSQKit/)
 is a community-curated knowledge base bringing together best practices,
 quality assessment guidance and expertise to support high-quality research

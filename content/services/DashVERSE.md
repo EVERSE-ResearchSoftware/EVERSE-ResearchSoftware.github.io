@@ -6,6 +6,15 @@ weight: 1100
 display_in_summary: true
 ---
 
+{{< figure
+  src="images/services/DashVersePreview-thumb.png"
+  alt="Preview of DashVERSE"
+  class="float-right m-2 w-[50%]"
+  href="https://www.dashverse.cloud/"
+  target="_self"
+  nozoom="true"
+>}}
+
 [**DashVERSE**](https://dashverse.cloud/) is the dashboard prototype specifically developed for the [EVERSE project](https://everse.software/). It serves as a central hub for visualizing the results of research software quality assessments, metrics, and compliance indicators across different scientific clusters and infrastructures.
 
 By integrating data from the [EVERSE indicators and dimensions](https://github.com/EVERSE-ResearchSoftware/indicators) and other quality assessment tools, DashVERSE provides actionable insights through role-based dashboards tailored for different stakeholders:
