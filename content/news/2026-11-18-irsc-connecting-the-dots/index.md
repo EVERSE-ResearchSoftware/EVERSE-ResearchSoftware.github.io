@@ -19,7 +19,7 @@ Rather than proposing another organisational structure, the session focused on a
 
 
 <img src="feature.png" alt="photo" style="display:block; margin-left:auto; margin-right:auto; max-width:100%;">
-<p style="text-align:center;">Photo credit: ReSA</p>
+<p style="text-align:center;">Photo credit: <a href="https://danmoganphotography.co.uk"> Dan Mogan Photography </a></p>
 
 ## Where are the missing connections?
 
@@ -48,6 +48,9 @@ The discussion also touched on the relationship between established initiatives 
 Importantly, community building requires sustained effort. Participants highlighted the critical role of community managers, mentors and other individuals who connect people and initiatives. However, this work is often under-resourced and dependent on the enthusiasm of a relatively small number of individuals, creating risks of burnout and loss of continuity.
 
 **Strengthening the ecosystem therefore requires not only better connections, but also greater recognition, institutional support and dedicated resources for the people who maintain them.**
+
+<img src="irscpic.jpg" alt="photo" style="display:block; margin-left:auto; margin-right:auto; max-width:100%;">
+<p style="text-align:center;">Photo credit: <a href="https://danmoganphotography.co.uk"> Dan Mogan Photography </a></p>
 
 ## From shared challenges to practical opportunities
 
@@ -80,7 +83,7 @@ These ideas provide a useful starting point for continued engagement between int
 A particularly important consideration is ensuring that any follow-up builds on existing community structures rather than introducing new coordination burdens.
 
 <img src="irsc image.jpg" alt="photo" style="display:block; margin-left:auto; margin-right:auto; max-width:100%;">
-<p style="text-align:center;">Photo credit: ReSA</p>
+<p style="text-align:center;">Photo credit: <a href="https://danmoganphotography.co.uk"> Dan Mogan Photography </a></p>
 
 ## Connecting the dots, together
 
@@ -96,16 +99,14 @@ We thank everyone who contributed their experiences, ideas and perspectives duri
 
 ## Resources
 
-* [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/)
+* [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/)grt3trertretrtyre
+
 * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 * [Research Software Quality Toolkit (RSQKit)](https://everse.software/RSQKit/)
 * [Programming Café Playbook](https://code-cafes-nl.github.io/cafe_playbook/)
 
 
 *Article by: [Selim Kalayci](https://www.linkedin.com/in/selimkalayci/), [Carlos Martinez](/about/everse_people/carlosmartinez-ortiz/), [Shoaib Sufi](/about/everse_people/shoaibsufi/), [Alexia Yiannouli](/about/everse_people/alexiayiannouli/), [John Apostolakis](/about/everse_people/johnapostolakis/) & [Jonathan Tedds](/about/everse_people/jonathantedds/)*
-
-
-
 
 
 
