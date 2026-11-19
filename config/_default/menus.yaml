@@ -11,7 +11,6 @@
 # ordered by weight from lowest to highest.
 
 main:
-
   # About tab
   - name: About
     weight: 10
@@ -35,6 +34,12 @@ main:
     pageRef: about/scientific-advisory-board
     weight: 50
     parent: About
+  - name: EVERSE Services
+    identifer: everseservices
+    weight: 60
+    parent: About
+    pageRef: about/services
+
 
   # Workpackage tab
   - name: Work Packages
@@ -75,25 +80,45 @@ main:
     identifer: WP6
     parent: Work Packages
 
-  # Services tab
-  - name: Services
-    weight: 30
+    # Pages *About* EVERSE Services (previously the services tab)
   - name: RSQkit
     weight: 10
     pageRef: services/RSQkit
-    parent: Services
+    parent: everseservices
   - name: TechRadar
     weight: 20
     pageRef: services/TechRadar
-    parent: Services
+    parent: everseservices
   - name: DashVERSE
     weight: 30
     pageRef: services/DashVERSE
-    parent: Services
   - name: EVERSE Training
     weight: 40
     pageRef: services/EVERSETraining
+    parent: everseservices
+
+
+    # Services tab - now links to EVERSE Services, as per user expectation
+  - name: Services
+    identifer: services
+    weight: 10
+  - name: RSQkit
+    weight: 10
+    url: https://everse.software/RSQKit/
     parent: Services
+  - name: TechRadar
+    weight: 20
+    url: https://everse.software/TechRadar/
+    parent: Services
+  - name: DashVERSE
+    weight: 30
+    url: https://www.dashverse.cloud/
+    parent: Services
+  - name: EVERSE Training
+    weight: 40
+    url: https://everse-training.app.cern.ch/
+    parent: Services
+
   # - name: SMP
   #   weight: 20
   #   pageRef: services/SMP
@@ -114,6 +139,10 @@ main:
   #   weight: 30
   #   pageRef: training/recognition
   #   parent: Training
+
+
+
+
 
   # Resources tab
   - name: Resources

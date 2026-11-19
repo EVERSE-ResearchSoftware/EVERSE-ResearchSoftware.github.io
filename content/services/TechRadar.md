@@ -1,10 +1,18 @@
 ---
-title: EVERSE Technology Radar
+title: About EVERSE Technology Radar
 weight: 1100
 draft: false
 display_in_summary: true
 ---
  
+{{< figure
+  src="images/services/TechRadarPreview-thumb.png"
+  alt="Preview of EVERSE TechRadar"
+  class="float-right m-2 w-[50%]"
+  href="https://everse.software/TechRadar/"
+  target="_self"
+  nozoom="true"
+>}}
 
 The [**EVERSE Technology Radar**](https://everse.software/TechRadar/) is part of the EVERSE project and serves as a platform to collect, classify, and present tools and services that help assess and enhance Research Software Quality.
 

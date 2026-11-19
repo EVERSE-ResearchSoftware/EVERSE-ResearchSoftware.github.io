@@ -1,10 +1,19 @@
 ---
-title: "EVERSE Training"
+title: "About EVERSE Training"
 description: Training and events to foster Research Software Quality
 draft: false
 weight: 1000
 display_in_summary: true
 ---
+
+{{< figure
+  src="images/services/EVERSETrainingPreview-thumb.png"
+  alt="Preview of EVERSE Training"
+  class="float-right m-2 w-[50%]"
+  href="https://everse-training.app.cern.ch/"
+  target="_self"
+  nozoom="true"
+>}}
 
 [EVERSE Training](https://everse-training.app.cern.ch/) is a training catalogue for early career scientists and engineers to learn the best practices when entering the world of [research software](https://everse.software/RSQKit/research_software) engineering (RSE). It has been designed to be a one-stop shop for trainees to discover content and for trainers to showcase their trainings.
 
