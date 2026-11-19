@@ -6,12 +6,17 @@ weight: 1000
 display_in_summary: true
 ---
 
-The framework for research software excellence will incorporate aspects involving community curation, quality assessment, and best practices for research software. This collective knowledge will be captured in the [**Research Software Quality toolkit** (RSQKit)](https://everse.software/RSQKit/), a knowledge base to gather and curate expertise that will contribute to high-quality software and code across different disciplines.
+The  [**Research Software Quality toolkit** (RSQKit)](https://everse.software/RSQKit/)
+is a community-curated knowledge base bringing together best practices,
+quality assessment guidance and expertise to support high-quality research
+software across different disciplines.  It forms part of EVERSE's framework
+for research software excellence, connecting collective knowledge and
+experience to help researchers and developers improve the quality and
+sustainability of their software.
 
-By embedding the RSQKit and services into the EOSC Science Clusters, EVERSE will demonstrate improvements in the quality of research software and maximise its reuse, leading to standardised software development practices and sustainable research software. Furthermore, we will drive recognition of software and support career progress for developers, from researchers who code to Research Software Engineers (RSEs), raising their capacity to guarantee software quality.
+By embedding the RSQKit and services into the EOSC Science Clusters, EVERSE is actively working to improve the quality of research software and maximise its reuse, encouraging standardised software development practices and sustainable research software. Furthermore, we are driving recognition of software and supporting career progress for developers, from researchers who code to Research Software Engineers (RSEs), raising their capacity to deliver quality software.
 
 Visit the [RSQKit](https://everse.software/RSQKit/) to check out the latest advice and training links, and [make comments and suggestions via its Editorial Board](https://everse.software/RSQKit/get_involved). See [RSQKit on GitHub](https://github.com/EVERSE-ResearchSoftware/RSQKit).
-
 
 RSQKit brings together:
 - [Best practices](https://everse.software/RSQKit/tasks) [internally and externally sourced and authored](https://github.com/EVERSE-ResearchSoftware/RSQKit/issues/224) under the auspicies of [EVERSE WP2](https://everse.software/workpackages/02_best_practices/)
