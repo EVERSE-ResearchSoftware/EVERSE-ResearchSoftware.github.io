@@ -6,11 +6,12 @@ draft: false
 weight: 10
 ---
 
+<!--
 {{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
 **<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming EVERSE - ReSA Webinar: AI Guidance for Research Software Engineering Team Leaders, on Tuesday 10th November
 [<span style="color: #ffffff;">- Register here!</span>](https://indico.cern.ch/event/1744683/)*
 {{< /alert >}}
-
+-->
 
 ## High Quality Research Software for the Communities by the Communities
 
