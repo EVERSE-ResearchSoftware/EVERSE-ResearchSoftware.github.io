@@ -15,6 +15,7 @@ ___
 
 | **Time & Date** | **Topic** | **Event page** |
 |---|---|---|
+| 15th December 2026, 10:00 CET | Capacity Building and Recognition: An Integrated Framework for Research Software Engineering | [Indico agenda and registration](https://indico.cern.ch/event/1755047/) |
 | 10th November 2026, 15:00 CET | AI Guidance for Research Software Engineering Team Leaders | [Indico agenda and registration](https://indico.cern.ch/event/1744683/) |
 | 15th September 2026, 11 AM CEST | Introducing the TechRadar for Research Software Quality | [Indico agenda and registration](https://indico.cern.ch/event/1720136/) |
 | 23rd June 2026, 11 AM CEST | A Training Catalogue for Research Software Quality | [Indico agenda and registration](https://indico.cern.ch/event/1697013/) |
