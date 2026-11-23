@@ -8,7 +8,7 @@ weight: 10
 
 {{< alert icon="bell" iconColor="#ffffff" cardColor="#80539a" textColor="#e4e4e3" >}}
 **<span style="color: #ffffff;">Latest:</span>** *Register for our upcoming EVERSE Webinar - Capacity Building and Recognition: An Integrated Framework for Research Software Engineering
-[<span style="color: #ffffff;">- Register here!</span>](https://indico.cern.ch/event/1755047/)*s
+[<span style="color: #ffffff;">- Register here!</span>](https://indico.cern.ch/event/1755047/)*
 {{< /alert >}}
 
 ## High Quality Research Software for the Communities by the Communities
