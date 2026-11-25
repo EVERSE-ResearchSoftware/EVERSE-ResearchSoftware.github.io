@@ -99,7 +99,7 @@ We thank everyone who contributed their experiences, ideas and perspectives duri
 
 ## Resources
 
-* [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/)grt3trertretrtyre
+* [International Research Software Conference (IRSC)](https://www.researchsoft.org/irsc/)
 
 * [Research Software Alliance (ReSA)](https://www.researchsoft.org/)
 * [Research Software Quality Toolkit (RSQKit)](https://everse.software/RSQKit/)
